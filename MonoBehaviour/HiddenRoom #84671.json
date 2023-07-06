@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1203002915834102617
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9210171222297313834
+  },
+  "m_Name": "",
+  "spriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 5397252667676930780
+  },
+  "touchingSheep": [],
+  "playSound": 1
+}

@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 2955b00c706d90f4facd0b4d41e9fcb2
+timeCreated: 1688578935
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: particle_bubble_0
+    21300002: particle_bubble_1
+    21300004: particle_bubble_2
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 128
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: particle_bubble_0
+      rect:
+        serializedVersion: 2
+        x: 0.05131668
+        y: 83.02675
+        width: 47.94868
+        height: 44.9465
+      alignment: 9
+      pivot: {x: 0.4994648, y: 0.4888757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.02566, y: -3.499996}
+        - {x: -13.02566, y: -4.499996}
+        - {x: -7.02566, y: 1.500004}
+        - {x: -11.02566, y: 0.5000038}
+        - {x: -12.02566, y: -2.499996}
+      physicsShape:
+      - - {x: -20.02566, y: 20.50001}
+        - {x: -23.02566, y: 17.5}
+        - {x: -23.02566, y: -9.499996}
+        - {x: -17.02566, y: -21.5}
+        - {x: 8.97434, y: -21.5}
+        - {x: 22.97434, y: -8.499996}
+        - {x: 22.97434, y: 16.50001}
+        - {x: 12.97434, y: 20.50001}
+      - - {x: -12.02566, y: -8.499996}
+        - {x: 7.97434, y: 12.5}
+        - {x: 11.97434, y: -5.499996}
+        - {x: 2.974341, y: -13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce09314a8304860bb3e7d071f57f103
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle_bubble_1
+      rect:
+        serializedVersion: 2
+        x: 49.07612
+        y: 82.02675
+        width: 46.89713
+        height: 45.9465
+      alignment: 9
+      pivot: {x: 0.488812, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.47532, y: 23}
+        - {x: 22.47532, y: 16}
+        - {x: 23.47532, y: 6.000002}
+        - {x: 23.47532, y: -15}
+        - {x: 16.47532, y: -23}
+        - {x: -9.524685, y: -23}
+        - {x: -15.52468, y: -22}
+        - {x: -22.52468, y: -8.999998}
+        - {x: -23.52468, y: -2.999998}
+        - {x: -23.52468, y: 4.000002}
+        - {x: -18.52468, y: 19}
+        - {x: -6.524685, y: 23}
+      physicsShape:
+      - - {x: -11.52468, y: 21}
+        - {x: -21.52469, y: 16}
+        - {x: -21.52469, y: -8.999998}
+        - {x: -10.52468, y: -21}
+        - {x: 16.47532, y: -21}
+        - {x: 21.47532, y: -15}
+        - {x: 21.47532, y: 9.000002}
+        - {x: 16.47532, y: 21}
+      - - {x: -13.52469, y: -1.999998}
+        - {x: -7.524685, y: 10}
+        - {x: 6.475316, y: 12}
+        - {x: 13.47532, y: -2.999998}
+        - {x: 6.475316, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef604803fa4d4b3ab2ff356a7b1be6e2
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle_bubble_2
+      rect:
+        serializedVersion: 2
+        x: 0.02675098
+        y: 36.07612
+        width: 47.97325
+        height: 45.91096
+      alignment: 9
+      pivot: {x: 0.4997212, y: 0.4993116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.98663, y: -23.0316}
+        - {x: -9.013374, y: -23.0316}
+        - {x: -24.01337, y: -15.0316}
+        - {x: -24.01337, y: 9.968395}
+        - {x: -20.01337, y: 21.9684}
+        - {x: -17.01337, y: 22.9684}
+        - {x: 14.98663, y: 22.9684}
+        - {x: 23.98663, y: 13.9684}
+        - {x: 23.98663, y: -12.0316}
+      physicsShape:
+      - - {x: 15.98663, y: 18.9684}
+        - {x: 2.986626, y: 20.9684}
+        - {x: -19.01338, y: 20.9684}
+        - {x: -22.01337, y: 12.9684}
+        - {x: -22.01337, y: -11.0316}
+        - {x: -11.01337, y: -21.03161}
+        - {x: 10.98663, y: -21.03161}
+        - {x: 23.98663, y: -6.031605}
+        - {x: 23.98663, y: 6.968396}
+        - {x: 22.98663, y: 9.968395}
+      - - {x: -8.013374, y: -12.03161}
+        - {x: -13.01338, y: 8.968395}
+        - {x: -5.013374, y: 11.9684}
+        - {x: 12.98663, y: 9.968395}
+        - {x: 15.98663, y: -0.03160477}
+        - {x: 1.986626, y: -13.03161}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc91855a3f9468fb8a0869197cacb73
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

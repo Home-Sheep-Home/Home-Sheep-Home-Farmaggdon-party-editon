@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2509444882325504875
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 843940964747876783
+  },
+  "m_Name": "",
+  "audioString": "rotationloop",
+  "listeners": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6899244645344145610
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2789828514922741125
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4540922025574617451
+    }
+  ],
+  "maxDistance": 20.0,
+  "maxVolume": 1.0,
+  "initialDelay": 0.0,
+  "persistent": 0
+}

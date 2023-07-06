@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2899390787716679680
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6608180357661020746
+  },
+  "m_Name": "",
+  "spriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 4032299468681500170
+  },
+  "active": 0,
+  "tags": [
+    "hintObject"
+  ]
+}

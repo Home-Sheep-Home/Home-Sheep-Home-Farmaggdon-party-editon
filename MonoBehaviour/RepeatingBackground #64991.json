@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3736451066069890968
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2093353924795228819
+  },
+  "m_Name": "",
+  "distanceInterval": 23.65,
+  "speed": 7.0,
+  "local": 0,
+  "objects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5796287179791054835
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7901545876998359865
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1936458513561176102
+    }
+  ],
+  "referencePosition": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

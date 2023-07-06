@@ -1,0 +1,181 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3597953738609509630
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5072290087947450789
+  },
+  "m_Name": "",
+  "body": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "spriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 2726817862050453507
+  },
+  "physicsMat": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "active": 0,
+  "tags": [
+    "levelObject",
+    "isSheep",
+    "isShaun",
+    "conductive"
+  ],
+  "contactNoise": "",
+  "breakableOnShirley": 0,
+  "unstickOnSheep": 0,
+  "triggersWell": 0,
+  "onLift": 0,
+  "sheepField": 0,
+  "touchingPortal": 0,
+  "hasSpring": 0,
+  "springTouched": 0,
+  "oneWay": 0,
+  "motorSpeed": 0.0,
+  "portalCount": 0,
+  "portalling": 0,
+  "portalProof": 0,
+  "exploded": 0,
+  "inWater": 0,
+  "smokeSpawner": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "explosivePower": 0.0,
+  "buoyancy": 7.0,
+  "isMagnetic": 0,
+  "floatPoints": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2054617253536955481
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7109706691839526253
+    }
+  ],
+  "offsetAnimator": {
+    "m_FileID": 0,
+    "m_PathID": -5806279363759804212
+  },
+  "switchCount": -1,
+  "identity": 1,
+  "sheepAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -6031626072127376135
+  },
+  "topShape": {
+    "m_FileID": 0,
+    "m_PathID": 7789023317439320886
+  },
+  "leftShape": {
+    "m_FileID": 0,
+    "m_PathID": 4290194321973969069
+  },
+  "rightShape": {
+    "m_FileID": 0,
+    "m_PathID": 1884527695251163344
+  },
+  "bottomShape": {
+    "m_FileID": 0,
+    "m_PathID": -1166705925275154782
+  },
+  "highlight": {
+    "m_FileID": 0,
+    "m_PathID": 3042455354563872503
+  },
+  "playerNumberSprite": {
+    "m_FileID": 0,
+    "m_PathID": 7053702159437748338
+  },
+  "parachute": {
+    "m_FileID": 0,
+    "m_PathID": 8978977432886371707
+  },
+  "zap": {
+    "m_FileID": 0,
+    "m_PathID": 1991568534133787332
+  },
+  "smoke": {
+    "m_FileID": 0,
+    "m_PathID": 5640757025887083033
+  },
+  "helmet": {
+    "m_FileID": 0,
+    "m_PathID": 4805619947301124507
+  },
+  "sleepingZeds": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "smokeParticles": {
+    "m_FileID": 0,
+    "m_PathID": -2093040730730563095
+  },
+  "drippingParticles": {
+    "m_FileID": 0,
+    "m_PathID": 62233582597432998
+  },
+  "bubbleParticles": {
+    "m_FileID": 0,
+    "m_PathID": 9180896605455559968
+  },
+  "disableStuckJump": 0,
+  "invertControls": 0,
+  "useTint": 1,
+  "startingAnimDirection": "r",
+  "impulseJump": 6.3,
+  "impulseJumpWater": 8.5,
+  "impulseWalk": 0.3,
+  "impulseAir": 0.2,
+  "wallJumpSpeed": 4.5,
+  "maxWalk": 4.0,
+  "maxAir": 4.0,
+  "bubbleDelay": 61,
+  "spaceSheep": 0,
+  "alwaysRunning": 0,
+  "animDirection": "r",
+  "animHitL": 0,
+  "animHitR": 0,
+  "animHitT": 0,
+  "animPrevHitL": 0,
+  "animPrevHitR": 0,
+  "animPrevHitT": 0,
+  "electrocuted": 0,
+  "electricOverride": 0,
+  "selected": 0,
+  "PlayerControlled": 0,
+  "id": "",
+  "jumpDelay": -1408,
+  "wasInWater": 0,
+  "standingOn": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "speedCompensation": 1.0,
+  "locked": 0,
+  "touchingOneWay": 0,
+  "stoodUnder": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "walkType": "walk",
+  "touchingField": 0,
+  "inDanger": 0,
+  "inBeam": 0,
+  "inBox": 0,
+  "touchingHat": 0,
+  "wallJumpDir": 0,
+  "airborne": 0,
+  "hasParachute": 0,
+  "parachuteDeployed": 0,
+  "onRoad": 0,
+  "tint": 1.0
+}

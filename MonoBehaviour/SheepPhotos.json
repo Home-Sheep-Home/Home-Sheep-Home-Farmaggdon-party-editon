@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2851637938715907585
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 626215175715778300
+  },
+  "m_Name": "",
+  "shaunPhoto": {
+    "m_FileID": 0,
+    "m_PathID": 7895783045531058716
+  },
+  "shirleyPhoto": {
+    "m_FileID": 0,
+    "m_PathID": 5100660805635473968
+  },
+  "timmyPhoto": {
+    "m_FileID": 0,
+    "m_PathID": 626727853925647066
+  },
+  "enterSpeed": 1.0
+}

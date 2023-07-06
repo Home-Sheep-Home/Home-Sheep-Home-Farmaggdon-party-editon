@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: e91fba7d2dbbdc54082c1ac542f1ad72
+timeCreated: 1688578938
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pirates_waves_011
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 384
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pirates_waves_011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 384
+        height: 46.92388
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6180223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 192, y: -23.46194}
+        - {x: -192, y: -23.46194}
+        - {x: -192, y: 17.53806}
+        - {x: -118, y: 23.53806}
+        - {x: 192, y: 23.53806}
+      physicsShape:
+      - - {x: 14, y: -2.461937}
+        - {x: 33, y: -7.461937}
+        - {x: 41, y: -8.461937}
+        - {x: 64, y: -7.461937}
+        - {x: 80, y: -0.461937}
+        - {x: 91, y: 9.538063}
+        - {x: 97, y: 4.538063}
+        - {x: 124, y: -7.461937}
+        - {x: 141, y: -8.461937}
+        - {x: 148, y: -8.461937}
+        - {x: 169, y: -3.461937}
+        - {x: 192, y: 7.538063}
+        - {x: 192, y: 17.53806}
+        - {x: 190, y: 21.53806}
+        - {x: 185, y: 21.53806}
+        - {x: 174, y: 11.53806}
+        - {x: 144, y: 2.538063}
+        - {x: 120, y: 5.538063}
+        - {x: 91, y: 18.53806}
+        - {x: 89, y: 17.53806}
+        - {x: 41, y: 2.538063}
+        - {x: 11, y: 12.53806}
+        - {x: 2, y: 21.53806}
+        - {x: -4, y: 21.53806}
+        - {x: -27, y: 6.538063}
+        - {x: -43, y: 1.538063}
+        - {x: -65, y: 2.538063}
+        - {x: -93, y: 18.53806}
+        - {x: -101, y: 18.53806}
+        - {x: -104, y: 13.53806}
+        - {x: -119, y: 5.538063}
+        - {x: -134, y: 2.538063}
+        - {x: -155, y: 2.538063}
+        - {x: -171, y: 5.538063}
+        - {x: -192, y: 14.53806}
+        - {x: -192, y: 6.538063}
+        - {x: -186, y: 1.538063}
+        - {x: -176, y: -2.461937}
+        - {x: -164, y: -6.461937}
+        - {x: -135, y: -8.461937}
+        - {x: -130, y: -8.461937}
+        - {x: -113, y: -4.461937}
+        - {x: -97, y: 4.538063}
+        - {x: -86, y: 4.538063}
+        - {x: -78, y: -1.461937}
+        - {x: -66, y: -7.461937}
+        - {x: -61, y: -8.461937}
+        - {x: -32, y: -8.461937}
+        - {x: -18, y: -1.461937}
+        - {x: -13, y: 1.538063}
+        - {x: -2, y: 10.53806}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385a0d4189fc4835baeef70d4dc8d3c5
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

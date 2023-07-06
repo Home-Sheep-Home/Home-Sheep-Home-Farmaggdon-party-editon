@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8271874242418999288
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8001246949964627734
+  },
+  "m_Name": "",
+  "maxPoolSize": 10,
+  "preloadCount": 0,
+  "doNotDestroyOnLoad": 0,
+  "sendAwakeStartOnDestroyMessage": 1,
+  "sendPoolableActivateDeactivateMessages": 0,
+  "useReflectionInsteadOfMessages": 0
+}

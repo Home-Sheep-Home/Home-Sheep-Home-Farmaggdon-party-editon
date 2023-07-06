@@ -1,0 +1,49 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8315147076739031297
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 917885076908597618
+  },
+  "m_Name": "",
+  "bodies": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 805492398183510439
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6220545219243344908
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7354712205441617262
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8358519286270288471
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1751514545636444470
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8965398759421294651
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6345973419907022812
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9164317101251654227
+    }
+  ],
+  "tippingSoundID": "push-loop",
+  "minAngularVelocityForSound": 5.0,
+  "maxAngularVelocityForSound": 10.0
+}

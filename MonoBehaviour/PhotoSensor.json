@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7526299027918731339
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4663053183123473776
+  },
+  "m_Name": "",
+  "cameraAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 7658008851454760113
+  },
+  "cameraShape": {
+    "m_FileID": 0,
+    "m_PathID": -5957216414761963470
+  },
+  "sheepPhotos": {
+    "m_FileID": 0,
+    "m_PathID": 8284043451317552646
+  }
+}

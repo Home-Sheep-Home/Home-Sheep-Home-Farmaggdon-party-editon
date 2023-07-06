@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8545606611380953641
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 843940964747876783
+  },
+  "m_Name": "",
+  "audioString": "drone2loop",
+  "listeners": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7519970014176416830
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7828322074564558773
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5243205953224471927
+    }
+  ],
+  "maxDistance": 5.0,
+  "maxVolume": 1.0,
+  "initialDelay": 0.0,
+  "persistent": 1
+}

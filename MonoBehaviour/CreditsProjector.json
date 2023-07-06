@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6884415871548313782
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2797316762936281009
+  },
+  "m_Name": "",
+  "creditsScreens": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3234733021591674034
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3015842288510827334
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6750926640621950068
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1932096248804786040
+    }
+  ],
+  "flickerOverlayImage": {
+    "m_FileID": 0,
+    "m_PathID": -5941844670644167692
+  },
+  "flickerColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "shaunShadow": {
+    "m_FileID": 0,
+    "m_PathID": 3872039261205751995
+  },
+  "shirleyShadow": {
+    "m_FileID": 0,
+    "m_PathID": 1326285199250057482
+  },
+  "timmyShadow": {
+    "m_FileID": 0,
+    "m_PathID": -239369889773402223
+  },
+  "lightTransform": {
+    "m_FileID": 0,
+    "m_PathID": -8527326911037872352
+  }
+}

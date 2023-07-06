@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3525315706720454349
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6033276222431769022
+  },
+  "m_Name": "",
+  "scrollingImage": {
+    "m_FileID": 0,
+    "m_PathID": 2668021847052399738
+  },
+  "uvAnimationRate": {
+    "x": 0.0,
+    "y": -0.4
+  },
+  "initialOffSet": {
+    "x": 0.0,
+    "y": 0.25
+  }
+}

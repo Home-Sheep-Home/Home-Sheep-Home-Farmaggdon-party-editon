@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4011650013675720885
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -368574115143033674
+  },
+  "m_Name": "",
+  "collectableParticles": {
+    "m_FileID": 0,
+    "m_PathID": 572939032424920839
+  },
+  "explosionParticles": {
+    "m_FileID": 0,
+    "m_PathID": 143104046479934268
+  },
+  "smokeParticle": {
+    "m_FileID": 0,
+    "m_PathID": -3770374810043142977
+  },
+  "pirateSmokeParticle": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "splashParticles": {
+    "m_FileID": 0,
+    "m_PathID": 6818781434056976370
+  },
+  "smokeSpawner": {
+    "m_FileID": 2,
+    "m_PathID": -3398115971047388403
+  }
+}

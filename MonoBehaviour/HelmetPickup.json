@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5239810621421083069
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6514121044361780004
+  },
+  "m_Name": "",
+  "helmet": {
+    "m_FileID": 0,
+    "m_PathID": -5492213777445612542
+  },
+  "nextCollider": {
+    "m_FileID": 0,
+    "m_PathID": -2080578404747747679
+  }
+}

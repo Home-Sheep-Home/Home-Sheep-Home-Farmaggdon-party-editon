@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4608932203785703863
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2497846577408863501
+  },
+  "m_Name": "",
+  "playerPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 3330690607561542899
+  },
+  "sheepStatusDisplay": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "playerOneColor": {
+    "rgba": 4282736633
+  },
+  "playerTwoColor": {
+    "rgba": 4290760541
+  },
+  "playerThreeColor": {
+    "rgba": 4279354875
+  },
+  "playerOneSprite": {
+    "m_FileID": 0,
+    "m_PathID": -4244056036789345393
+  },
+  "playerTwoSprite": {
+    "m_FileID": 0,
+    "m_PathID": 3493289132285422094
+  },
+  "playerThreeSprite": {
+    "m_FileID": 0,
+    "m_PathID": 7587177613152416984
+  }
+}

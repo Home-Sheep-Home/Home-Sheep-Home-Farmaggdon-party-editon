@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6857030003353114361
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4531527151796150528
+  },
+  "m_Name": "",
+  "sky": {
+    "m_FileID": 0,
+    "m_PathID": 2720730696082805138
+  },
+  "background": {
+    "m_FileID": 0,
+    "m_PathID": -6291301134791961259
+  },
+  "foreground": {
+    "m_FileID": 0,
+    "m_PathID": -219503037789589433
+  },
+  "hiddenRoom": {
+    "m_FileID": 0,
+    "m_PathID": 3535467787860452646
+  }
+}

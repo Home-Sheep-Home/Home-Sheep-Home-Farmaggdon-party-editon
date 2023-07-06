@@ -1,0 +1,227 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5962120025492006
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5621532867225080401
+  },
+  "m_Name": "",
+  "levelBackground": {
+    "m_FileID": 0,
+    "m_PathID": 5226987227488771631
+  },
+  "hiddenRoom": {
+    "m_FileID": 0,
+    "m_PathID": 1349888265547108377
+  },
+  "levelCanvas": {
+    "m_FileID": 0,
+    "m_PathID": -7711995175814867951
+  },
+  "levelParticles": {
+    "m_FileID": 0,
+    "m_PathID": 5018023011437550721
+  },
+  "sheepManager": {
+    "m_FileID": 0,
+    "m_PathID": -7924681540160880913
+  },
+  "hints": {
+    "m_FileID": 0,
+    "m_PathID": 1639944362043858656
+  },
+  "shakeLevel": 0,
+  "scaffoldLevel": 0,
+  "objectList": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2036729496490526310
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -806943512694246240
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1117761648086202958
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4913552764342183035
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4943890469111613274
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7539462299184132018
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1111803774597640814
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 458421060256616005
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9097347914649666341
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4324046958499706268
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3110140070426790504
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5792347331922459298
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3066566002183156974
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6840115234945707939
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4777302223565401581
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4970180461172735943
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2887366821460009907
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6964752068775575891
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3289473899030340688
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2026121383212365852
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1322071038941409000
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7756151672574092315
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5702938522717829704
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3043726031060641685
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1077804244377345932
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2984424885680299474
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7478907586683439404
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1294651218589957139
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2774202599686705023
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5595338088418789691
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4072501911871756140
+    }
+  ],
+  "restartAllowed": 0,
+  "goalData": {
+    "w": 0.0,
+    "h": 0.0
+  },
+  "goal": {
+    "m_FileID": 0,
+    "m_PathID": -1077804244377345932
+  },
+  "sheepLock": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "changeSheepOnLock": 0,
+  "sheepUnlock": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "triggerBreakage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "triggerFalling": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "planks": [],
+  "bucket": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "windsock": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "scissorLift": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "aliens": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "farmer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "sign": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4242235687032620263
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9093761404632884750
+  },
+  "m_Name": "",
+  "objectToFollow": {
+    "m_FileID": 0,
+    "m_PathID": 2679083917698753271
+  }
+}

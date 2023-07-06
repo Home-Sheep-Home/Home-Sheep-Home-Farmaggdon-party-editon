@@ -1,0 +1,88 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1027927175069562024
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4539574673190815966
+  },
+  "m_Name": "",
+  "body": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "spriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 8869093452713481214
+  },
+  "physicsMat": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "active": 0,
+  "tags": [
+    "levelObject",
+    "isTeleporter",
+    "isSensor",
+    "isStatic"
+  ],
+  "contactNoise": "",
+  "breakableOnShirley": 0,
+  "unstickOnSheep": 0,
+  "triggersWell": 0,
+  "onLift": 0,
+  "sheepField": 0,
+  "touchingPortal": 0,
+  "hasSpring": 0,
+  "springTouched": 0,
+  "oneWay": 0,
+  "motorSpeed": 0.0,
+  "portalCount": 0,
+  "portalling": 0,
+  "portalProof": 0,
+  "exploded": 0,
+  "inWater": 0,
+  "smokeSpawner": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "explosivePower": 0.0,
+  "buoyancy": 0.0,
+  "isMagnetic": 0,
+  "floatPoints": [],
+  "offsetAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "switchCount": -1,
+  "idle": {
+    "m_FileID": 2,
+    "m_PathID": -4227871329871507991
+  },
+  "loaded": {
+    "m_FileID": 2,
+    "m_PathID": 5661666721296260719
+  },
+  "overloaded": {
+    "m_FileID": 2,
+    "m_PathID": -2056693898763867514
+  },
+  "reset": {
+    "m_FileID": 2,
+    "m_PathID": -4567905161571478295
+  },
+  "touchingThisFrame": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "touching": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "itemsOnTeleporter": [],
+  "setLoaded": 0,
+  "touchedFor": 0.0,
+  "currentLabel": 0
+}

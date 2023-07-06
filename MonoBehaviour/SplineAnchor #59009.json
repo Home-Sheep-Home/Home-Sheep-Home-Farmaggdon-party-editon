@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3009995428545335592
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1840720444863745004
+  },
+  "m_Name": "",
+  "tangentMode": 0,
+  "_masterTangent": {
+    "m_FileID": 0,
+    "m_PathID": 8507752696372928745
+  },
+  "_slaveTangent": {
+    "m_FileID": 0,
+    "m_PathID": -9123980926628207525
+  }
+}

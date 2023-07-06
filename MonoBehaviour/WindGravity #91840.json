@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -624786834897846867
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7840613787616805616
+  },
+  "m_Name": "",
+  "gravityObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4795574055601101183
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 986823103882638692
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1777310334797515613
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3677289948009958146
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 586916739590022830
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2233551216807597588
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2939601102949451084
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6371443071458908889
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4943316213204138924
+    }
+  ]
+}

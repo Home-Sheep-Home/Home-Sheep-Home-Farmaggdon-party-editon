@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4925946980704125048
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8032498542577429913
+  },
+  "m_Name": "",
+  "color": {
+    "r": 0.0156862736,
+    "g": 1.0,
+    "b": 0.3499985,
+    "a": 1.0
+  },
+  "toolScale": 0.1,
+  "defaultTangentMode": 0,
+  "direction": 0,
+  "loop": 0,
+  "followers": [
+    {
+      "target": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "percentage": 0.0,
+      "faceDirection": 0
+    }
+  ],
+  "_removeRenderers": 1,
+  "_showVelocityTicks": 0,
+  "_velocityTickCount": 20,
+  "_velocityTickScale": 0.5
+}

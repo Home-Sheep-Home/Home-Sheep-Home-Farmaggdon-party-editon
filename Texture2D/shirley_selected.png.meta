@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 9302ef5728d893b45b673c550b406e69
+timeCreated: 1688578967
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: shirley_selected
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 289
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shirley_selected
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16.04291
+        width: 269.9637
+        height: 271.9571
+      alignment: 9
+      pivot: {x: 0.5352571, y: 0.4705047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101.9819, y: -112.0215}
+        - {x: -134.9819, y: -63.02145}
+        - {x: -134.9819, y: 39.97855}
+        - {x: -106.9819, y: 91.97855}
+        - {x: -68.98186, y: 120.9785}
+        - {x: -33.98186, y: 135.9785}
+        - {x: 26.01814, y: 135.9785}
+        - {x: 108.0181, y: 64.97855}
+        - {x: 135.0181, y: 19.97855}
+        - {x: 135.0181, y: -8.021454}
+        - {x: 107.0181, y: -33.02145}
+        - {x: 88.01814, y: -72.02145}
+        - {x: 61.01814, y: -94.02145}
+        - {x: 47.01814, y: -131.0215}
+        - {x: 38.01814, y: -136.0215}
+        - {x: 12.01814, y: -136.0215}
+        - {x: -4.981857, y: -131.0215}
+        - {x: -12.98186, y: -136.0215}
+        - {x: -24.98186, y: -136.0215}
+        - {x: -27.98186, y: -132.0215}
+        - {x: -35.98186, y: -111.0215}
+      physicsShape:
+      - - {x: 21.01814, y: -102.0215}
+        - {x: 24.01814, y: -131.0215}
+        - {x: 28.01814, y: -135.0215}
+        - {x: 38.01814, y: -135.0215}
+        - {x: 41.01814, y: -131.0215}
+        - {x: 44.01814, y: -111.0215}
+        - {x: 46.01814, y: -88.02145}
+        - {x: 64.01814, y: -88.02145}
+        - {x: 76.01814, y: -78.02145}
+        - {x: 79.01814, y: -69.02145}
+        - {x: 81.01814, y: -48.02145}
+        - {x: 98.01814, y: -38.02145}
+        - {x: 108.0181, y: -27.02145}
+        - {x: 109.0181, y: -19.02145}
+        - {x: 111.0181, y: -4.021454}
+        - {x: 121.0181, y: -10.02145}
+        - {x: 134.0181, y: -5.021454}
+        - {x: 134.0181, y: 5.978546}
+        - {x: 132.0181, y: 10.97855}
+        - {x: 115.0181, y: 27.97855}
+        - {x: 99.01814, y: 34.97854}
+        - {x: 100.0181, y: 47.97855}
+        - {x: 95.01814, y: 63.97855}
+        - {x: 87.01814, y: 71.97854}
+        - {x: 74.01814, y: 86.97855}
+        - {x: 56.01814, y: 104.9785}
+        - {x: 38.01814, y: 111.9785}
+        - {x: 37.01814, y: 118.9785}
+        - {x: 30.01814, y: 129.9785}
+        - {x: 23.01814, y: 135.9785}
+        - {x: -13.98186, y: 135.9785}
+        - {x: -24.98186, y: 133.9785}
+        - {x: -38.98186, y: 130.9785}
+        - {x: -62.98186, y: 118.9785}
+        - {x: -73.98186, y: 112.9785}
+        - {x: -99.98186, y: 89.97854}
+        - {x: -112.9819, y: 71.97854}
+        - {x: -123.9818, y: 49.97855}
+        - {x: -128.9819, y: 40.97854}
+        - {x: -134.9819, y: 14.97854}
+        - {x: -134.9819, y: -30.02145}
+        - {x: -127.9819, y: -58.02145}
+        - {x: -115.9819, y: -83.02145}
+        - {x: -100.9819, y: -103.0215}
+        - {x: -67.98186, y: -103.0215}
+        - {x: -54.98186, y: -109.0215}
+        - {x: -32.98186, y: -108.0215}
+        - {x: -24.98186, y: -106.0214}
+        - {x: -26.98185, y: -131.0215}
+        - {x: -20.98186, y: -135.0215}
+        - {x: -13.98186, y: -135.0215}
+        - {x: -9.981857, y: -129.0215}
+        - {x: -3.981856, y: -104.0215}
+        - {x: 13.01814, y: -104.0215}
+      - - {x: -50.98185, y: -99.02145}
+        - {x: -52.98186, y: -100.0214}
+        - {x: -51.98186, y: -100.0214}
+      - - {x: 11.01814, y: -94.02145}
+        - {x: 17.01814, y: -92.02145}
+        - {x: 18.01814, y: -91.02145}
+        - {x: 20.01814, y: -91.02145}
+        - {x: 24.01814, y: -89.02145}
+        - {x: 27.01814, y: -89.02145}
+        - {x: 27.01814, y: -88.02145}
+        - {x: 26.01814, y: -89.02145}
+        - {x: 23.01814, y: -90.02145}
+        - {x: 22.01814, y: -91.02145}
+        - {x: 15.01814, y: -92.02145}
+        - {x: 1.018143, y: -95.02145}
+        - {x: 3.018143, y: -97.02145}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810507f35c454e818347c492346eda2e
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 565042744262238068
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7780103826761136145
+  },
+  "m_Name": "",
+  "guardRef": {
+    "m_FileID": 0,
+    "m_PathID": 555682976290455447
+  },
+  "hatCollider": {
+    "m_FileID": 0,
+    "m_PathID": 1318706829719636117
+  }
+}

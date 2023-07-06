@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1585412820829236320
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7855145702483287638
+  },
+  "m_Name": "",
+  "playerId": 0,
+  "shirley": {
+    "m_FileID": 0,
+    "m_PathID": 3068841907447781043
+  },
+  "shaun": {
+    "m_FileID": 0,
+    "m_PathID": -2225807820405177079
+  },
+  "timmy": {
+    "m_FileID": 0,
+    "m_PathID": -1457376828886803269
+  },
+  "sheepArray": []
+}

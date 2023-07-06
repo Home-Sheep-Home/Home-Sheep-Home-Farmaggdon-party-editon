@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6878510746534071474
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 843940964747876783
+  },
+  "m_Name": "",
+  "audioString": "lorryloop",
+  "listeners": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8175866192400162229
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3267732779974403145
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8004632945222756630
+    }
+  ],
+  "maxDistance": 20.0,
+  "maxVolume": 1.5,
+  "initialDelay": 0.0,
+  "persistent": 1
+}

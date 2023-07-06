@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6972680564674109525
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -36867476854223825
+  },
+  "m_Name": "",
+  "fountainA": {
+    "m_FileID": 0,
+    "m_PathID": -2372709805316301614
+  },
+  "fountainB": {
+    "m_FileID": 0,
+    "m_PathID": 3725834584801779568
+  },
+  "upperLimitA": -7.1,
+  "lowerLimitA": -8.9,
+  "upperLimitB": -6.15,
+  "lowerLimitB": -8.9
+}

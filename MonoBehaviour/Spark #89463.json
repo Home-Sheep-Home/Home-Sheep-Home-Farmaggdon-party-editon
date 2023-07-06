@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1976816372120701409
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -954273042813353002
+  },
+  "m_Name": "",
+  "fuseSpline": {
+    "m_FileID": 0,
+    "m_PathID": -5759148070421477714
+  },
+  "sparkDuration": 3.5,
+  "explosionRange": 120.0
+}

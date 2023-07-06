@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5741232274820298616
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 843940964747876783
+  },
+  "m_Name": "",
+  "audioString": "busidleloop",
+  "listeners": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1070846766332595129
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4745053443883702526
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -656440996714601805
+    }
+  ],
+  "maxDistance": 20.0,
+  "maxVolume": 0.9,
+  "initialDelay": 0.0,
+  "persistent": 1
+}

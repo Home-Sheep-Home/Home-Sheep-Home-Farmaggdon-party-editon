@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &687078895
+SpriteAtlas:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: level_63 atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: c76a8c8d6e3a07141bf9cdb3a1be7933, type: 3}
+    - {fileID: 21300002, guid: c76a8c8d6e3a07141bf9cdb3a1be7933, type: 3}
+    - {fileID: 21300004, guid: c76a8c8d6e3a07141bf9cdb3a1be7933, type: 3}
+    - {fileID: 21300006, guid: c76a8c8d6e3a07141bf9cdb3a1be7933, type: 3}
+    - {fileID: 21300008, guid: c76a8c8d6e3a07141bf9cdb3a1be7933, type: 3}
+    - {fileID: 21300010, guid: c76a8c8d6e3a07141bf9cdb3a1be7933, type: 3}
+    - {fileID: 21300012, guid: c76a8c8d6e3a07141bf9cdb3a1be7933, type: 3}
+    - {fileID: 21300014, guid: c76a8c8d6e3a07141bf9cdb3a1be7933, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c76a8c8d6e3a07141bf9cdb3a1be7933, type: 3}
+  - {fileID: 21300002, guid: c76a8c8d6e3a07141bf9cdb3a1be7933, type: 3}
+  - {fileID: 21300004, guid: c76a8c8d6e3a07141bf9cdb3a1be7933, type: 3}
+  - {fileID: 21300006, guid: c76a8c8d6e3a07141bf9cdb3a1be7933, type: 3}
+  - {fileID: 21300008, guid: c76a8c8d6e3a07141bf9cdb3a1be7933, type: 3}
+  - {fileID: 21300010, guid: c76a8c8d6e3a07141bf9cdb3a1be7933, type: 3}
+  - {fileID: 21300012, guid: c76a8c8d6e3a07141bf9cdb3a1be7933, type: 3}
+  - {fileID: 21300014, guid: c76a8c8d6e3a07141bf9cdb3a1be7933, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 063_physicsBox_crate_00
+  - 063_ingameHintArrow1_00
+  - 063_ingameHintArrow3_00
+  - 063_physicsSwitch_door_spring_00
+  - 063_arrowsign_mines_gfx_00
+  - 063_door_00
+  - 063_physicsBoxLowFriction_safe_00
+  - 063_ingameHintArrow2_00
+  m_Tag: level_63 atlas
+  m_IsVariant: 0

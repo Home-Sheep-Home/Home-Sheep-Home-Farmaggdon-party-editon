@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: pirates_queen
+  m_Controller: {fileID: 9100000, guid: 9456b3cfe5406504a90f8a4e71a9dbbe, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 62305d18124925b499ed0c5781ba5d8f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3f1097b96c41afd4ea3759ba21c61a87, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: cd3ab053fc57610489f2fdda9c22f517, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1d9a2e9ea2e29124191eb1a69882a880, type: 2}

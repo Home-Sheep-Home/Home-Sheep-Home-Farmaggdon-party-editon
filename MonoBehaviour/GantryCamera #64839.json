@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7022196041648818875
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1767984130339721421
+  },
+  "m_Name": "",
+  "cameraShape": {
+    "m_FileID": 0,
+    "m_PathID": -5957216414761963470
+  },
+  "cameraAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 7658008851454760113
+  },
+  "cameraBreakParticles": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1005502676364014899
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1359065190651378333
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6695711825119177730
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3535817304171500647
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5069550907793383701
+    }
+  ]
+}

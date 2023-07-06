@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3908357020576277806
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1829515371675164430
+  },
+  "m_Name": "",
+  "playerCount": 0,
+  "multiplayer": 0,
+  "partyGame": 0,
+  "levelToLoad": 1,
+  "levelStringToLoad": "",
+  "hsh1": 0,
+  "currentEpisode": "",
+  "debug": 0,
+  "debugButtons": 0,
+  "debugLevel": ""
+}

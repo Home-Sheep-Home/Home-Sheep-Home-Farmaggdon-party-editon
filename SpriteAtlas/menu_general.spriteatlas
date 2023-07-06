@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &687078895
+SpriteAtlas:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: menu_general
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+    - {fileID: 21300002, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+    - {fileID: 21300004, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+    - {fileID: 21300006, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+    - {fileID: 21300008, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+    - {fileID: 21300010, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+    - {fileID: 21300012, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+    - {fileID: 21300014, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+    - {fileID: 21300016, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+    - {fileID: 21300018, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+    - {fileID: 21300020, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+    - {fileID: 21300022, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+    - {fileID: 21300024, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+    - {fileID: 21300026, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+    - {fileID: 21300028, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+    - {fileID: 21300030, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+    - {fileID: 21300032, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+  - {fileID: 21300002, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+  - {fileID: 21300004, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+  - {fileID: 21300006, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+  - {fileID: 21300008, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+  - {fileID: 21300010, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+  - {fileID: 21300012, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+  - {fileID: 21300014, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+  - {fileID: 21300016, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+  - {fileID: 21300018, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+  - {fileID: 21300020, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+  - {fileID: 21300022, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+  - {fileID: 21300024, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+  - {fileID: 21300026, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+  - {fileID: 21300028, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+  - {fileID: 21300030, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+  - {fileID: 21300032, guid: bcadd490b0be9a24180945bf56b2b2d2, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - icon_martian
+  - level_select_paint_top
+  - icon_volleyball
+  - icon_crusher
+  - level_select_locked
+  - icon_hurdles
+  - chapter_thumbnail_farmageddon
+  - level_select_paint_bottom
+  - party_select_patch
+  - party_game_panel
+  - level_select_bottom
+  - icon_football
+  - icon_highway
+  - icon_kingofthehill
+  - icon_skipping
+  - level_select_top
+  - arrow
+  m_Tag: menu_general
+  m_IsVariant: 0

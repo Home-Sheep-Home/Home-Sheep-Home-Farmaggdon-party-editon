@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 9173982847550538719
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -838821972406237579
+  },
+  "m_Name": "",
+  "sfxEnabled": 1,
+  "speedDivisor": 10,
+  "minSpeed": 0.4,
+  "contactNoise": "soundBox",
+  "ignoreSheep": 0,
+  "ignorePortal": 0,
+  "overlapSounds": 1
+}

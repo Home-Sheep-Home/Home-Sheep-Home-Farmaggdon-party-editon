@@ -1,0 +1,299 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6056477847849482185
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5621532867225080401
+  },
+  "m_Name": "",
+  "levelBackground": {
+    "m_FileID": 0,
+    "m_PathID": -7780747696670887760
+  },
+  "hiddenRoom": {
+    "m_FileID": 0,
+    "m_PathID": -490736198351388937
+  },
+  "levelCanvas": {
+    "m_FileID": 0,
+    "m_PathID": -490421243153855408
+  },
+  "levelParticles": {
+    "m_FileID": 0,
+    "m_PathID": 6187401357879300341
+  },
+  "sheepManager": {
+    "m_FileID": 0,
+    "m_PathID": 326390564563201005
+  },
+  "hints": {
+    "m_FileID": 0,
+    "m_PathID": 551119433164803579
+  },
+  "shakeLevel": 0,
+  "scaffoldLevel": 0,
+  "objectList": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2433581027802973731
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7633662009868652352
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5470183988059240435
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8527677066225013139
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4856715678787656656
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7989021718956868228
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8929863594143893770
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3322970443727229265
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6350600434513554465
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2792497134765341275
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3484254486015363964
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1136462866103892727
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5061174529012978537
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1531557824372699145
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -988149757985211037
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8286464271226118043
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5378670260723885068
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4254281060526125708
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1585829158325184750
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2030619071477926717
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8480653991367124797
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 113249044197361761
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 127930280723490369
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8538405786663315944
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3224845758569471985
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4145908423403122035
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3183638728101413713
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -125261585871683830
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8787035064422364321
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2003644769904112172
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 601029740474806250
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8343289303266571192
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8153593411206945603
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3335749536508593702
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -191460980872807328
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -891450671624904240
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5914792891754839291
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7999881676581252352
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8219544899484217748
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5827678725915919096
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4577585374325109077
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6471412338398336994
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7533665776414306168
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5554782132526123463
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5228037768784590955
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7891561215670544961
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2364130772647198322
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2671835902905296440
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9088678231810830831
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 571411010050943524
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4288641593418026245
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -354187523786863870
+    }
+  ],
+  "restartAllowed": 0,
+  "goalData": {
+    "w": 0.0,
+    "h": 0.0
+  },
+  "goal": {
+    "m_FileID": 0,
+    "m_PathID": -7891561215670544961
+  },
+  "sheepLock": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "changeSheepOnLock": 0,
+  "sheepUnlock": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "triggerBreakage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "triggerFalling": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "planks": [],
+  "bucket": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "windsock": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "scissorLift": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "aliens": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "farmer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "sign": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

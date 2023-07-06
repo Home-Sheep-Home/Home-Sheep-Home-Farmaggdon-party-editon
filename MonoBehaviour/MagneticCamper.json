@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4747968324205875703
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8722828924865141121
+  },
+  "m_Name": "",
+  "farmer": {
+    "m_FileID": 0,
+    "m_PathID": 4551439296588766029
+  },
+  "wheel1": {
+    "m_FileID": 0,
+    "m_PathID": -1545125835575753836
+  },
+  "wheel2": {
+    "m_FileID": 0,
+    "m_PathID": 9214685306960183651
+  },
+  "wheel1Body": {
+    "m_FileID": 0,
+    "m_PathID": 2931223816996322774
+  },
+  "wheel2Body": {
+    "m_FileID": 0,
+    "m_PathID": -3845751517794256820
+  },
+  "fieldObj": {
+    "m_FileID": 0,
+    "m_PathID": 1004641152492096389
+  },
+  "isAway": 0
+}

@@ -1,0 +1,345 @@
+fileFormatVersion: 2
+guid: b02cbb24ed84c174999057f1d6a8f96a
+timeCreated: 1688578925
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 017_ingameHintArrow4_00
+    21300002: 017_physicsCarWheel_golf1_00
+    21300004: 017_car_00
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 017_ingameHintArrow4_00
+      rect:
+        serializedVersion: 2
+        x: 662.0267
+        y: 0.07612038
+        width: 76.9465
+        height: 178.8477
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5055914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: -89.49999}
+        - {x: -38.5, y: -89.49999}
+        - {x: -38.5, y: 66.50001}
+        - {x: -15.5, y: 89.50001}
+        - {x: 38.5, y: 89.50001}
+        - {x: 38.5, y: -76.49999}
+      physicsShape:
+      - - {x: 1.5, y: -27.49999}
+        - {x: 6.5, y: -5.499992}
+        - {x: 9.5, y: 16.50001}
+        - {x: 10.5, y: 29.50001}
+        - {x: 19.5, y: 29.50001}
+        - {x: 36.5, y: 28.50001}
+        - {x: 37.5, y: 31.50001}
+        - {x: 37.5, y: 39.50001}
+        - {x: 24.5, y: 81.50001}
+        - {x: 17.5, y: 89.50001}
+        - {x: 12.5, y: 89.50001}
+        - {x: 4.5, y: 84.50001}
+        - {x: -15.5, y: 59.50001}
+        - {x: -30.5, y: 57.50001}
+        - {x: -35.5, y: 54.50001}
+        - {x: -36.5, y: 49.50001}
+        - {x: -33.5, y: 45.50001}
+        - {x: -28.5, y: 45.50001}
+        - {x: -8.5, y: 40.50001}
+        - {x: -0.5, y: 34.50001}
+        - {x: -3.5, y: 5.500008}
+        - {x: -15.5, y: -42.49999}
+        - {x: -25.5, y: -61.49999}
+        - {x: -37.5, y: -78.49999}
+        - {x: -37.5, y: -86.49999}
+        - {x: -34.5, y: -88.49999}
+        - {x: -28.5, y: -88.49999}
+        - {x: -23.5, y: -83.49999}
+        - {x: -4.5, y: -50.49999}
+        - {x: -4.5, y: -46.49999}
+      - - {x: 12.5, y: 46.50001}
+        - {x: 13.5, y: 70.50001}
+        - {x: 19.5, y: 52.50001}
+        - {x: 22.5, y: 45.50001}
+      - - {x: -4.5, y: 51.50001}
+        - {x: -3.5, y: 52.50001}
+        - {x: 0.5, y: 57.50001}
+        - {x: -0.5, y: 51.50001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10924937f3144bab85904a36a2d9bbf2
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 017_physicsCarWheel_golf1_00
+      rect:
+        serializedVersion: 2
+        x: 0.06306648
+        y: 279.0761
+        width: 123.8608
+        height: 122.8478
+      alignment: 9
+      pivot: {x: 0.5000528, y: 0.5040701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.99347, y: -61.5}
+        - {x: -61.99347, y: -31.5}
+        - {x: -61.99347, y: 41.5}
+        - {x: -27.99347, y: 61.5}
+        - {x: 37.00653, y: 61.5}
+        - {x: 62.00653, y: 26.5}
+        - {x: 62.00653, y: -23.5}
+        - {x: 55.00653, y: -43.5}
+        - {x: 46.00653, y: -61.5}
+      physicsShape:
+      - - {x: 60.00653, y: -10.5}
+        - {x: 60.00653, y: 11.5}
+        - {x: 57.00653, y: 22.5}
+        - {x: 51.00653, y: 33.5}
+        - {x: 28.00653, y: 55.5}
+        - {x: 17.00653, y: 59.5}
+        - {x: -7.993465, y: 59.5}
+        - {x: -20.99347, y: 56.5}
+        - {x: -33.99347, y: 48.5}
+        - {x: -43.99347, y: 39.5}
+        - {x: -54.99347, y: 27.5}
+        - {x: -59.99347, y: 11.5}
+        - {x: -59.99347, y: -11.5}
+        - {x: -58.99347, y: -19.5}
+        - {x: -44.99347, y: -42.5}
+        - {x: -29.99347, y: -52.5}
+        - {x: -17.99347, y: -59.5}
+        - {x: 18.00653, y: -59.5}
+        - {x: 38.00653, y: -48.5}
+        - {x: 52.00653, y: -32.5}
+        - {x: 57.00653, y: -21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07cbd6781f440af84dcf9bbdd6688fe
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 017_car_00
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 0.02675056
+        width: 657.8478
+        height: 274.8971
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5000898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -310, y: -62.47531}
+        - {x: -316, y: 2.524689}
+        - {x: -312, y: 11.52469}
+        - {x: -306, y: 23.52469}
+        - {x: -284, y: 51.52469}
+        - {x: -240, y: 97.52469}
+        - {x: -219, y: 118.5247}
+        - {x: -211, y: 125.5247}
+        - {x: -175, y: 133.5247}
+        - {x: -143, y: 135.5247}
+        - {x: -93, y: 137.5247}
+        - {x: 58, y: 137.5247}
+        - {x: 82, y: 130.5247}
+        - {x: 114, y: 79.52469}
+        - {x: 130, y: 51.52469}
+        - {x: 147, y: 35.52469}
+        - {x: 153, y: 30.52469}
+        - {x: 152, y: 19.52469}
+        - {x: 171, y: 17.52469}
+        - {x: 187, y: 10.52469}
+        - {x: 264, y: -6.475311}
+        - {x: 271, y: -9.475311}
+        - {x: 323, y: -24.47531}
+        - {x: 327, y: -31.47531}
+        - {x: 329, y: -59.47531}
+        - {x: 329, y: -83.47531}
+        - {x: 327, y: -88.47531}
+        - {x: 302, y: -121.4753}
+        - {x: 294, y: -125.4753}
+        - {x: 260, y: -124.4753}
+        - {x: 240, y: -111.4753}
+        - {x: 213, y: -108.4753}
+        - {x: 175, y: -108.4753}
+        - {x: 146, y: -109.4753}
+        - {x: 132, y: -115.4753}
+        - {x: 138, y: -122.4753}
+        - {x: 133, y: -134.4753}
+        - {x: 115, y: -137.4753}
+        - {x: 24, y: -137.4753}
+        - {x: 23, y: -136.4753}
+        - {x: -139, y: -136.4753}
+        - {x: -152, y: -119.4753}
+        - {x: -170, y: -110.4753}
+        - {x: -262, y: -111.4753}
+        - {x: -278, y: -125.4753}
+        - {x: -284, y: -126.4753}
+        - {x: -303, y: -105.4753}
+        - {x: -320, y: -98.47531}
+        - {x: -329, y: -84.47531}
+        - {x: -329, y: -68.47531}
+        - {x: -325, y: -63.47531}
+      physicsShape:
+      - - {x: 149, y: -107.4753}
+        - {x: 181, y: -106.4753}
+        - {x: 210, y: -106.4753}
+        - {x: 239, y: -108.4753}
+        - {x: 261, y: -122.4753}
+        - {x: 294, y: -123.4753}
+        - {x: 302, y: -117.4753}
+        - {x: 307, y: -111.4753}
+        - {x: 311, y: -105.4753}
+        - {x: 322, y: -91.47531}
+        - {x: 327, y: -80.47531}
+        - {x: 327, y: -60.47531}
+        - {x: 326, y: -51.47531}
+        - {x: 327, y: -39.47531}
+        - {x: 326, y: -30.47531}
+        - {x: 320, y: -26.47531}
+        - {x: 293, y: -16.47531}
+        - {x: 260, y: -7.475311}
+        - {x: 206, y: 4.524689}
+        - {x: 147, y: 17.52469}
+        - {x: 146, y: 25.52469}
+        - {x: 149, y: 28.52469}
+        - {x: 149, y: 29.52469}
+        - {x: 147, y: 33.52469}
+        - {x: 139, y: 31.52469}
+        - {x: 113, y: 76.52469}
+        - {x: 89, y: 115.5247}
+        - {x: 78, y: 127.5247}
+        - {x: 67, y: 132.5247}
+        - {x: 48, y: 135.5247}
+        - {x: -99, y: 135.5247}
+        - {x: -120, y: 134.5247}
+        - {x: -160, y: 132.5247}
+        - {x: -195, y: 128.5247}
+        - {x: -205, y: 125.5247}
+        - {x: -220, y: 115.5247}
+        - {x: -251, y: 83.52469}
+        - {x: -267, y: 67.52469}
+        - {x: -286, y: 45.52469}
+        - {x: -301, y: 27.52469}
+        - {x: -312, y: 10.52469}
+        - {x: -314, y: 2.524689}
+        - {x: -312, y: -15.47531}
+        - {x: -306, y: -64.47531}
+        - {x: -322, y: -63.47531}
+        - {x: -327, y: -67.47531}
+        - {x: -327, y: -82.47531}
+        - {x: -325, y: -86.47531}
+        - {x: -318, y: -96.47531}
+        - {x: -300, y: -96.47531}
+        - {x: -300, y: -102.4753}
+        - {x: -291, y: -116.4753}
+        - {x: -278, y: -123.4753}
+        - {x: -273, y: -115.4753}
+        - {x: -262, y: -109.4753}
+        - {x: -232, y: -107.4753}
+        - {x: -204, y: -106.4753}
+        - {x: -166, y: -107.4753}
+        - {x: -153, y: -115.4753}
+        - {x: -139, y: -133.4753}
+        - {x: -134, y: -135.4753}
+        - {x: 82, y: -135.4753}
+        - {x: 82, y: -136.4753}
+        - {x: 116, y: -136.4753}
+        - {x: 119, y: -133.4753}
+        - {x: 124, y: -121.4753}
+        - {x: 140, y: -108.4753}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ced5be7ddc4cbba77b16530f731859
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

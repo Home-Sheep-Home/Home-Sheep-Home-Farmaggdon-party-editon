@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2068898088014087148
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 917885076908597618
+  },
+  "m_Name": "",
+  "bodies": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6364270604133372902
+    }
+  ],
+  "tippingSoundID": "push-loop",
+  "minAngularVelocityForSound": 5.0,
+  "maxAngularVelocityForSound": 10.0
+}

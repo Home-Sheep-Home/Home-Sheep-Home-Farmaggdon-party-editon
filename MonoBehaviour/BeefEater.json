@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7451230952264513559
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8515470533848262660
+  },
+  "m_Name": "",
+  "xMax": 11.75,
+  "xMin": 3.55,
+  "hatAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 2777537832934107130
+  },
+  "bodyAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 5994447195297752733
+  }
+}

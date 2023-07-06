@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3108199799865542446
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1505089833891787274
+  },
+  "m_Name": "",
+  "teleporters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4627133094616371233
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7445597293135278921
+    }
+  ]
+}

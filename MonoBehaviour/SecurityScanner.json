@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2133563475039749123
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 111289076040973344
+  },
+  "m_Name": "",
+  "lampObject": {
+    "m_FileID": 0,
+    "m_PathID": 2425543679064160688
+  },
+  "doorObject": {
+    "m_FileID": 0,
+    "m_PathID": -3803737033741733462
+  }
+}

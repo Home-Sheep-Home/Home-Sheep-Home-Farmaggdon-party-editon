@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ButtonStayLondon
+  m_Controller: {fileID: 9100000, guid: 80b4e41fc2148d04ca3c3991b2ce3bf0, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 1a512bfc2fbaac3418a07481724aaab8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 348718b797f7b134285613dc3b2f6998, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d62351a3d37315f4e870802bccdce1cc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ea405b4aaff3d0441b6e5f3f6330b1ef, type: 2}

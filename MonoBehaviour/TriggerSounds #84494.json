@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2771304301212085471
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4925265507323022963
+  },
+  "m_Name": "",
+  "ignoreSheep": 0,
+  "requireSheep": 0,
+  "overlapSounds": 0,
+  "soundString": "egghatch"
+}

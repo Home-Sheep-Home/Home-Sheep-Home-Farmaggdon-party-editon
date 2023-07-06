@@ -1,0 +1,13 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8041171896792790940
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3991967792765292906
+  },
+  "m_Name": "",
+  "roofYThreshold": 5.0
+}

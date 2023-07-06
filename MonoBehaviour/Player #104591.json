@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3330690607561542899
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7436655400341076741
+  },
+  "m_Name": "",
+  "playerId": 0,
+  "controlSheep": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "playerColor": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 0.0
+  },
+  "playerNumberSprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "partyHatSprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "playerTeam": 0,
+  "selectedPartyHat": 0
+}

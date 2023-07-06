@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2270370583237837024
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1477790495624149166
+  },
+  "m_Name": "",
+  "pushingObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3893162357832569657
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5555532499397503621
+    }
+  ],
+  "minMagnitude": 0.1,
+  "maxMagnitude": 0.5,
+  "pushingSoundID": "push-loop"
+}

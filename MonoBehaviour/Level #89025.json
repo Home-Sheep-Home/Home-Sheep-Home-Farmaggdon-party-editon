@@ -1,0 +1,227 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6244094392462009294
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5621532867225080401
+  },
+  "m_Name": "",
+  "levelBackground": {
+    "m_FileID": 0,
+    "m_PathID": -5996536261960743943
+  },
+  "hiddenRoom": {
+    "m_FileID": 0,
+    "m_PathID": 4749391258185063382
+  },
+  "levelCanvas": {
+    "m_FileID": 0,
+    "m_PathID": -4587417067283897017
+  },
+  "levelParticles": {
+    "m_FileID": 0,
+    "m_PathID": -5696565755753010765
+  },
+  "sheepManager": {
+    "m_FileID": 0,
+    "m_PathID": 8150735009919636407
+  },
+  "hints": {
+    "m_FileID": 0,
+    "m_PathID": 5544880089975108606
+  },
+  "shakeLevel": 0,
+  "scaffoldLevel": 0,
+  "objectList": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 73429248177466038
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5642281786200634435
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8267488791964014477
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7548629079962364435
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3064715025783481485
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1439172401338786394
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6159995180002460645
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8134075989203439366
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7998281180801642104
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7964746803935469501
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 625240991603531339
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8573456558138244404
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6373620710628374505
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8375474051307495964
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3205605327563519586
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3640917270965259985
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 569199637561091463
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8564563406588249711
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6410101032694484384
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4755160780352012683
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 100166659572024234
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3533503906615353161
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4909169147592391765
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7170160769383548239
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5197866982815925683
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 678593531322154614
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8390448178532451289
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4017972938317215687
+    }
+  ],
+  "restartAllowed": 0,
+  "goalData": {
+    "w": 0.0,
+    "h": 0.0
+  },
+  "goal": {
+    "m_FileID": 0,
+    "m_PathID": 3533503906615353161
+  },
+  "sheepLock": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "changeSheepOnLock": 0,
+  "sheepUnlock": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "triggerBreakage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "triggerFalling": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "planks": [],
+  "bucket": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "windsock": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "scissorLift": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "aliens": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "farmer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "sign": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

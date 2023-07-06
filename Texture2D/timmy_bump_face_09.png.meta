@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 17966408240432b4f8c4168d9f2173ff
+timeCreated: 1688578984
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: timmy_bump_face_09
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 400
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: timmy_bump_face_09
+      rect:
+        serializedVersion: 2
+        x: 134.0267
+        y: 14.02675
+        width: 146.9465
+        height: 104.9303
+      alignment: 9
+      pivot: {x: 0.448961, y: 1.391144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.499992, y: -52.49192}
+        - {x: -9.499992, y: -50.49192}
+        - {x: -8.499992, y: -46.49192}
+        - {x: -12.49999, y: -52.49192}
+        - {x: -36.49999, y: -52.49192}
+        - {x: -73.49999, y: 13.50808}
+        - {x: -73.49999, y: 46.50808}
+        - {x: -72.49999, y: 48.50808}
+        - {x: -44.49999, y: 52.50808}
+        - {x: 16.50001, y: 52.50808}
+        - {x: 65.50001, y: 31.50808}
+        - {x: 72.50001, y: 22.50808}
+        - {x: 73.50001, y: 20.50808}
+        - {x: 73.50001, y: 6.50808}
+        - {x: 28.50001, y: -47.49192}
+        - {x: 18.50001, y: -52.49192}
+      physicsShape:
+      - - {x: -23.49999, y: -45.49192}
+        - {x: -19.49999, y: -50.49192}
+        - {x: -13.49999, y: -50.49192}
+        - {x: -8.499992, y: -43.49192}
+        - {x: -7.499992, y: -46.49192}
+        - {x: -3.499992, y: -50.49192}
+        - {x: 1.500008, y: -50.49192}
+        - {x: 4.500008, y: -48.49192}
+        - {x: 5.500009, y: -45.49192}
+        - {x: 5.500009, y: -26.49192}
+        - {x: 5.500009, y: -46.49192}
+        - {x: 6.500008, y: -50.49192}
+        - {x: 14.50001, y: -50.49192}
+        - {x: 22.50001, y: -47.49192}
+        - {x: 20.50001, y: -22.49192}
+        - {x: 37.50001, y: -22.49192}
+        - {x: 53.50001, y: -4.49192}
+        - {x: 46.50001, y: 14.50808}
+        - {x: 59.50001, y: 10.50808}
+        - {x: 66.50001, y: 9.508072}
+        - {x: 72.50001, y: 14.50808}
+        - {x: 72.50001, y: 17.50808}
+        - {x: 71.50001, y: 23.50808}
+        - {x: 58.50001, y: 32.50808}
+        - {x: 31.50001, y: 28.50808}
+        - {x: 20.50001, y: 39.50808}
+        - {x: 8.500008, y: 50.50808}
+        - {x: -48.49999, y: 50.50808}
+        - {x: -65.49999, y: 49.50808}
+        - {x: -71.49999, y: 31.50808}
+        - {x: -71.49999, y: 14.50808}
+        - {x: -55.49999, y: 4.508072}
+        - {x: -51.49999, y: -14.49192}
+        - {x: -37.49999, y: -29.49192}
+        - {x: -36.49999, y: -45.49192}
+        - {x: -32.49999, y: -50.49192}
+        - {x: -28.49999, y: -50.49192}
+        - {x: -24.49999, y: -46.49192}
+        - {x: -23.49999, y: -37.49192}
+        - {x: -23.49999, y: -31.49192}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e347d698fe62472b8087abd10687812a
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

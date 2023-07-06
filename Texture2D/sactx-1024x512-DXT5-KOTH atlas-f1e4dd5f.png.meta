@@ -1,0 +1,776 @@
+fileFormatVersion: 2
+guid: 82c893e9df0af8d4dbcf41fa36f83558
+timeCreated: 1688578926
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: plank_light
+    21300002: arrow_light
+    21300004: wooden_letter_f
+    21300006: wooden_letter_d
+    21300008: wooden_letter_e
+    21300010: wooden_letter_o
+    21300012: plank_2
+    21300014: wooden_letter_n
+    21300016: wooden_letter_r
+    21300018: wooden_letter_a
+    21300020: tyre
+    21300022: plank_1
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plank_light
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 176
+        width: 153
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: -71.5}
+        - {x: -76.5, y: -71.5}
+        - {x: -76.5, y: -32.5}
+        - {x: -67.5, y: -8.5}
+        - {x: 33.5, y: 71.5}
+        - {x: 68.5, y: 71.5}
+        - {x: 76.5, y: 66.5}
+        - {x: 76.5, y: 38.5}
+        - {x: 75.5, y: 34.5}
+        - {x: 6.5, y: -39.5}
+      physicsShape:
+      - - {x: 67.5, y: 41.5}
+        - {x: 76.5, y: 51.5}
+        - {x: 76.5, y: 56.5}
+        - {x: 62.5, y: 71.5}
+        - {x: 56.5, y: 71.5}
+        - {x: 50.5, y: 66.5}
+        - {x: 6.5, y: 28.5}
+        - {x: -2.5, y: 25.5}
+        - {x: -13.5, y: 8.5}
+        - {x: -65.5, y: -37.5}
+        - {x: -76.5, y: -47.5}
+        - {x: -76.5, y: -53.5}
+        - {x: -65.5, y: -66.5}
+        - {x: -60.5, y: -70.5}
+        - {x: -50.5, y: -70.5}
+        - {x: -26.5, y: -45.5}
+        - {x: 9.5, y: -11.5}
+        - {x: 19.5, y: -1.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c696b27ef8b640168ee7bd089dfdf4ac
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_light
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 279
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.5, y: -73}
+        - {x: -139.5, y: -64}
+        - {x: -139.5, y: -28}
+        - {x: -32.5, y: 78}
+        - {x: 20.5, y: 78}
+        - {x: 69.5, y: 47}
+        - {x: 139.5, y: -43}
+        - {x: 139.5, y: -75}
+        - {x: 138.5, y: -78}
+        - {x: -120.5, y: -78}
+      physicsShape:
+      - - {x: 106.5, y: -23}
+        - {x: 100.5, y: -15}
+        - {x: 86.5, y: 0}
+        - {x: 60.5, y: 22}
+        - {x: 45.5, y: 39}
+        - {x: 16.5, y: 69}
+        - {x: 6.5, y: 78}
+        - {x: 2.5, y: 78}
+        - {x: -6.5, y: 75}
+        - {x: -12.5, y: 68}
+        - {x: -48.5, y: 36}
+        - {x: -59.5, y: 28}
+        - {x: -67.5, y: 29}
+        - {x: -66.5, y: 23}
+        - {x: -64.5, y: 21}
+        - {x: -127.5, y: -35}
+        - {x: -139.5, y: -46}
+        - {x: -139.5, y: -53}
+        - {x: -129.5, y: -65}
+        - {x: -123.5, y: -70}
+        - {x: -115.5, y: -69}
+        - {x: -102.5, y: -58}
+        - {x: -90.5, y: -44}
+        - {x: -68.5, y: -21}
+        - {x: -66.5, y: -22}
+        - {x: -53.5, y: -9}
+        - {x: -17.5, y: 23}
+        - {x: 0.5, y: 41}
+        - {x: 17.5, y: 22}
+        - {x: 63.5, y: -25}
+        - {x: 100.5, y: -65}
+        - {x: 112.5, y: -78}
+        - {x: 125.5, y: -78}
+        - {x: 136.5, y: -65}
+        - {x: 138.5, y: -60}
+        - {x: 137.5, y: -52}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488562012cc24df792f1415819b1bf65
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden_letter_f
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 323
+        width: 118
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: -55}
+        - {x: 2, y: -82}
+        - {x: -59, y: -82}
+        - {x: -59, y: 82}
+        - {x: 59, y: 82}
+        - {x: 59, y: 43}
+        - {x: 51, y: 39}
+        - {x: 20, y: 29}
+        - {x: 47, y: 24}
+        - {x: 59, y: 3}
+      physicsShape:
+      - - {x: 49, y: 17}
+        - {x: 41, y: 21}
+        - {x: -20, y: 22}
+        - {x: -20, y: 28}
+        - {x: -21, y: 45}
+        - {x: 32, y: 44}
+        - {x: 58, y: 44}
+        - {x: 59, y: 48}
+        - {x: 59, y: 75}
+        - {x: 58, y: 76}
+        - {x: -11, y: 81}
+        - {x: -50, y: 81}
+        - {x: -58, y: 78}
+        - {x: -58, y: 45}
+        - {x: -53, y: 44}
+        - {x: -53, y: -82}
+        - {x: -22, y: -82}
+        - {x: -21, y: -81}
+        - {x: -20, y: -12}
+        - {x: 47, y: -11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54108eaba2e14e108959a129b141e66d
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden_letter_d
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 176
+        width: 122
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -82}
+        - {x: -61, y: -82}
+        - {x: -61, y: 82}
+        - {x: 36, y: 82}
+        - {x: 61, y: 43}
+        - {x: 61, y: -42}
+      physicsShape:
+      - - {x: 35, y: -58}
+        - {x: 55, y: -34}
+        - {x: 58, y: -27}
+        - {x: 58, y: 35}
+        - {x: 49, y: 41}
+        - {x: 30, y: 64}
+        - {x: 30, y: 74}
+        - {x: 17, y: 81}
+        - {x: 11, y: 81}
+        - {x: 5, y: 75}
+        - {x: -20, y: 81}
+        - {x: -49, y: 81}
+        - {x: -53, y: 77}
+        - {x: -61, y: 75}
+        - {x: -61, y: 50}
+        - {x: -59, y: 44}
+        - {x: -53, y: 45}
+        - {x: -54, y: -26}
+        - {x: -61, y: -46}
+        - {x: -61, y: -74}
+        - {x: -55, y: -82}
+        - {x: -24, y: -82}
+        - {x: -22, y: -77}
+        - {x: 13, y: -79.99999}
+        - {x: 29, y: -77}
+      - - {x: -20, y: -42}
+        - {x: -20, y: 13}
+        - {x: -21, y: 25}
+        - {x: -21, y: 43}
+        - {x: 5, y: 43}
+        - {x: 26, y: 14}
+        - {x: 24, y: -4}
+        - {x: 22, y: -16}
+        - {x: 4, y: -44}
+        - {x: -22, y: -44}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a6518a1a9a41ce9ae1f0f5223943bd
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden_letter_e
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 344
+        width: 118
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: -82}
+        - {x: -59, y: -82}
+        - {x: -59, y: 82}
+        - {x: 59, y: 82}
+      physicsShape:
+      - - {x: 59, y: -43}
+        - {x: -13, y: -46}
+        - {x: -21, y: -11}
+        - {x: 47, y: -11}
+        - {x: 49, y: 17}
+        - {x: 41, y: 21}
+        - {x: -20, y: 22}
+        - {x: -20, y: 28}
+        - {x: -21, y: 45}
+        - {x: 32, y: 44}
+        - {x: 58, y: 44}
+        - {x: 59, y: 48}
+        - {x: 59, y: 75}
+        - {x: 58, y: 76}
+        - {x: -20, y: 79}
+        - {x: -20, y: 81}
+        - {x: -53, y: 81}
+        - {x: -59, y: 79.99999}
+        - {x: -59, y: 59}
+        - {x: -58, y: 47}
+        - {x: -53, y: -26}
+        - {x: -59, y: -43}
+        - {x: -59, y: -76}
+        - {x: -53, y: -82}
+        - {x: -11, y: -82}
+        - {x: 54, y: -77}
+        - {x: 59, y: -76}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb548622b88244f789d53521db0ab17d
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden_letter_o
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 159
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.5, y: -67.5}
+        - {x: -79.5, y: -46.5}
+        - {x: -79.5, y: 51.5}
+        - {x: -58.5, y: 80.5}
+        - {x: 58.5, y: 80.5}
+        - {x: 74.5, y: 77.5}
+        - {x: 79.5, y: 57.5}
+        - {x: 79.5, y: -55.5}
+        - {x: 52.5, y: -80.5}
+        - {x: -47.5, y: -80.5}
+      physicsShape:
+      - - {x: 38.5, y: -79.49999}
+        - {x: 48.5, y: -74.5}
+        - {x: 54.5, y: -55.5}
+        - {x: 73.49999, y: -34.5}
+        - {x: 76.5, y: -27.5}
+        - {x: 76.5, y: 34.5}
+        - {x: 68.5, y: 40.5}
+        - {x: 50.5, y: 68.5}
+        - {x: 40.5, y: 80.5}
+        - {x: 31.5, y: 80.5}
+        - {x: 23.5, y: 74.5}
+        - {x: -24.5, y: 75.5}
+        - {x: -32.5, y: 80.5}
+        - {x: -36.5, y: 80.5}
+        - {x: -44.5, y: 72.5}
+        - {x: -68.5, y: 36.5}
+        - {x: -72.5, y: 36.5}
+        - {x: -77.5, y: 33.5}
+        - {x: -77.5, y: -33.5}
+        - {x: -71.5, y: -34.5}
+        - {x: -46.5, y: -73.49999}
+        - {x: -36.5, y: -79.49999}
+        - {x: -30.5, y: -79.49999}
+        - {x: -29.5, y: -76.5}
+        - {x: 23.5, y: -77.5}
+        - {x: 32.5, y: -79.49999}
+      - - {x: -35.5, y: -26.5}
+        - {x: -42.5, y: -17.5}
+        - {x: -45.5, y: 14.5}
+        - {x: -42.5, y: 18.5}
+        - {x: -38.5, y: 23.5}
+        - {x: -25.5, y: 41.5}
+        - {x: -17.5, y: 41.5}
+        - {x: 24.5, y: 42.5}
+        - {x: 43.5, y: 13.5}
+        - {x: 43.5, y: -14.5}
+        - {x: 22.5, y: -44.5}
+        - {x: -23.5, y: -44.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b4054b120245d5b420a73e68609308
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plank_2
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 176
+        width: 183
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: -20}
+        - {x: -91.5, y: -11}
+        - {x: -91.5, y: 20}
+        - {x: 85.5, y: 20}
+        - {x: 91.5, y: 11}
+        - {x: 91.5, y: -13}
+        - {x: 85.5, y: -20}
+      physicsShape:
+      - - {x: 78.5, y: 3}
+        - {x: 87.5, y: 11}
+        - {x: 77.5, y: 20}
+        - {x: -75.5, y: 20}
+        - {x: -81.5, y: 13}
+        - {x: -81.5, y: 9}
+        - {x: -79.49999, y: 7}
+        - {x: -91.5, y: 2}
+        - {x: -91.5, y: -4}
+        - {x: -76.5, y: -19}
+        - {x: -76.5, y: -20}
+        - {x: 83.5, y: -20}
+        - {x: 91.5, y: -7}
+        - {x: 91.5, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acd8ab24ae949afb0dbe30f35a7bab9
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden_letter_n
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 325
+        width: 131
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.5, y: -82}
+        - {x: -65.5, y: -81}
+        - {x: -65.5, y: 81}
+        - {x: -64.5, y: 82}
+        - {x: -21.5, y: 82}
+        - {x: 23.5, y: 60}
+        - {x: 30.5, y: 82}
+        - {x: 65.5, y: 82}
+        - {x: 65.5, y: -82}
+        - {x: 25.5, y: -82}
+        - {x: -23.5, y: -71}
+        - {x: -27.5, y: -82}
+      physicsShape:
+      - - {x: -11.5, y: -12}
+        - {x: 28.5, y: -65}
+        - {x: 29.5, y: -82}
+        - {x: 60.5, y: -82}
+        - {x: 65.5, y: -66}
+        - {x: 65.5, y: -60}
+        - {x: 61.5, y: 15}
+        - {x: 62.5, y: 21}
+        - {x: 62.5, y: 51}
+        - {x: 64.5, y: 66}
+        - {x: 63.5, y: 79}
+        - {x: 61.5, y: 81}
+        - {x: 34.5, y: 81}
+        - {x: 30.5, y: 77}
+        - {x: 29.5, y: -12}
+        - {x: -16.5, y: 45}
+        - {x: -27.5, y: 59}
+        - {x: -25.5, y: 66.99999}
+        - {x: -26.5, y: 79}
+        - {x: -28.5, y: 81}
+        - {x: -55.5, y: 81}
+        - {x: -59.5, y: 77}
+        - {x: -59.5, y: 65}
+        - {x: -64.5, y: 62}
+        - {x: -65.5, y: 59}
+        - {x: -65.5, y: 54}
+        - {x: -59.5, y: 48}
+        - {x: -59.5, y: -21}
+        - {x: -60.5, y: -22}
+        - {x: -60.5, y: -79.99999}
+        - {x: -59.5, y: -82}
+        - {x: -30.5, y: -82}
+        - {x: -29.5, y: -79.99999}
+        - {x: -27.5, y: -68}
+        - {x: -24.5, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db88c90a4894508815faa452d8b203c
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden_letter_r
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 0
+        width: 115
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -68}
+        - {x: -15.5, y: -75}
+        - {x: -20.5, y: -82}
+        - {x: -52.5, y: -82}
+        - {x: -57.5, y: -77}
+        - {x: -57.5, y: 82}
+        - {x: 53.5, y: 82}
+        - {x: 57.5, y: 57}
+        - {x: 57.5, y: 9}
+        - {x: 44.5, y: -32}
+        - {x: 57.5, y: -72}
+        - {x: 57.5, y: -73}
+        - {x: 40.5, y: -82}
+        - {x: 15.5, y: -82}
+        - {x: -0.5, y: -73}
+        - {x: -5.5, y: -49}
+        - {x: -14.5, y: -44}
+        - {x: -12.5, y: -51}
+      physicsShape:
+      - - {x: -12.5, y: -22}
+        - {x: 18.5, y: -78}
+        - {x: 22.5, y: -82}
+        - {x: 25.5, y: -82}
+        - {x: 35.5, y: -78}
+        - {x: 48.5, y: -69}
+        - {x: 47.5, y: -65}
+        - {x: 46.5, y: -59}
+        - {x: 21.5, y: -12}
+        - {x: 26.5, y: -11}
+        - {x: 29.5, y: -8}
+        - {x: 31.5, y: -1}
+        - {x: 57.5, y: 27}
+        - {x: 57.5, y: 32}
+        - {x: 53.5, y: 38}
+        - {x: 31.5, y: 64}
+        - {x: 33.5, y: 72.99999}
+        - {x: 21.5, y: 82}
+        - {x: 11.5, y: 82}
+        - {x: 3.5, y: 75}
+        - {x: -18.5, y: 78}
+        - {x: -20.5, y: 82}
+        - {x: -46.5, y: 82}
+        - {x: -57.5, y: 72.99999}
+        - {x: -57.5, y: 45}
+        - {x: -51.5, y: 43}
+        - {x: -57.5, y: 17}
+        - {x: -57.5, y: -4}
+        - {x: -55.5, y: -9.999999}
+        - {x: -50.5, y: -9.999999}
+        - {x: -51.5, y: -26}
+        - {x: -51.5, y: -79.99999}
+        - {x: -50.5, y: -82}
+        - {x: -21.5, y: -82}
+        - {x: -20.5, y: -79.99999}
+        - {x: -18.5, y: -68}
+        - {x: -19.5, y: -12}
+      - - {x: -18.5, y: 25}
+        - {x: -18.5, y: 43}
+        - {x: 17.5, y: 32}
+        - {x: 7.5, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd435e495ac484d8427c78a00a53d74
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden_letter_a
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 0
+        width: 172
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86, y: -86}
+        - {x: -86, y: -86}
+        - {x: -86, y: 24}
+        - {x: -16, y: 86}
+        - {x: 29, y: 86}
+        - {x: 53, y: 44}
+        - {x: 86, y: -39}
+      physicsShape:
+      - - {x: 39, y: -48}
+        - {x: 56, y: -83}
+        - {x: 61, y: -85.99999}
+        - {x: 68, y: -85}
+        - {x: 85.99999, y: -75}
+        - {x: 85.99999, y: -69}
+        - {x: 81, y: -56}
+        - {x: 57, y: -13}
+        - {x: 57, y: 5}
+        - {x: 31, y: 38}
+        - {x: 21, y: 71}
+        - {x: 8, y: 85}
+        - {x: -3, y: 85}
+        - {x: -22, y: 74}
+        - {x: -22, y: 59}
+        - {x: -42, y: 18}
+        - {x: -47, y: 7}
+        - {x: -58, y: 7}
+        - {x: -60, y: 2}
+        - {x: -60, y: -21}
+        - {x: -83, y: -60}
+        - {x: -85.99999, y: -70}
+        - {x: -85.99999, y: -77}
+        - {x: -72.99999, y: -83}
+        - {x: -65, y: -85.99999}
+        - {x: -60, y: -85.99999}
+        - {x: -57, y: -85}
+        - {x: -27, y: -25}
+        - {x: -11, y: -25}
+        - {x: 28, y: -24}
+      - - {x: 1, y: 29}
+        - {x: 9.999999, y: 8}
+        - {x: 12, y: 7}
+        - {x: -9.999999, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f0db93981244f5a39c96207b093d71
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyre
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 120
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -59.5}
+        - {x: -60, y: -33.5}
+        - {x: -60, y: 36.5}
+        - {x: -44, y: 59.5}
+        - {x: 48, y: 59.5}
+        - {x: 60, y: 34.5}
+        - {x: 60, y: -47.5}
+        - {x: 45, y: -59.5}
+      physicsShape:
+      - - {x: 60, y: -16.5}
+        - {x: 60, y: 17.5}
+        - {x: 52, y: 34.5}
+        - {x: 28, y: 55.5}
+        - {x: 16, y: 59.5}
+        - {x: -8, y: 59.5}
+        - {x: -21, y: 56.5}
+        - {x: -34, y: 48.5}
+        - {x: -44, y: 39.5}
+        - {x: -55, y: 27.5}
+        - {x: -60, y: 9.5}
+        - {x: -60, y: -11.5}
+        - {x: -55, y: -26.5}
+        - {x: -45, y: -42.5}
+        - {x: -30, y: -52.5}
+        - {x: -15, y: -59.5}
+        - {x: 13, y: -59.5}
+        - {x: 24, y: -56.5}
+        - {x: 35, y: -50.5}
+        - {x: 51, y: -35.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50626a05986c4402be364191f614a3b0
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plank_1
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 123
+        width: 154
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: -19.5}
+        - {x: -77, y: -17.5}
+        - {x: -77, y: 13.5}
+        - {x: -73, y: 19.5}
+        - {x: 77, y: 19.5}
+        - {x: 77, y: -19.5}
+      physicsShape:
+      - - {x: 77, y: 19.5}
+        - {x: -63, y: 19.5}
+        - {x: -70, y: 14.5}
+        - {x: -77, y: -6.5}
+        - {x: -77, y: -13.5}
+        - {x: -64, y: -19.5}
+        - {x: 74, y: -19.5}
+        - {x: 77, y: -1.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7d8eb373a741a8938d9b2b92d0501e
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

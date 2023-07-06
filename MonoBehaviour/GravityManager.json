@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4564715692233153467
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9204686748859507656
+  },
+  "m_Name": "",
+  "invertGravity": 1,
+  "gravityMultiplier": 1.0,
+  "gravityWells": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5340081687014385555
+    }
+  ]
+}

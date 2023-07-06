@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5921519647943460628
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3217727685960749867
+  },
+  "m_Name": "",
+  "truckBody": {
+    "m_FileID": 0,
+    "m_PathID": -666004696018131374
+  },
+  "wheel1Body": {
+    "m_FileID": 0,
+    "m_PathID": -8771591270867244736
+  },
+  "wheel2Body": {
+    "m_FileID": 0,
+    "m_PathID": -971568039859289943
+  },
+  "isAway": 0
+}

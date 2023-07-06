@@ -1,0 +1,2098 @@
+{
+	"Episode0": "Perdidos bajo tierra",
+
+	"Episode1": "Perdidos en Londres",
+
+	"Episode2": "Perdidos en el espacio",
+
+	"Episode3": "Bonificación",
+
+	"Episode4": "Entrenamiento",
+
+	"Level01": "Instinto gregario",
+
+	"Level02": "Ovejas bajo tierra",
+
+	"Level03": "Hora de un bueeen baño",
+
+	"Level04": "Oveja electrocutada",
+
+	"Level05": "Una ayudita de Timmy",
+
+	"Level06": "Situación explosiva",
+
+	"Level07": "¡Oveja al agua!",
+
+	"Level08": "En busca de la balada perdida",
+
+	"Level09": "Una cuestión de peso",
+
+	"Level10": "Bomba ovejuna",
+
+	"Level11": "Convirtiendo la lana en nailon",
+
+	"Level12": "Ni que fuéramos conejos",
+
+	"Level13": "Metidos en un pozo",
+
+	"Level14": "Caída ovina",
+
+	"Level15": "Ascenso hacia el hogar",
+
+	"Level16": "Camión de ganado",
+
+	"Level17": "Oveja al volante",
+
+	"Level18": "Viajecito en autobús",
+
+	"Level19": "Estragos ovejunos en Londres",
+
+	"Level20": "Dominovino",
+
+	"Level21": "De globo en globo",
+
+	"Level22": "Ascenso ovino",
+
+	"Level23": "El péndulo maldito",
+
+	"Level24": "A contrarreloj",
+
+	"Level25": "Descenso ovejuno",
+
+	"Level26": "Oveja Noel",
+
+	"Level27": "La ley de los corderos",
+
+	"Level28": "Ovejas en camuflaje",
+
+	"Level29": "El león y el cordero",
+
+	"Level30": "Veerde que te quiero veeerde",
+
+	"Level31": "El planeta de los corderos",
+
+	"Level32": "Abducción ovina",
+
+	"Level33": "Tú sí que sabes, Shirley",
+
+	"Level34": "Ovejas estelares",
+
+	"Level35": "Una esperanza ovejuna",
+
+	"Level36": "De portales vuelve a ir la cosa",
+
+	"Level37": "Que la fuerza te acompañe, Timmy",
+
+	"Level38": "¿Es una caja? ¿Es una oveja?",
+
+	"Level39": "La fuerza del rebaño",
+
+	"Level40": "Corderos, tenemos un problema",
+
+	"Level41": "En busca del rebaño",
+
+	"Level42": "Escalera hacia el cielo",
+
+	"Level43": "Centrifugación lanuda",
+
+	"Level44": "Un pequeño paso para la oveja...",
+
+	"Level45": "...Un gran paso para la especie ovina.",
+
+	"Level46": "Sensación de hundimiento",
+
+	"Level47": "Carro demencial",
+
+	"Level48": "Jean Claude Van Lana",
+
+	"Level49": "Veeeen a jugar al fútbol",
+
+	"Level50": "Frustración ovejuna",
+
+	"Level51": "Ovejas en equilibrio",
+
+	"Level52": "El péndulo original",
+
+	"Level53": "Gran Hermano veeee lo que haces",
+
+	"Level54": "¿Las ovejas sueñan con androides?",
+
+	"Level55": "Ovejas galácticas",
+
+	"Level56": "Los rumiantes de la galaxia",
+
+	"Level57": "Una oveja en la luna",
+
+	"Level58": "En el espacio, nadie puede oírte balar",
+
+	"Level59": "El quinto ejemplar",
+
+	"Level60": "Veeeen al espacio",
+
+	"Level61": "Escuela ovejuna",
+
+	"Level62": "Educación superior ovina",
+
+	"Level63": "Universidad ovina",
+
+	"Level64": "Ovejitas resabidas",
+
+	"HackT01": "Dedo fulminante",
+
+	"HackT02": "Lana teñida",
+
+	"HackT03": "No andes, corre",
+
+	"HackT04": "Invocación de yunques",
+
+	"HackT05": "Cordero estofado",
+
+	"HackT06": "Ovejas turbo",
+
+	"HackT07": "Antigravitatorio",
+
+	"HackT08": "Dedo explosivo",
+
+	"HackT09": "Ovejas megaturbo",
+
+	"HackT10": "Espinacas para desayunar",
+
+	"HackT11": "Oveja ninja",
+
+	"HackT12": "Muelles por patas",
+
+	"HackT13": "Caminando en el aire",
+
+	"HackT14": "Operación Matrix",
+
+	"HackT15": "Intervención divina",
+
+	"HackD01": "Las ovejas reciben una descarga eléctrica al hacer clic en ellas.",
+
+	"HackD02": "La lana de las ovejas es de colores.",
+
+	"HackD03": "Las ovejas se pueden mover mucho más deprisa de lo normal.",
+
+	"HackD04": "Haz clic o arrastra para crear yunques.",
+
+	"HackD05": "Las ovejas fuman todo el rato.",
+
+	"HackD06": "El juego avanza al doble de velocidad.",
+
+	"HackD07": "Haz clic o mantén pulsado el ratón para alterar la gravedad.",
+
+	"HackD08": "Haz clic para crear explosiones.",
+
+	"HackD09": "El juego avanza al triple de velocidad.",
+
+	"HackD10": "Las ovejas empujan objetos con más fuerza.",
+
+	"HackD11": "Las ovejas son ninjas y pueden saltar por las paredes.",
+
+	"HackD12": "Las ovejas pueden saltar mucho más alto.",
+
+	"HackD13": "Las ovejas pueden saltar en pleno aire como por arte de magia.",
+
+	"HackD14": "Mira cómo se hace todo con la geometría de niveles visible.",
+
+	"HackD15": "Arrastra cualquier objeto movible con el ratón.",
+
+	"HackT01_Mobile": "Dedo fulminante",
+
+	"HackT02_Mobile": "Lana teñida",
+
+	"HackT03_Mobile": "No andes, corre",
+
+	"HackT04_Mobile": "Invocación de yunques",
+
+	"HackT05_Mobile": "Cordero estofado",
+
+	"HackT06_Mobile": "Ovejas turbo",
+
+	"HackT07_Mobile": "Antigravitatorio",
+
+	"HackT08_Mobile": "Dedo explosivo",
+
+	"HackT09_Mobile": "Ovejas megaturbo",
+
+	"HackT10_Mobile": "Espinacas para desayunar",
+
+	"HackT11_Mobile": "Oveja ninja",
+
+	"HackT12_Mobile": "Muelles por patas",
+
+	"HackT13_Mobile": "Caminando en el aire",
+
+	"HackT14_Mobile": "Operación Matrix",
+
+	"HackT15_Mobile": "Intervención divina",
+
+	"HackD01_Mobile": "Las ovejas reciben una descarga eléctrica al tocarlas.",
+
+	"HackD02_Mobile": "Las ovejas se pueden mover mucho más deprisa de lo normal.",
+
+	"HackD03_Mobile": "La lana de las ovejas es de colores.",
+
+	"HackD04_Mobile": "Toca la pantalla para crear yunques.",
+
+	"HackD05_Mobile": "El juego avanza al doble de velocidad.",
+
+	"HackD06_Mobile": "Las ovejas son ninjas y pueden saltar por las paredes.",
+
+	"HackD07_Mobile": "Toca la pantalla para crear explosiones.",
+
+	"HackD08_Mobile": "Las ovejas fuman todo el rato.",
+
+	"HackD09_Mobile": "Inclina el dispositivo para alterar la gravedad.",
+
+	"HackD10_Mobile": "Las ovejas empujan objetos con más fuerza.",
+
+	"HackD11_Mobile": "El juego avanza al triple de velocidad.",
+
+	"HackD12_Mobile": "Las ovejas pueden saltar mucho más alto.",
+
+	"HackD13_Mobile": "Las ovejas pueden saltar en pleno aire como por arte de magia.",
+
+	"HackD14_Mobile": "Mira cómo se hace todo con la geometría de niveles visible.",
+
+	"HackD15_Mobile": "Arrastra cualquier objeto movible con el dedo.",
+
+	"AchT01": "La pezuña perdida",
+
+	"AchD01": "Completa el 1.er nivel de Perdidos bajo tierra.",
+
+	"AchT02": "Minero magnético",
+
+	"AchD02": "Completa el 5.o nivel de Perdidos bajo tierra.",
+
+	"AchT03": "Dale a la bomba",
+
+	"AchD03": "Completa el 10.o nivel de Perdidos bajo tierra.",
+
+	"AchT04": "En las profundidades",
+
+	"AchD04": "Completa el 15.o nivel de Perdidos bajo tierra.",
+
+	"AchT05": "De vuelta en la carretera",
+
+	"AchD05": "Completa el 1.er nivel de Perdidos en Londres.",
+
+	"AchT06": "Maestro de los tejados",
+
+	"AchD06": "Completa el 5.o nivel de Perdidos en Londres.",
+
+	"AchT07": "Hora de marcharse",
+
+	"AchD07": "Completa el 10.o nivel de Perdidos en Londres.",
+
+	"AchT08": "Aparcamiento autorizado",
+
+	"AchD08": "Completa el 15.o nivel de Perdidos en Londres.",
+
+	"AchT09": "Mi casa, mi teléfono",
+
+	"AchD09": "Completa el 1.er nivel de Perdidos en el espacio.",
+
+	"AchT10": "Caída ovejuna",
+
+	"AchD10": "Completa el 5.o nivel de Perdidos en el espacio.",
+
+	"AchT11": "Genio de campo",
+
+	"AchD11": "Completa el 10.o nivel de Perdidos en el espacio.",
+
+	"AchT12": "2011: Odisea ovina en el espacio",
+
+	"AchD12": "Completa el 15.o nivel de Perdidos en el espacio.",
+
+	"AchT13": "Entrenamiento básico",
+
+	"AchD13": "Completa el entrenamiento Escuela ovejuna.",
+
+	"AchT14": "Bachillerato",
+
+	"AchD14": "Completa el entrenamiento Educación superior ovina.",
+
+	"AchT15": "Licenciatura ovina",
+
+	"AchD15": "Completa el entrenamiento Universidad ovina.",
+
+	"AchT16": "Superbonificación",
+
+	"AchD16": "Completa un nivel de bonificación.",
+
+	"AchT17": "Supermegabonificación",
+
+	"AchD17": "Completa cinco niveles de bonificación.",
+
+	"AchT18": "Supermegahiperbonificación",
+
+	"AchD18": "Completa diez niveles de bonificación.",
+
+	"AchT19": "Superglobalmegahiperbonificación",
+
+	"AchD19": "Completa los niveles de bonificación de los primeros 3 episodios.",
+
+	"AchT20": "Juego completo",
+
+	"AchD20": "Completa los primeros 3 episodios.",
+
+	"AchT21": "Créditos extra",
+
+	"AchD21": "Encuentra un pastel enorme para desbloquear los comentarios de los desarrolladores.",
+
+	"AchT22": "Cordero asado",
+
+	"AchD22": "Chamusca a Shaun en un cohete en el último nivel de Perdidos en el espacio.",
+
+	"AchT23": "Polizones responsables",
+
+	"AchD23": "Completa el nivel 1 de Perdidos en Londres con el equipaje a bordo.",
+
+	"AchT24": "Amenaza motorística",
+
+	"AchD24": "Destroza 5 radares de velocidad seguidos en el nivel 3 de Perdidos en Londres.",
+
+	"AchT25": "Tres puntos",
+
+	"AchD25": "Saca una foto de cada oveja en el nivel 3 de Perdidos en Londres.",
+
+	"AchT26": "Respeta a los vecinos",
+
+	"AchD26": "Completa el nivel 5 de Perdidos en Londres con todas las chimeneas intactas.",
+
+	"AchT27": "Dónde está mi paracaídas",
+
+	"AchD27": "Usa solo 2 paracaídas para sobrevivir a la caída en el pozo de la mina.",
+
+	"AchT28": "Pánico al ruido",
+
+	"AchD28": "Completa el nivel 4 de Perdidos bajo tierra sin usar dinamita.",
+
+	"AchT29": "Avaro con los explosivos",
+
+	"AchD29": "Completa el nivel 6 de Perdidos bajo tierra sobrándote dinamita.",
+
+	"AchT30": "Reducción del teletransporte",
+
+	"AchD30": "Completa el nivel 4 de Perdidos en el espacio usando solo dos veces el teletransporte.",
+
+	"AchT31": "Intercambio minimalista",
+
+	"AchD31": "Cambia de selección de oveja solo una vez en el nivel 14 de Perdidos en el espacio.",
+
+	"AchT32": "Lobo disfrazado de oveja",
+
+	"AchD32": "Llega a casa haciendo surf en el techo de la furgoneta en el nivel 15 de Perdidos en Londres.",
+
+	"AchT33": "No molestes a los ciudadanos",
+
+	"AchD33": "Cruza la esfera del reloj del Big Ben sin mover las agujas.",
+
+	"AchT34": "Espectáculo circense",
+
+	"AchD34": "Consigue que las tres ovejas vuelen a la vez usando la chimenea.",
+
+	"AchT35": "Las ovejas no saben jugar al fútbol",
+
+	"AchD35": "No toques el balón en el nivel 6 de Perdidos en el espacio.",
+
+	"AchT36": "Trota, ovejita, trota",
+
+	"AchD36": "Completa cualquier nivel y obtén una clasificación de tres estrellas.",
+
+	"AchT37": "Corre, ovejita, corre",
+
+	"AchD37": "Completa cinco niveles obteniendo una clasificación de tres estrellas.",
+
+	"AchT38": "Galopa, ovejita, galopa",
+
+	"AchD38": "Completa treinta niveles obteniendo una clasificación de tres estrellas.",
+
+	"AchT39": "Esprinta, ovejita, esprinta",
+
+	"AchD39": "Completa los primeros tres episodios obteniendo una clasificación de tres estrellas.",
+
+	"AchT40": "Desbócate, ovejita, desbócate",
+
+	"AchD40": "Supera el tiempo de los desarrolladores en cualquier nivel.",
+
+	"AchT41": "Un par de calcetines",
+
+	"AchD41": "Encuentra dos calcetines perdidos.",
+
+	"AchT42": "Un calcetín para cada pezuña.",
+
+	"AchD42": "Desbloquea el episodio Perdidos en Londres al encontrar 12 calcetines.",
+
+	"AchT43": "Pezuñas calentitas",
+
+	"AchD43": "Desbloquea el episodio Perdidos en el espacio al encontrar 24 calcetines.",
+
+	"AchT44": "Demasiados calcetines",
+
+	"AchD44": "Encuentra cincuenta calcetines, más que suficientes para cualquier oveja.",
+
+	"AchT45": "¿Quién quiere tantos calcetines?",
+
+	"AchD45": "Encuentra setenta y cinco calcetines, suficientes para toda una vida",
+
+	"AchT46": "Misión calcetines completa",
+
+	"AchD46": "Encuentra todos los calcetines en los primeros 3 episodios.",
+
+	"AchT47": "Ovejita golosa",
+
+	"AchD47": "Encuentra un pastel oculto para desbloquear un modo de bonificación especial.",
+
+	"AchT48": "Necesito más niveles",
+
+	"AchD48": "Desbloquea un nivel de bonificación al encontrar un joystick oculto.",
+
+	"AchT49": "Pastelada",
+
+	"AchD49": "Encuentra 15 pasteles ocultos.",
+
+	"AchT50": "Dame más niveles",
+
+	"AchD50": "Encuentra 15 joysticks",
+
+	"AchT51": "Trastorno coleccionista compulsivo",
+
+	"AchD51": "Encuentra todo lo posible en los primeros 3 episodios.",
+
+	"AchT52": "Hora del descanso",
+
+	"AchD52": "Consigue todos los demás logros.",
+
+	"AchT53": "Calzoncillos secretos",
+
+	"AchD53": "Encuentra un par de calzoncillos secretos.",
+
+	"AchT54": "Calzoncillos supersecretos",
+
+	"AchD54": "Encuentra todos los calzoncillos ocultos.",
+
+	"AchT55": "Un calcetín para cada pezuña",
+
+	"AchD55": "Encuentra 12 calcetines, ¡uno para cada pezuña!",
+
+	"AchT56":"Put on your thinking Gap" ,
+	"AchD56":"Complete Farm level 5" ,
+
+	"AchT57":"Box Clever" ,
+	"AchD57":"Complete Farm level 10" ,
+
+	"AchT58":"Tyre Straits" ,
+	"AchD58":"Complete Farm level 10" ,
+
+	"AchT59":"Jump it Up" ,
+	"AchD59":"Complete Farm level 15" ,
+
+	"Training61": "¡Muy bien! ¡Dentro de nada dominarás a las ovejas como nadie!",
+
+	"Training62": "¡Muy bien! ¡Dentro de nada dominarás a las ovejas como nadie!",
+
+	"Training63": "¡Entrenamiento completado! Ahora te esperan los retos de verdad...",
+
+	"Finish": "Terminar",
+
+	"Retry": "Reintentar",
+
+	"Levels": "Niveles",
+
+	"Loading": "Cargando...",
+
+	"Start": "Iniciar",
+
+	"Go": "¡Adelante!",
+
+	"LCompleted": "Nivel completado",
+
+	"LFailed": "Nivel fallido",
+
+	"NLevel": "Siguiente nivel",
+
+	"LoadingNoDots": "Cargando",
+
+	"NotSavedBadFile": "No se ha guardado: archivo de nivel no válido.",
+
+	"NotSavedHackOn": "No se ha guardado: modo Trucos activado.",
+
+	"ItemsFound": "Objetos encontrados",
+
+	"YourScore": "Tu puntuación",
+
+	"YourTime": "Tu tiempo",
+
+	"Slower": "más lento",
+
+	"Quicker": "más rápido",
+
+	"BeatDev": "¡Has superado el tiempo de los desarrolladores!",
+
+	"PlayBonus": "Jugar al nivel de bonificación",
+
+	"StartGame": "Iniciar partida",
+
+	"Score": "Puntuación",
+
+	"SelectEpisode": "Seleccionar episodio",
+
+	"DevCom": "Comentarios de los desarrolladores",
+
+	"TrainingBlurb": "¿Ya has jugado antes?\nPasa directamente a la acción.",
+
+	"TrainingBlurbWide": "¿Ya has jugado antes? Pasa directamente a la acción.",
+
+	"OutOf": "de",
+
+	"FasterFor": "más rápido para conseguir",
+
+	"Sec": "s",
+
+	"Tip": "Consejo:",
+
+	"Options": "Opciones",
+
+	"Save": "Guardar",
+
+	"WipeP": "Eliminar avances",
+
+	"Credits": "Créditos",
+
+	"SE": "Efectos de sonido",
+
+	"DC": "Comentarios de los desarrolladores",
+
+	"Music": "Música",
+
+	"On": "Sí",
+
+	"Off": "No",
+
+	"ComingSoon": "Próximamente",
+
+	"BonusLevelsT": "BONIFICACIONES",
+
+	"BonusLevelsB": "NIVELES",
+
+	"StoryLevelsT": "HISTORIA",
+
+	"StoryLevelsB": "NIVELES",
+
+	"TipGen00web": "Puedes pulsar 1, 2 y 3 para cambiar de oveja.",
+
+	"TipGen01web": "Pulsa R para reiniciar un nivel e intentarlo de nuevo.",
+
+	"TipGen02web": "Con la tecla Escape puedes salir del nivel y probar otro.",
+
+	"TipGen00": "Puedes seleccionar una oveja tocándola.",
+
+	"TipGen01": "Toca el botón Reintentar para reiniciar un nivel y probar de nuevo.",
+
+	"TipGen02": "Con el icono de la casa puedes salir del nivel y probar otro.",
+
+	"TipGen03": "No te olvides de buscar zonas ocultas.",
+
+	"TipGen04": "Todas las ovejas pueden saltar una sobre otra.",
+
+	"TipGen05": "Las ovejas y otros objetos pueden servir para mantener pulsados los botones abombados.",
+
+	"TipGen06": "Además de ovejas, también puedes usar objetos para pulsar botones.",
+
+	"TipGen07": "Ojo que no se salgan las ovejas de la pantalla, o tendrás que reiniciar el nivel.",
+
+	"TipGen08": "Apila ovejas unas encima de otras para llegar a sitios altos.",
+
+	"TipGen09": "Shirley es la que mejor empuja objetos pesados.",
+
+	"TipGen10": "A Shaun se le da genial saltar.",
+
+	"TipGen11": "Timmy cabe en cualquier hueco, por pequeño que sea.",
+
+	"TipGen12": "Normalmente se pueden advertir las zonas ocultas gracias a agujeros visibles.",
+
+	"TipUG00": "Los explosivos pueden romper objetos frágiles.",
+
+	"TipUG01": "Los explosivos no hacen daño a las ovejas.",
+
+	"TipUG02": "¡Los imanes son muy poderosos!",
+
+	"TipUG03": "Algunos objetos flotan en el agua.",
+
+	"TipUG04": "Shaun y Timmy saben nadar muy bien.",
+
+	"TipUG05": "Shaun puede saltar muy alto desde el agua.",
+
+	"TipUG06": "Shirley no sabe nadar; ¡siempre se hunde! Pero no te preocupes, que no se ahoga.",
+
+	"TipUG07": "¡Las ovejas conducen la electricidad! Y lo mejor es que no les importa recibir una descarga.",
+
+	"TipUG08": "Las ovejas pueden salir volando si se encuentran encima de algo de dinamita que explota.",
+
+	"TipLN00": "¡Los imanes son muy poderosos!",
+
+	"TipLN01": "Los tejados de Londres están muy altos. ¡Ojo con caerte!",
+
+	"TipSP00": "Las ovejas no pueden atravesar campos magnéticos, pero los objetos inanimados sí.",
+
+	"TipSP01": "Cualquier objeto se puede teletransportar.",
+
+	"TipSP02": "Puedes enviar la mayoría de objetos a través de un portal, no solo ovejas.",
+
+	"TipSP03": "¿Quieres que algo salga disparado de un portal? Haz que entre también rápido.",
+
+	"TipSP04": "Para reiniciar un teletransportador, retira todos los objetos que haya.",
+
+	"TipSP05": "Un teletransportador sólo puede enviar un objeto a la vez. Si la luz parpadea, está sobrecargado.",
+
+	"TipSP06": "Los campos magnéticos suelen tener un botón para desactivarlos.",
+
+	"TipSP07": "La luz ámbar indica que el teletransportador está listo. Carga otro teletransportador para intercambiar los objetos.",
+
+	"TipSP08": "Algunos portales están fijos, otros se pueden mover.",
+
+	"TipDesktop01": "Encuentra pasteles deliciosos para desbloquear trucos.",
+
+	"TipDesktop02": "Recoge los joysticks que te vayas encontrando. Desbloquean niveles de bonificación.",
+
+	"TipWeb01": "¿Podrás encontrar todos los calzoncillos secretos?",
+
+	"TipWeb02": "No te olvides de enviar tus récords de puntuación.",
+
+	"TipLV01": "Si no te conoces muy bien el juego, ¡prueba los niveles de entrenamiento!",
+
+	"TipLV02": "No te olvides de buscar zonas ocultas, ya que contienen objetos especiales.",
+
+	"TipLV03": "Shirley no sabe nadar, pero estas ovejas nunca se ahogan.",
+
+	"TipLV04": "¡Las ovejas resisten las explosiones! Revienta lo que quieras, que ni se inmutarán.",
+
+	"TipLV16": "¿Puedes ayudar al granjero a poner en marcha su vieja furgoneta?",
+
+	"TipLV17": "Escapa de la furgoneta, pero no te quedes atrás.",
+
+	"TipLV28": "Si la luz te alcanza y te ven, la puerta se bloqueará. ¿Podrías esconderte en algún sitio?",
+
+	"TipLV30": "El tráfico sólo avanza si el semáforo está en verde.",
+
+	"TipLV31": "Es la hora de comer, pero el granjero está viendo la tele. Tendrás que llamar su atención como sea.",
+
+	"TipLV32": "¡Te han secuestrado y encerrado! Vas a tener que escaparte.",
+
+	"TipLV33": "Los teletransportadores intercambian dos objetos.",
+
+	"TipLV37": "Recuerda que los objetos pueden atravesar campos magnéticos.",
+
+	"TipLV42": "Recuerda que algunos portales pueden moverse.",
+
+	"TipLV44": "Shaun necesitará algo de impulso para saltar entre los asteroides.",
+
+	"TipLV45": "Si pudieras poner en marcha el cohete, podría ayudarte a llegar a casa.",
+
+	"TipLV61web": "Usa las flechas del teclado para controlar a las ovejas.",
+
+	"TipLV61": "Usa las flechas en la parte inferior de la pantalla para controlar a las ovejas.",
+
+	"TipLV62": "Las ovejas se pueden apilar unas encima de otras para alcanzar lugares altos.",
+
+	"TipLV63": "Cada oveja tiene una habilidad especial. ¡Tenlo en cuenta al jugar!",
+
+	"TipLV64": "¡Gracias por jugar!",
+
+	"DevA_CU": "Chris Underwood",
+
+	"DevJ_CU": "Game designer/developer",
+
+	"DevA_RD": "Robin Davey",
+
+	"DevJ_RD": "Game designer/illustrator",
+
+	"DevA_RiD": "Richard Davey",
+
+	"DevJ_RiD": "Technical Director",
+
+	"DevA_KMR": "Katie McQuin Roberts",
+
+	"DevJ_KMR": "Community manager",
+
+	"DevA_MA": "Matt Aranha",
+
+	"DevJ_MA": "iPhone developer",
+
+	"DevA_DC": "Dave Callaghan",
+
+	"DevJ_DC": "QA tester",
+
+	"DevA_VK": "Valentin Kalchev",
+
+	"DevJ_VK": "QA tester",
+
+	"DevA_GS": "Gavin Strange",
+
+	"DevJ_GS": "Interface Designer",
+
+	"DevA_DE": "Dan Efergan",
+
+	"DevJ_DE": "Creative Director",
+
+	"Dev01": "We wanted to start Home Sheep Home 2 in a setting familiar to players of the previous game, but rapidly get into the new environments. This helps remind existing players how to play, or lets new players learn the basics. More importantly, it sets you up for a \"more of the same\" sequel, then immediately smashes this expectation by literally dropping you into a brand new environment with its own unique aesthetic and puzzles.",
+
+	"Dev01a": "This first level is a good example of how the 'hand drawn' aesthetic of Home Sheep Home has moved on since the first game. While the rural setting should be immediately familiar to fans of the original, the colours are stronger, the textures richer and more painterly, and the line work more nuanced.\n\nThere are reasons for these changes beyond simply wanting to improve on what came before. HSH1 was a free web game and hence all the graphics were vector based, created directly in Flash for speed and file size considerations. This time however our primary focus was on the mobile and desktop platforms, which can sustain much higher file sizes and generally have a higher graphical standard. \n\nMoreover, I sensed that the minimal 'ink and wash' look of the first game would prove inadequate in depicting the wide variety of different environments that the sequel would visit.\n\nThis freed me up to create essentially a unique digital painting for each level of the new game. If HSH1 was the sketchpad, HSH2 is the full colour storybook.",
+
+	"Dev02": "Through taking part in the forums on the ShauntheSheep.com website, it was clear to see that Shirley and Timmy were emerging as popular characters in the show, along with Shaun of course! It's great to see them taking a starring role in Home Sheep Home.",
+
+	"Dev02a": "While the new game's backgrounds were 'painted' in Photoshop, the various props and interactive items are still vector in origin. Although I'm pleased by how well they blend together, it does create a subtle visual distinction that tells the player which elements of a level should be the focus of their attentions.",
+
+	"Dev03": "The original Home Sheep Home has been played in over 50 countries worldwide! We'd like to say a special hello to our fans in China, Turkey and the United States, who are our top 3 button-bashing territories so far!",
+
+	"Dev04": "Originally this level had several crates of TNT in case you messed up with the first one. Playtesters often got confused about the purpose of the extra crates however, and lost focus on what they were meant to be doing. With just one crate, it's clear that only one sheep needs to be explosively launched to the exit.",
+
+	"Dev05": "My contribution to the original Home Sheep Home came quite late in it's development, with Chris already having designed and built all fifteen levels using placeholder graphics.\n\nBesides drawing and animating the three sheep, I had the task of interpreting the sometimes quite abstract geometry of Chris's designs in to more recognisable scenery. I formulated certain visual rules about the game world, for example that there should be no unsupported platforms, which are carried through in to the new game.\n\nFor the most part this approach worked well, but I was glad to be involved with the sequel from the beginning. Having some say in the layout of the levels made the job of 'skinning' them that much easier, especially in the London chapter where the backgrounds had to reflect real-world locations with a degree of accuracy.",
+
+	"Dev06": "Home Sheep Home's puzzles are intended to flow neatly from start to end. Originally the first crate of TNT started on the fuse, intended as an easy intro to a complex layout. In testing however, players encountered the lift first and used it to grab the second crate. Then they'd use up two crates launching a single sheep and get stuck. Once we moved the crate into the lift, this problem vanished completely. The puzzle just flowed better.",
+
+	"Dev06a": "During the play testing phase of Home Sheep Home 2 we realised how much people care about our little sheep! We had quite a few concerned responses regarding sheep conducting electricity, being blown up with dynamite and being submerged in water for too long without a snorkel. Don't worry, we can confirm no sheep were harmed in the creation of this game.",
+
+	"Dev07": "The physics engine for Home Sheep Home 2 is an old version of Box2D. It was the latest version when the original game was made, and we wanted to keep the character physics absolutely identical. Also why spend effort upgrading something that already works perfectly well? One downside is that Box2D doesn't support water in this version.\n\nReal buoyancy and fluid drag calculations are very tricky and computationally expensive, so we're using a much simplified approach. For each object we select a number of float-points. If a point is underwater, we push it upwards. Combined with plenty of damping when an object is submerged, it produces a pretty nice floating/sinking effect.",
+
+	"Dev07a": "Just as one of Chris's rules for game development is not to repeat gameplay, I strove not to repeat graphics. Though certain elements such as skies are repeated, as far as time would allow each level was created from scratch.\n\nThat boulder however, does make a second cameo appearance much later in the game. See if you can spot it!",
+
+	"Dev08": "The design for this level was originally a puzzle involving minecarts and explosives. The sheep would have to ride the cart up a steep hill by detonating TNT behind it. The concept didn't work at all. When the hill was shallow the sheep could walk up it without the cart. When it was steep, the explosion couldn't push the cart far enough, even with ridiculously strong TNT. The idea was scrapped altogether and we came up with this classic Indiana Jones parody to replace it.\n\nWe found ourselves discarding about 10% of our initial level ideas like this. It's painful to spend time building something, only to throw it away. But if it doesn't benefit the game, it doesn't belong and must go.",
+
+	"Dev08a": "Another aesthetic rule of HSH1 was no unnecessary detail. Levels should be readable and without visual distraction. This holds true of the sequel too. While there is generally more scenic detail in the new levels, it is there only to convey a sense of location.\n\nOne notable exception to this is the hidden rooms. These were introduced in the main as places to secrete collectables, but we also saw them as an opportunity to add a little extra visual humour. Hence, in many of them you'll find cheeky but affectionate tributes to classic films, other games, and perhaps even the odd ex-Prime Minister!\n\nBeing allowed the time for this kind of 'added value' stuff was a rare privilege for me, and one I greatly enjoyed.",
+
+	"Dev09": "Because the world of Home Sheep Home is so beautifully illustrated by Robin Davey, I knew I had my work cut out for me in terms of designing an interface. So rather than competing with Robin's work, I wanted the interface to compliment it.\n\nThe graphics are intentionally quite simple, being clean and crisp to help guide the player through the choices presented, helping them get through to playing the game as quickly as possible!\n\nEven though it's all nice and clean, the typography and shapes all have a bit of texture on them. The edges are a bit gnarled, so they still fit within the warm textured world of Home Sheep Home.",
+
+	"Dev09a": "The game's title screen has given me grief, I'm not going to lie. I'm writing this commentary because I need a break from trying to lay out the title screen nicely, so hopefully what you're seeing now is nice and neat, but I would like it to be known that it's given me a lot of brain ache!\n\nBeing a designer is a pretty awesome job, we get paid to make things pretty but every so often a problem comes up that is seemingly impossible to solve. How will I fit everything on-screen and make it look nice? The first port of call is pushing back and asking do I have to fit this on here? Generally all it takes is to step away from the design, have a cup of tea and to see things with fresh eyes and that's exactly what I'm going to do. Bye!",
+
+	"Dev10": "Trying to create a mobile version of Home Sheep Home 2 provided many technical and design challenges. With the limited screen space and lack of a physical keyboard we had to think carefully about the control system to adopt. We ended up prototyping a few options including one where tilting the device moved the sheep - although it was a nice idea, it was too tricky to control the sheep accurately enough.",
+
+	"Dev10a": "The first time anyone plays a new level, it has no background graphics and consists almost entirely of grey rectangles. Once it is tested and the layout finalised, I export the level geometry as a jpeg and effectively trace over it in Photoshop, adding detail and colour to create the finished artwork.\n\nIt is an interesting process, sometimes clarifying the solution to the puzzle and other times obfuscating it. This is a good example of a level where the graphics help unify a potentially confusing layout in to a comprehensible whole. Everything suddenly looks like it belongs and has a clear function.",
+
+	"Dev11": "Designing levels for Home Sheep Home 2 is a constant battle for screen space. The interface effectively removes a thick strip from the top and bottom of the screen, and the paper graphic removes a fairly generous border from all edges. By convention we have the sheep starting on the left and ending on the right, both of which take yet more space.\n\nAdditionally, level designs had to take into account the iPhone version. From the already small mobile screen we have to subtract room for extra large interface buttons, and movement controls too! It's a wonder there's any space left for puzzles after all that.",
+
+	"Dev11a": "To give us more space for puzzles, we considered having the level scroll around to follow the sheep. Our testing however has always found that players understand physics puzzles much better if they can see the entire level at once. As soon as they have to explore, they start missing essential elements. When they have to remember objects that are out of view, they can cope with much less complexity in the puzzles themselves.\n\nAnother problem with a scrolling camera in a physics game is that things can happen out of shot. Say an unstable stack of hay bales falls over and knocks a sheep down a well. If the player doesn't see it happen, they can't possibly understand why the level was suddenly over and will feel very cheated.",
+
+	"Dev12": "Although the cheat modes seem like just a bit of extra fun, many of them actually came about for serious reasons, which we discovered were actually quite good fun. Divine Intervention for example was dead handy for testing levels, whilst ones like Explodey Finger were good stepping stones towards getting a feature working. Others came about through things not quite working as they should. Walking on Air actually had it's origins in a YouTube video of the original game in which Shaun got stuck to a plank which enabled him to jump whilst in the air!",
+
+	"Dev13": "The tunnel here is a lie. As far as the physics engine is concerned, there is no tunnel. There's a sensor watching for Timmy attempting to run to the button, with the other two sheep in place. That triggers the breaking rope and the fall into the next level. If you were somehow able to press the button, it wouldn't do anything! There's no point building things that'll never be used.",
+
+	"Dev14": "At the design stage, we were sceptical about whether a level set mid-fall would really work. The earliest prototypes with scrolling walls showed clearly that it would be fun, however. The original design had to be simplified a fair bit because everyone panics when they perceive the peril of falling!",
+
+	"Dev14a": "Testing HSH2 has been a thoroughly enjoyable experience as the game is great fun to play, looks brilliant and is quite addictive! I have probably played each level over a few hundred times, mostly to improve my times as I became obsessed with finding the quickest routes through all the levels and setting developer times which I hope will be hard to beat. I managed to beat the previous developer time for one level on the Flash version by a whopping 22 seconds, and found a way to finish this level using only one parachute in around 10 seconds, this was one of my favourite tricks to pull off and get a really fast time.",
+
+	"Dev15": "If nothing else, this level exemplifies our commitment to even the most dubious joke. Sorry Australia!\n\nIn all seriousness though, it does demonstrate that it's not significantly more expensive, in terms of time and effort, for us to send our characters to Australia for a single level. That's one of the great advantages of this hand drawn style over say, CG or stop motion.",
+
+	"Dev16": "The narrative of the first Home Sheep Home, as far as there is one, is more or less contained in it's title: There are some sheep, and they're trying to get home. So in planning the sequel it was agreed by all that a stronger story element should be introduced, especially given the much grander scale of the project. It couldn't simply be 45 more levels of the same old thing.\n\nThe idea quickly emerged of creating discrete episodes, each set in a different location.  But how to initiate and ultimately resolve each episode?\n\nI was anxious to avoid spending valuable animation time on lengthy cutscenes that would bump up file size and risk boring the player. So instead we settled on a loose structure whereby each episode opens with an incident that the player themselves must trigger, knowingly or otherwise, and which whisks the sheep away on their adventure. Similarly, each concludes with the player triggering an event that will return the sheep home, however far away that may be. This way the story is in service to the game, and not the other way around.",
+
+	"Dev16a": "The episodic structure has other benefits too. It allows us to introduce a new set of game mechanics with each episode, preventing play from becoming repetitious, and to effectively reset the difficulty curve at the beginning of each one, rather than have it increase to the point of impenetrability. \n\nIt also allows for the possibility of new episodes if the game is a success. We already have a wealth of ideas to draw on should that happen. Fingers crossed!",
+
+	"Dev17": "We weren't at all sure that these levels set in moving traffic would work. There's lots of potential issues. Would the player understand what to do? Could the characters move as they normally do but feel like they're at speed on a road? Would there be enough gameplay potential in the basic platforms that cars/trucks form? In the end however, the levels turned out almost exactly as imagined at the ideas stage, and were great fun.",
+
+	"Dev18": "We were amazed by some of the videos uploaded to YouTube after the release of the original Home Sheep Home‚ ridiculously fast speed runs, the infamous flying sheep bug captured on film, reactions from frustrated players who had been playing the same level over and over and over...\n\nWe're really looking forward to seeing what people do with Home Sheep Home 2‚ there's plenty of opportunity and awards to be won for speed runs, but also lots of unlockable features to have some fun with. Anvil mode, anyone?",
+
+	"Dev19": "Once the theme of each episode was decided, Chris and I spent an intensive three days 'puzzle-boarding': Brainstorming level ideas and scribbling them down.\n\nNot having been involved in this stage of the previous game I was initially nervous about what I'd be able to contribute, but I soon got in to the puzzling mindset. I learned that good puzzles rarely spring fully-formed in to your head, instead they emerge from combining or obstructing the mechanics you have to hand.\n\nAdmittedly a large part of the sessions consisted of me saying 'What if...' and Chris patiently formulating my vague ideas in to workable levels. Still, by the end we had a rough plan for every level of the three chapters, about 90% of which survived in to the game you're playing. Many still bear an uncanny resemblance to those early scribbles.",
+
+	"Dev19a": "Robin is too humble about his contribution to the puzzle-boarding stage. You can't overestimate the value of having someone seriously clever to bounce ideas back and fourth with. It's the perfect way to avoid getting stuck, sanity check ideas, and ensure that they're feasible early on. There's no point me coming up with a level idea that can't be made to look good, and there's no point in Robin coming up with designs that can't be built technically.\n\nI've never really done level design so deliberately alongside someone else before, but it's something I'm going to try to repeat for future games.",
+
+	"Dev20": "The original Home Sheep Home was a short web game, built expressly to be given away free as a way of raising brand awareness for Shaun the Sheep. It became a huge hit with over 100 million plays worldwide.\n\nThe sequel (this game) was designed right from the start to be a profitable product. Since we were going to be asking people to spend their money on the game, we had to make it a much bigger experience. That doesn't just mean more levels, but more things to do. Achievements, things to collect, hidden stuff, bonus materials, hack modes, this commentary: All add value for the player.",
+
+	"Dev20a": "We were aiming for a minimum of 3 hours of gameplay, which luckily turned out to be roughly what the main three episodes take. We can't easily tell how long it takes to get to 100%, since nobody ever got anywhere near that even in our longest testing sessions!",
+
+	"Dev21": "The London levels were the first to be explored at the ideas stage. This is perhaps why they're closest to the original game's feel and gameplay. We wanted the levels in each episode to create more of a complete narrative of the sheeps' journey than the original game did.",
+
+	"Dev21a": "Having played the game on PC, iPhone, iPod and iPad, I encountered a few bugs along the way, one of my favourites being a bug where Shaun can jump an unlimited number of times when Timmy is on his back, a bug that I decided to call 'the flying glitch' because Shaun and Timmy would literally fly over all the obstacles in their way, although I definitely didn't use this to set my quick times!",
+
+	"Dev21b": "The original version of HSH2 was written in Flash, with all the animations created in a very Flash way; providing lots of pretty effects for little overhead. However, these tools weren't available to us on the mobile version so we had to develop some clever exporters to produce a series of animation frames. We then had to employ several clever tricks to package up the huge quantity of frames into something that would minimise file size and memory usage.",
+
+	"Dev22": "During development of this game, we had a surprise office visit from David Cameron; the United Kingdom's Prime Minister! We demo'd this level since it is set at the Houses of Parliament. Cameron pointed to the spot where this icon now lives, and said \"I have an office right there\".",
+
+	"Dev23": "This must be one of my favourite levels in the game, partly because it's visually distinct from every other level, and partly because it was my idea. I like how the pendulum is first an obstacle, then an asset, though it's a leap that lots of people seem to struggle with. In this case I am content for people to struggle.",
+
+	"Dev24": "Coming up with the benchmark times in order to earn the different star ratings turned into a serious competition. We created a big spreadsheet for all the people testing the game and used the averages as the basis for the par and brisk times whilst the developer's time was whoever was quickest. As development continued it became clear that the QA team were dominating the show - unsurprisingly with the amount of time they've put into testing each levels. We approximated that some of the guys must have played some levels at least a couple of hundred times!",
+
+	"Dev25": "We knew from the start that we wanted to create a proper desktop game. Traditionally the only way to do this in Flash was to use a hacked projector or 3rd party tool. But we were on the Adobe AIR pre-release and had early access to AIR3 and Flash Player 11. AIR3 finally allowed us to create a true stand-alone game with no external dependencies, and Flash Player 11 gave us the GPU support we needed to run the game at massively high resolutions. I spent days fiddling with batch files, certificates and obscure command-line parameters to get it working, but when the eureka moment hit and we finally merged the code with the main game it was a revelation. A Flash game running on a 1980x1200 display at full frame-rate with all the effects set to max. We nearly cried with joy.",
+
+	"Dev26": "We started the build with the original Home Sheep Home code. We picked some of the trickier new mechanics to add first, like gravity, teleporters and portals. This was in case something turned out to be technically unfeasible, and an alternative would need to be dreamt up. Having early access to portals was handy in a few unexpected places however. For example, the chimney-cannon here is just a slightly modified one-way only portal, as far as the game engine is concerned.",
+
+	"Dev27": "This level was just a silly idea that worked. One of the things I'm most proud of about HSH2 is how funny it is to play or even just to watch.\n\nThe original game had a quiet sort of humour between the characters but it was mostly incidental to gameplay. Whereas so many of the new game's funniest moments (the sheep being electrocuted, exploded, fired out of chimneys, abducted by aliens, or bouncing of the bearskins of oblivious guardsmen) are essential to progress through the levels.\n\nQuite aside from enhancing the whole experience, it brings the game closer to the anarchic spirit of the TV show.",
+
+	"Dev28": "Originally there was going to be a palace guard patrolling in the foreground in this level. You would have to keep out of his sight with the trees or he'd spot you and the level would end. The connection between the guard seeing you and the abrupt level end was too hard to communicate to the player, even before we started building the level. The concept was modified to use a scanning laser. Because you can see exactly where it is looking, the rules for success are much clearer. Likewise, slamming a door is much better than an instant failure message.",
+
+	"Dev28a": "There was a bug in this level where the laser scanner didn't pause when a hint was shown, but the check on the beam touching a sheep was disabled. It meant you could use the hint button to glitch through the level faster than normal.\n\nTypically, if someone finds a clever way to solve a level fast, we leave it in there. The original Home Sheep Home speed runs were simply incredible to watch due to players finding some amazing exploits in the game. When the glitch includes using the game's UI however, it's really got to be fixed.",
+
+	"Dev29": "Initially this puzzle was meant to have three fountains. When a sheep jumped on a fountain, it would sink and the others would rise, letting the player control the water-platform heights. It turned out that Shirley needs the jump boost, and she's also the heaviest so the jets would be at the lowest height for her. We couldn't find a solution that felt right, even when faking the physics. The design was revised to the one you see here instead.",
+
+	"Dev29a": "At the alpha testing stage, the secret tunnels beneath the fountains were visible from the start of the level. Testers didn't always realise that the lion statue's mouth led to the underground area, even though they could see the tunnel leading up inside the statue. We added the lights to draw people's attention to the tunnels, and shone the lights from the statue's mouth to visually connect them up.",
+
+	"Dev30": "We sometimes use collectable items to help draw people's attention to areas they might otherwise miss. For example, the traffic light switch on the right. It's not immediately obvious that you can get there, but the presence of a collectable sock communicates that it's possible somehow. It helps lead you through the puzzles by giving you subgoals.",
+
+	"Dev30a": "While there's a great deal of artistic licence at play, many of the London levels make reference to real locations. You've already passed through the Houses of Parliament, Big Ben, and Buckingham Palace, and here you can see the National Gallery which dominates one side of Trafalgar Square.",
+
+	"Dev31": "This level caused us lots of trouble. The original concept was that the sheep were playing football in the field by the house, and one of them accidentally hits the satellite dish, signalling the aliens. Everyone who playtested it however just ended up confused. They didn't know what to do, why the aliens arrived and so on. We revised it over and over until we got to the design you're playing now, and it was one of the very last levels completed.",
+
+	"Dev32": "This scene in the aliens' ship serves a dual purpose. Firstly it moves the story on and shows the player they've been abducted and are on a spaceship. Secondly, it lets them experiment in a nice safe environment to discover that the rules haven't changed - gravity still works the same (at least for now), Shirley can still move heavy objects, the floors aren't suddenly super-slippery and so on.",
+
+	"Dev32a": "I struggled somewhat with how to depict the interior of the alien ship. In the show it's shown as not much more than an empty white void, not an ideal location for a platform game. In addition, the organic, rough n' ready aesthetic already established in the previous chapters hardly seemed suited to depicting sleekly futuristic environments.\n\nAfter a few false starts I settled on the slightly battered-looking metallic finish you see now. At first I had concerns about these levels feeling cold and monotonous when compared to the ones that proceed them, but details like the alien in his observation booth and the various weird and wonderful game mechanics you encounter I feel more than make up for that.",
+
+	"Dev33": "First serious bug... Teleport both Shaun and Shirley together and get 'Shauley' the ultimate sheep with two heads or rather two sprites on top of each other, able to fly, jump back through the teleporter and get stuck - amusing, and that was just the beginning. Loved the game from the first time we tested it until the very last - don't ask how many times we've tested it - now you are just being cheeky! Baaa...",
+
+	"Dev34": "We liked the idea of having some familiar sci-fi themes like teleporters, but altering them a little from the tired old concepts. Teleporters in Home Sheep Home 2 can only swap two items, so they're not much use for pure travel. Instead they work alongside natural filters that separate the sheep such as small gaps and tall jumps. The general pattern is that one sheep can make it through a section, then bring the others through while repeating the filter obstacle.",
+
+	"Dev35": "Initially, the second portal in this room was just leant against the wall. People didn't realise it could be pushed around by the sheep. Clamping it to the ceiling and releasing it with the button means that the player can't help but notice it falling. The way it settles back against the wall allows people to see it's not on rails, and can be moved freely anywhere the sheep can push it to.",
+
+	"Dev36": "Valve's masterpiece, Portal, inspired much more than the obvious momentum-preserving gateways in this game. Their approach of treating the entire game like a player-training exercise is perfect for creating something that remains fun for the player throughout. Challenges are fun for people, but \"challenge\" doesn't mean \"difficult\". We try not to repeat a gameplay mechanic more than a few times in total, and almost never have a puzzle with the same solution elsewhere. Jonathan Blow's excellent time-bending game Braid is the pinnacle of this minimal reuse technique.",
+
+	"Dev37": "The 'Wallace in carbonite' in this level's secret room is probably my favourite easter egg in the game. I do hope Aardman aren't litigious!",
+
+	"Dev38": "One of the big mistakes we made with the original Home Sheep Home was the way it delivered hints to the player. Each time the player restarted a level, a new hint was shown. The more the player failed to pass the level, the more verbose the hints got until they were practically describing the solution. Players didn't always want hints at that rate though, and said they'd rather work it out for themselves until they got stuck. The other problem was that if a player missed a hint, they could never get back to it, or even realise they'd missed it. The players were right, and we've tried to address these flaws in Home Sheep Home 2.",
+
+	"Dev38a": "We fought A LOT about what number should should be pressed to change between sheep. Many hours were spent debating over whether to keep them the same as the original game (Shirley 1, Shaun 2, Timmy 3) or whether it made sense to put them in order of size, Timmy being 1 because he is smallest!\n\nIn the end we couldn't decide, so it's up to you to choose your preference in the game's option screen!",
+
+	"Dev39": "The online success of Home Sheep Home was, I think it's fair to say, something of a surprise to everyone. It was a relatively small project, and while we had an inkling we'd made something quite special, we certainly weren't prepared for the reception it got. I remember celebrating when it hit a million plays. At the time of writing it's just passed one hundred million. \n\nSo the prospect of following it up, especially with a paid game, was for me a daunting one. Could we do the same trick again, only better? Obviously development of the sequel represents a significant financial investment on the part of Aardman, so it's to the credit of the team there that they were able to foster an unpressurised environment where I always felt trusted to do good work. Together I believe we've come up with a more than worthy successor. Time will tell.",
+
+	"Dev40": "This level basically exists to give you plenty of chances to zap a sheep against a force field. It turned out to be a pretty tricky puzzle too. Whilst it borders on 'too hard', it's a very satisfying moment for the player when they eventually solve it.",
+
+	"Dev41": "There's a lot of puzzle in a small space here. The basic idea of four rooms worked almost straight away, but there were lots of ways to get stuck that weren't really the player's fault. It took hundreds of small tweaks to make everything work smoothly, and fit into the space.",
+
+	"Dev42": "Creating portals in a 3D environment sounds really tricky to me. In a 2D environment however they're pretty simple. For a start, you can't see through them and create recursive views!\n\nIn Home Sheep Home 2, we cheat even more. You are immediately moved from one portal to the other. You can't be half in and half out, split between two places at once. If something enters a portal too slowly, it is given an artificial boost to make sure it clears of it on exit and doesn't immediately re-teleport.",
+
+	"Dev42a": "We initially tried translating an object's velocity on entering a portal to the exit portal, so if you shot in at an angle you'd fly out at an angle. That's a logically accurate approach. Unfortunately it made portalling a bit of a lucky dip and demanded a lot of accuracy from the player. It turned out that shooting objects straight from the exit was much more forgiving, so we do that instead.",
+
+	"Dev43": "If you took this level and unrolled it, it would be a pretty simple puzzle. At this late stage in the game almost any player would waltz through it without thinking. The act of curling it up on itself increases the complexity lots though. People just aren't used to processing things upside down, inside out and spinning around!",
+
+	"Dev44": "Strange gravity fields were high on the priority list for Home Sheep Home 2's space levels. Just when you think you've seen it all, bosh, you're trying to control sheep upside down, back to front and all sorts. We only had to make a minor change to Box2D's internal code to support different gravity per object, and fun stuff just fell out. Sheep in orbit is one of those magical things that's just inherently fun. The puzzle on this level has a few issues, but we all enjoyed flying around madly through space enough that it was still worth including.",
+
+	"Dev44a": "The pastoral scenes of HSH1 were informed, at least in part, by E. H. Shepard's classic illustrations for A. A. Milne's 'Winnie the Pooh' stories, but in seeking reference for the sequel's many new settings I had to cast my net wider.\n\nI found fresh inspiration in the fantastical world of Bill Watterson's 'Calvin and Hobbes', and the anarchically brilliant 'Krazy Kat' comics that George Herriman produced in the 1920s. Tove Jansson's 'Moomin' books, Antoine de Saint-Exupery's 'Little Prince', and the amazing work of Ronald Searle also deserve a mention.",
+
+	"Dev45": "The last level of the game was the first one built, curiously. We wanted to include several levels with unusual gravity, and this was a pretty big change to the original game engine with its fixed-rotation sheep. Each object can compute its own local gravity, and uses that to find its own local concept of \"up\" and \"right\". The sheep movement code computes all forces and velocity tests (like walking, jumping, falling) against these vectors.",
+
+	"Dev45a": "Ironically given that this is the last level of the game, it was actually the first to receive completed graphics. Or so I thought.\n\nDuring the long process of skinning every level by hand the visual style evolved sufficiently that this one began to look out of place, at least to Chris and I. So towards the end of the project I completely redrew it, and made the asteroid's originally visible interior a hidden room in the process.\n\nPlaying through the game now I see plenty I'd change given the time and energy. It's lucky there are people employed to tell me when to stop, or I'd go round and round like I was painting the Forth Bridge.",
+
+	"Dev46": "Some of the bonus levels (such as this one) are altered versions of a main game puzzle. These mainly came from discovering a funky alternative way to complete a level, then removing elements until you are forced to use it. Typically the new method works in the main game too, and we don't mind that. Unless an alternative solution makes a level much simpler, we generally leave it in there for the smart player to figure out.",
+
+	"Dev50": "Some bonus levels (such as this one) are trickier versions of the main game puzzle. Usually these were created first, and then modified after testing because too many people got stuck. The original puzzle in some cases was still satisfying for a more advanced player to solve, so we've included them as bonuses where possible.",
+
+	"Dev52": "The original Home Sheep Home was built from one giant Flash file. This worked OK until sounds were added. Compilation time increased dramatically. Development was nearly over at this point however, and build times didn't matter much.\n\nFor the sequel, we had to compile faster. We moved to Flex with FlashDevelop and over time, different parts of the game were split off into their own separate FLA files. First the sounds, then the sheep. Levels and backgrounds were split off next, keeping build times manageable.\n\nEventually, Home Sheep Home 2 consisted of 10 FlashDevelop projects, over 40 FLA files and over 250 ActionScript classes!",
+
+	"Dev54": "Even with all the fancy technology we have these days, I still find it easiest to keep notes on paper. From sketching out level ideas to lists of things not to forget to do, nothing beats the ease of use and versatility of a notepad.\n\nMy working scribbles for Home Sheep Home 2 emptied two new pens of ink and entirely filled three notepads!",
+
+	"Dev55": "For months during development we were using very early Adobe builds of AIR3 and Flash Player 11. This was beta software to the core, but absolutely vital to the success of the desktop game. It was the only way we could let the players experience the graphics at their full glorious high resolution. But when you code on the bleeding-edge sometimes you get cut. Adobe constantly changed the Flash Player as they neared on a final 11 release, and with each new build we'd cross our fingers and re-test the game. When they released the final version of both AIR3 and FP11 at Adobe Max 2011 we put them into the game, compiled, waited 15 minutes, sweated a bit and then tested. And it was flawless. Finally we could make true desktop PC games in Flash with no compromises. The gaming world was our oyster!",
+
+	"Dev56": "The original Flash game on which this is based clocked up an amazing 102 million plays on the web in just 18 months. It was an entirely viral game. We didn't work with anyone to seed it, it wasn't sponsored and it carried minimum advertising. And the world seemed to lap it up! At it's peak we were seeing over 900,000 people a day play it. Obviously it was the success of this that lead to the creation of the sequel you have in front of you. But it's very rare for a Flash game to get this many plays. Only a handful achieve anything close to these numbers. I worked out that if everyone who played the game did so for a modest 5 minutes, then collectively the human race has spent a staggering 951 years playing Home Sheep Home.",
+
+	"Dev57": "Some bonus levels (this one, for example) are leftover ideas from the main game. This puzzle for example was created early on in the process, and worked well. It's pretty similar to several other teleport puzzles though, and not very involved. There were other stronger ideas for the main game, so this got relegated to the bonus material.",
+
+	"Dev58": "A few bonus levels (this one included) were ideas that we didn't come up with until the majority of the main game was built. We still wanted to include them though, as they're good fun and add value to the overall offering.",
+
+	"Dev59": "We hardly ever do puzzles in Home Sheep Home with strong time pressures. They're fun for some people, but others just find them stressful (myself included).\n\nI was very careful when coding the original game however to make sure the score timer was entirely fair. If a level can be solved in 10.5 seconds on a fast computer, it can be solved in 10.5 seconds of game-time on a slow computer too. The game clock actually runs slower to compensate if your CPU can't quite keep pace. There's absolutely no element of randomness that affects your level time either.",
+
+	"Dev59a": "The perfectly fair timer in the original Home Sheep Home led to a wonderful sub-community of people speed running the game to see just how fast they could go. Speed runs of any game are usually worth watching (especially if you've played the game yourself), but the best of the Home Sheep Home runs were simply incredible. Some of the tricks employed are almost beyond belief.\n\nHere's hoping the sequel gets the same level of speed run attention from the fans!",
+
+	"Dev61": "The training levels were initially only added as a testing tool. We wanted to start some test subjects on the second and third episodes, without them having played the earlier ones. This is a big ask, since they're both harder and assume you've beaten the levels that go before. Adding a few basic core skills levels meant testers could play them first, and leapfrog into the game at any starting point.\n\nWhen we decided to keep the training levels it meant we didn't have to spend half of the first episode teaching people how to play. Also, people familiar with the original game could just jump straight into the action without wading through tutorials about things they already know. Everyone wins!",
+
+	"Dev62": "The training levels only focus on the game's core skills: Movement and selecting sheep, different jump heights for each sheep, stacking sheep, the two types of buttons and manipulating objects.\n\nAll other mechanics are taught in the game as they come up. For example you learn about lifts, dynamite and water in the early underground levels. Teleporters, portals and force fields in early space levels.",
+
+	"Dev64": "We wanted to put a bit more love into the credits screen than we usually do. Often, credits get forgotten altogether as tight deadlines approach.\n\nWe hit upon the idea of being able to play through the credits, then developed that into the concept of a slideshow in the barn that you see here. We hope it'll be a bit more engaging than a plain screen with names rolling across it endlessly.\n\nThe credits level also solved another issue - how to tell people about the developer's commentary that they've just earned.",
+
+	"h3": "Una oveja fuerte podría mover esto.",
+
+	"h4": "Una oveja pequeña cabría por aquí.",
+
+	"h5": "Shaun puede llegar aquí de un salto.",
+
+	"h6": "Shirley necesita apoyarse en otra oveja para llegar aquí.",
+
+	"h7": "Coloca a Shaun aquí para ayudar a Shirley a subir.",
+
+	"h8": "Averigua para qué sirve este botón.",
+
+	"h9": "Mantén pulsado este botón para llamar al ascensor.",
+
+	"h10": "Suelta el botón y el ascensor subirá.",
+
+	"h11": "Llama al ascensor para subir a cada una de las ovejas a la salida.",
+
+	"h12": "¡La última oveja tendrá que darse mucha prisa!",
+
+	"h14": "Deja a Shaun para el final. Es el más rápido de todos.",
+
+	"h15": "¿Cómo va a cruzar el agua Shirley? No sabe nadar...",
+
+	"h16": "Quizás Shirley pueda usar este barco...",
+
+	"h17": "¿Cómo le puedes acercar el barco a Shirley?",
+
+	"h18": "¿Has probado estos botones?",
+
+	"h19": "Shaun salta muy alto desde el agua. Podría alcanzar este botón solo.",
+
+	"h20": "Timmy necesitará que Shaun le ayude a alcanzar este botón.",
+
+	"h21": "Usa los botones e imanes para traer el barco aquí.",
+
+	"h22": "Monta a Shirley en el barco y llévala a la derecha.",
+
+	"h23": "Piensa cómo vas a llevar a la salida a cada oveja.",
+
+	"h24": "Shaun puede subir por aquí, pero necesitará la ayuda de otra oveja.",
+
+	"h25": "Timmy es lo suficientemente pequeño como para meterse por estos túneles.",
+
+	"h26": "Shirley tendrá que ir por otro sitio. ¿Cómo podrías lanzarla a toda velocidad?",
+
+	"h27": "¿Para qué sirve este detonador?",
+
+	"h28": "¿Cómo podrías detonar estos explosivos?",
+
+	"h29": "Intenta colocar la dinamita aquí.",
+
+	"h30": "Salta encima del detonador para crear una chispa. Si alcanza la dinamita, ¡explotará!",
+
+	"h31": "Coloca a Shirley encima de la dinamita. Haz saltar una chispa y toma el control de Shirley.",
+
+	"h32": "Timmy necesita algo de impulso para llegar aquí.",
+
+	"h33": "Usa a Shaun o Shirley para ayudar a Timmy a subir aquí.",
+
+	"h34": "Averigua para qué sirven estos botones.",
+
+	"h35": "Timmy cabe por este túnel, pero ¿cómo van a cruzar las ovejas más grandes?",
+
+	"h36": "¿Podrían Shaun y Shirley subirse al carro de la mina?",
+
+	"h37": "Usa el imán para traer el carro de la mina y mete a una oveja.",
+
+	"h38": "Envía la oveja al otro lado colocando a Timmy encima de este botón.",
+
+	"h39": "Salta del carro para ayudar a Timmy a llegar al primer botón.",
+
+	"h40": "¡Repite el proceso hasta que acabes con la última oveja!",
+
+	"h41": "¡Piensa antes de actuar! Tienes tres ovejas y tres explosivos.",
+
+	"h42": "Ninguna oveja puede llegar aquí de un salto. Está demasiado alto.",
+
+	"h43": "¡Bum! Una explosión por oveja, pero ¿quién debería ir primero?",
+
+	"h44": "A Timmy no se le da bien empujar objetos, así que envíalo el primero.",
+
+	"h45": "¡No desperdicies la dinamita! Prepara una sola carga cada vez.",
+
+	"h46": "Después de la primera, usa esta carga de dinamita para lanzar a Shirley.",
+
+	"h47": "Por último, tira esta abajo para que la use la última oveja.",
+
+	"h48": "¿Quién va a darte más problemas aquí? ¿Quién no sabe nadar?",
+
+	"h49": "Shirley se hundirá directamente. ¿Cómo saldrá del agua?",
+
+	"h50": "Esta escalera podría servirte, pero faltan los escalones de abajo.",
+
+	"h51": "Quizás podrías colocar esta roca en lugar de los escalones que faltan. ¿Quién podría llegar aquí?",
+
+	"h52": "Shaun puede saltar muy alto desde el agua.",
+
+	"h53": "Haz que Shaun empuje la roca y la eche al agua.",
+
+	"h54": "Haz que Shirley empuje la roca y la coloque junto a la escalera.",
+
+	"h55": "Shirley puede usar la roca para salir del agua.",
+
+	"h56": "¿Te has atascado? ¿Has visto este botón?",
+
+	"h57": "Alguien pequeño tendrá que mantener este botón pulsado para que la puerta permanezca abierta.",
+
+	"h58": "Este botón esconde una terrible sorpresa. Cuando lo pulses, ¡tendrás que darte prisa!",
+
+	"h59": "Shaun puede subir aquí con algo de ayuda de Shirley",
+
+	"h60": "No pierdas el tiempo una vez que pulses el botón. Lleva a Shaun a la salida deprisa.",
+
+	"h61": "¡No te detengas por mucho que Shaun esté a salvo! Timmy tiene que superar la roca.",
+
+	"h62": "No te preocupes, este salto no es tan difícil como parece.",
+
+	"h63": "¡Te resultará más fácil si apartas a Shirley antes de pulsar el botón!",
+
+	"h65": "Vaya, más agua. ¿Cómo vas a conseguir que Shirley cruce esta vez?",
+
+	"h66": "No es una extensión de agua muy ancha. Quizás pueda cruzar saltando de oveja en oveja.",
+
+	"h68": "Ahora son Shaun y Timmy quienes están dando problemas. ¡No pueden sumergirse para llegar a la salida!",
+
+	"h69": "¿Y si te deshicieras del agua?",
+
+	"h70": "Vas a necesitar algo pesado para hacer de contrapeso.",
+
+	"h71": "¡Sigue añadiendo peso! Todos los ovillos cuentan.",
+
+	"h72": "Coloca a las tres ovejas encima de este tapón. Pon a Shirley abajo del todo.",
+
+	"h73": "Cuando hayas vaciado el agua, ve a la salida.",
+
+	"h74": "¿Cómo van a poder llegar tan alto las ovejas?",
+
+	"h75": "Si consiguieras subir el nivel del agua, Shaun y Timmy podrían nadar y salir directamente.",
+
+	"h76": "¿Qué pasará si usas esta manivela y pistón?",
+
+	"h77": "¡No dejes atrás a Shirley! Tendrá que subirse encima de algo que flote.",
+
+	"h78": "Echa el barril al agua y sube a Shirley encima.",
+
+	"h79": "Shaun puede usar a Shirley como apoyo si se da prisa.",
+
+	"h80": "Haz que Shaun accione el pistón.",
+
+	"h81": "¡Asegúrate de que no se queda nadie abajo cuando suba el nivel del agua!",
+
+	"h82": "Esas rocas parecen demasiado pesadas como para que las levanten las ovejas.",
+
+	"h83": "Esos apoyos parecen bastante inestables.",
+
+	"h84": "¡Podrías intentar explotar los apoyos!",
+
+	"h85": "El filamento del fusible está roto. ¿Podrías unirlo con algo?",
+
+	"h86": "¿Qué les pasará a las ovejas si las toca una chispa?",
+
+	"h87": "¡Las ovejas conducen la electricidad! Arregla el fusible con el cuerpo de Shirley (¡no pruebes a hacerlo en casa!).",
+
+	"h88": "Con Shirley y la dinamita listas, haz saltar una chispa ¡y disfruta de los fuegos artificiales!",
+
+	"h89": "Usa el botón para bajar el ascensor y sacar al resto de las ovejas.",
+
+	"h90": "¿Para qué sirve este botón?",
+
+	"h91": "Si pulsas este botón, se abrirá la puerta de la salida.",
+
+	"h92": "Una de las ovejas puede subir aquí.",
+
+	"h93": "Shaun puede empujar este carro.",
+
+	"h94": "¿Cómo podrías mantener el botón pulsado?",
+
+	"h95": "Si pudieras llenar este conducto de basura de zanahorias, quizás puedan mantener el botón pulsado con su peso.",
+
+	"h96": "Llenar el conducto de basura no sirve para nada.",
+
+	"h97": "Vas a necesitar muchas zanahorias. Recógelas con el carro.",
+
+	"h98": "Haz que Shaun vaya colocando el carro debajo de las zanahorias y que Timmy las eche desde arriba.",
+
+	"h99": "Empuja el carro hasta el borde y las zanahorias caerán al conducto de basura.",
+
+	"h100": "¡Ya casi estamos en casa! Pero, ¿cómo vas a subir ahí a todo el mundo?",
+
+	"h101": "Quizás ese botón te venga bien. Podrías bajar en el cubo.",
+
+	"h102": "Shaun puede ayudar a Timmy a subir.",
+
+	"h103": "El torno del pozo está atascado con este palo.",
+
+	"h104": "Haz que Timmy rompa el palo para liberar el cubo del pozo.",
+
+	"h105": "Con el palo roto, el cubo ya se puede mover. Añádele peso para bajarlo.",
+
+	"h106": "Mete la oveja en el cubo y haz que Timmy pulse el botón.",
+
+	"h107": "¡Aaaaah! ¡Salva a las ovejas!",
+
+	"h108": "Mantén la calma y respira hondo. ¿Hay algo que te pueda servir de ayuda?",
+
+	"h109": "Las mochilas contienen paracaídas, y hay tres...",
+
+	"h110": "Shaun parece saltar más alto de lo normal porque todo se está cayendo.",
+
+	"h111": "No dejes que las ovejas caigan sin paracaídas.",
+
+	"h112": "Shaun puede saltar aquí si usa el cubo como apoyo.",
+
+	"h113": "Una de las ovejas recibirá un paracaídas si espera aquí.",
+
+	"h114": "La última oveja tendrá que saltar a por su paracaídas. ¡Sé valiente!",
+
+	"h115": "Mantén la calma y no te asustes. ¡No te pasará nada!",
+
+	"h116": "¿Dónde narices estás? Vamos a encontrar la manera de llegar a casa.",
+
+	"h117": "¿Y si te montas en ese avión en plan polizón?",
+
+	"h118": "El escáner del ascensor de carga comprueba automáticamente que el cargamento está autorizado.",
+
+	"h120": "El escáner no deja montar ganado en el ascensor.",
+
+	"h121": "¿Cómo podrías hacer que las ovejas parezcan mercancía?",
+
+	"h122": "Quizás puedan esconderse en las cajas.",
+
+	"h123": "Coloca cada oveja en la caja del tamaño adecuado.",
+
+	"h124": "Lleva a cada oveja disfrazada al ascensor de carga.",
+
+	"h125": "La furgoneta del granjero hace un ruido extraño. ¿Y si la pones en marcha con la manivela?",
+
+	"h126": "Ese gato no parece muy estable. ¿Podrías desequilibrarlo?",
+
+	"h127": "El peso de la oveja podría romper el gato, pero ¿cómo te vas a meter en la furgoneta?",
+
+	"h128": "Usa una de las ovejas para quitar la maleta de en medio de un empujón.",
+
+	"h129": "Deja la puerta trasera abierta y mete a las tres ovejas dentro.",
+
+	"h130": "¡Este viaje está durando una eternidad! Vayamos a la aventura...",
+
+	"h131": "Todas las ovejas pueden saltar a este maletero. ¡Pero hazlo en el momento adecuado!",
+
+	"h132": "Cuidado no te caigas a la carretera, ¡o te quedarás atrás!",
+
+	"h133": "Traslada las ovejas a este camión.",
+
+	"h134": "Puedes saltar a la puerta trasera, pero se va a caer en nada.",
+
+	"h135": "Timmy quizás necesite apoyarse en otra oveja para conseguir el salto.",
+
+	"h136": "¡Qué emoción! Ten cuidado ahí arriba...",
+
+	"h137": "Coloca a todas las ovejas en el techo de este autobús.",
+
+	"h138": "Timmy puede agacharse para esquivar los molestos radares de velocidad.",
+
+	"h139": "¡Shirley tiene otra manera de ocuparse de los radares!",
+
+	"h140": "Shaun puede saltar por encima de los radares, pero deberá hacerlo en el momento adecuado.",
+
+	"h141": "¿Te está costando llevar a Shaun al otro lado? Hay otro modo más seguro...",
+
+	"h142": "Coloca a Shirley aquí y úsala como escudo de Shaun.",
+
+	"h143": "El autobús se ha parado. ¡Bájate, rápido!",
+
+	"h144": "Estas chimeneas son viejas y se están derrumbando. Una oveja fuerte podría tirarlas.",
+
+	"h145": "Shaun podría salir de aquí de un salto con algo de apoyo.",
+
+	"h146": "Usa a Shirley para derribar las chimeneas y coloca los escombros en este hueco.",
+
+	"h147": "Coloca a Shaun encima de los escombros y las demás ovejas podrán usarlo como apoyo.",
+
+	"h148": "Estas viejas chimeneas parecen difíciles de escalar. ¿Habrá una manera más segura?",
+
+	"h149": "Quizás Shirley pueda derribarlas de un golpe.",
+
+	"h150": "¡Haz que las chimeneas se caigan como fichas de un dominó y sube por los escombros!",
+
+	"h151": "Si te apetece un reto, intenta acabar este nivel sin derribar ninguna chimenea.",
+
+	"h152": "¡Mira! ¡Las Casas del Parlamento! ¿Cómo podríamos llegar hasta allí?",
+
+	"h153": "La oveja menos pesada podría saltar sobre esos globos.",
+
+	"h154": "Los globos no van a aguantar el peso de Shirley.",
+
+	"h155": "Puedes subir a Shaun ahí con la ayuda de Timmy.",
+
+	"h156": "Consigue que Shaun derribe este andamio.",
+
+	"h157": "Vuelve a cruzar con Shaun y ayuda a Shirley a llegar al otro lado.",
+
+	"h158": "¿Para qué sirve este botón?",
+
+	"h159": "Si Timmy mantiene el botón pulsado, Shaun y Shirley podrán subirse a la grúa.",
+
+	"h160": "Shaun puede llegar allí si usa a Shirley de apoyo.",
+
+	"h161": "¿Para qué sirve este botón?",
+
+	"h162": "Haz que Shaun vuelva a bajar la grúa para recoger a Timmy.",
+
+	"h163": "Ese péndulo pesa muchísimo. ¿Cómo conseguirás que pasen todas las ovejas?",
+
+	"h164": "Shirley y Shaun son demasiado grandes como para pasar por debajo.",
+
+	"h165": "¿Para qué sirve este botón?",
+
+	"h166": "Súbete y bájate del botón en el momento adecuado y el imán hará que el péndulo oscile mucho.",
+
+	"h167": "Ponte aquí más o menos y usa el péndulo para subir al siguiente saliente.",
+
+	"h168": "¡Ten cuidado, que está muy alto!",
+
+	"h169": "Haz que Shaun averigüe para qué sirven estos botones.",
+
+	"h170": "Este botón abre la puerta de salida.",
+
+	"h171": "Mueve las agujas para crear plataformas para las ovejas.",
+
+	"h172": "Puedes cambiar la hora colocando una oveja sobre las agujas. ¡Pero cuidado no se caigan!",
+
+	"h173": "Para mover las agujas, el sitio más seguro es el centro de la esfera del reloj.",
+
+	"h174": "Intenta cambiar la hora a la 1:40 para ir del principio a la salida.",
+
+	"h175": "Intenta cambiar la hora a las 2:20 para ir de los controles a la salida.",
+
+	"h176": "Averigua para qué sirve este botón.",
+
+	"h177": "Usa el botón para controlar el montacargas. Así podrás salvar a Shaun y Shirley.",
+
+	"h178": "Ya solo queda Timmy por pasar. ¿Cómo va a llegar a la salida?",
+
+	"h179": "¿Podría servirte el bloque de hormigón?",
+
+	"h180": "Coloca el bloque en la grúa y súbeselo a Timmy.",
+
+	"h181": "Timmy puede usar el bloque para mantener pulsado el botón de la grúa.",
+
+	"h182": "Para salir, hay que atravesar esa ventana. ¡Qué raro!",
+
+	"h183": "¿Has probado la técnica favorita de Papá Noel?",
+
+	"h184": "Una oveja fuerte podría doblar ese tiro.",
+
+	"h185": "Lleva el tiro hacia la ventana y salta a la chimenea.",
+
+	"h186": "¿No llegas a la ventana? Apunta mejor...",
+
+	"h187": "¿No puedes romper la ventana? ¡Usa algo más pesado!",
+
+	"h188": "Empieza por lanzar a Shirley contra la ventana. Pesa lo suficiente como para romperla.",
+
+	"h190": "¡Los guardias del palacio! ¡No te caigas o te pillarán!",
+
+	"h191": "¿Qué se puede usar para cruzar?",
+
+	"h192": "Salta sobre el sombrero de un guardia para cruzar al otro lado.",
+
+	"h193": "¡Pero asegúrate de saltar por encima del casco del otro guardia!",
+
+	"h194": "El palacio de Buckingham dispone de muchas medidas de seguridad.",
+
+	"h195": "Si el escáner detecta alguna oveja, cerrará la puerta y tendrás que pulsar el botón de reinicio.",
+
+	"h196": "Vas a tener que engañar al escáner. ¿Cómo vas a poder esconderte de él?",
+
+	"h197": "Puedes esconderte de los rayos láser del escáner detrás de los arbustos.",
+
+	"h198": "Corre de un arbusto a otro cuando el escáner no te mire.",
+
+	"h199": "¿Cómo se van a esconder Shaun y Shirley en este arbusto?",
+
+	"h200": "¡Vas a tener que formar una pila de ovejas boca abajo!",
+
+	"h201": "Coloca a Shirley, Shaun y Timmy aquí, en ese orden.",
+
+	"h202": "Mueve las ovejas una a una. Primero Timmy, luego Shaun y, por último, Shirley.",
+
+	"h203": "Las fuentes de Trafalgar Square no funcionan. ¿Podrías arreglarlas?",
+
+	"h204": "¿Has probado este botón?",
+
+	"h205": "¿Cómo podrías llegar a este botón?",
+
+	"h206": "Mira el túnel. Seguro que tiene algo que ver con la estatua del león.",
+
+	"h207": "¡Quizás haya un túnel secreto! Envía a Timmy a investigar.",
+
+	"h208": "Haz que Timmy salte a la boca del león. Aparecerá por debajo de la fuente.",
+
+	"h209": "¡Los chorros de agua pueden levantar a las ovejas!",
+
+	"h210": "Espera a que las fuentes disparen un chorro de agua y súbete encima.",
+
+	"h211": "¡Oh, no! ¡Se van a llevar la furgoneta del granjero por estar mal aparcada!",
+
+	"h212": "¿Cómo podrías evitar que se lleven la furgoneta?",
+
+	"h213": "¿Para qué sirve este botón?",
+
+	"h214": "Este botón sirve para cambiar las luces del semáforo. Los coches se mueven cuando está en verde, ¿recuerdas?",
+
+	"h215": "Levanta la furgoneta con el imán y pon el semáforo en verde.",
+
+	"h216": "Ahora tienes que conseguir que alguien te lleve a casa. ¿Cómo podrías evitar que la furgoneta se vaya?",
+
+	"h217": "Cambia el semáforo a rojo antes de soltar la furgoneta.",
+
+	"h218": "Deja una oveja con el botón del semáforo, mientras las otras dos se suben a la parte de atrás.",
+
+	"h219": "Por último, cambia el semáforo a verde ¡y salta a la furgoneta deprisa!",
+
+	"h220": "Es la hora de comer, pero el granjero está distraído. ¿Cómo podrías llamarle la atención?",
+
+	"h221": "El granjero está viendo la tele. Quizás podrías interferir la señal.",
+
+	"h222": "Dale un golpe a la antena parabólica para interferir la señal de la tele.",
+
+	"h223": "Usa el trampolín para escaparte del establo.",
+
+	"h224": "Apila las ovejas para llegar a la antena parabólica.",
+
+	"h225": "¡Capturados por alienígenas! ¿Quién lo iba a decir? En fin, habrá que escaparse.",
+
+	"h226": "Esos recipientes no tienen fondo.",
+
+	"h227": "Los recipientes pesan demasiado como para que Timmy los mueva, pero Shirley y Shaun sí podrían.",
+
+	"h228": "Usa a Shirley para empujar el recipiente de Timmy y colocarlo encima del agujero.",
+
+	"h229": "Shirley y Shaun se pueden escapar por el agujero, pero ¿cómo atravesar la puerta?",
+
+	"h230": "Haz que Timmy mantenga el botón pulsado mientras las otras ovejas atraviesan la puerta.",
+
+	"h231": "Ese botón desactiva los campos magnéticos, pero ¿cómo se puede llegar a él?",
+
+	"h232": "Los campos magnéticos solo evitan que pasen las ovejas. No afectan a la caja.",
+
+	"h233": "Carga las plataformas de ambos teletransportadores con un objeto u oveja, y se intercambiarán.",
+
+	"h234": "¿Has enviado a la oveja equivocada? No pasa nada. Para reiniciar un teletransportador, primero retira todo.",
+
+	"h235": "Envía a Timmy con el teletransportador, ya que él puede volver por el hueco.",
+
+	"h236": "Empuja la caja a través del campo magnético, hasta llegar al botón.",
+
+	"h238": "Piensa detenidamente qué puedes hacer con cada oveja.",
+
+	"h239": "Timmy cabe en este hueco.",
+
+	"h240": "Shaun puede subir por las escaleras.",
+
+	"h241": "Si una oveja no puede superar un obstáculo, quizás la puedas intercambiar con otra que pueda.",
+
+	"h242": "Coloca a Timmy en la plataforma del teletransportador e intercámbialo con Shaun.",
+
+	"h243": "Sube aquí con Shaun e intercámbialo con Shirley.",
+
+	"h244": "Libera a Shaun y vuelve a subir aquí.",
+
+	"h245": "Mueve a Timmy aquí e intercámbialo con Shaun.",
+
+	"h246": "Por fin Shaun puede subir a la salida.",
+
+	"h247": "Súbete en la sustancia rosa para ir al otro portal.",
+
+	"h248": "Algunos portales pueden moverse.",
+
+	"h249": "Puedes empujar este portal y tirarlo por el hueco.",
+
+	"h250": "¿Has traído a la oveja que puede caber por este hueco?",
+
+	"h251": "Haz que Timmy atraviese el portal.",
+
+	"h252": "Haz que Timmy empuje el portal por este hueco.",
+
+	"h253": "Las demás ovejas pueden atravesar el portal para alcanzar la salida.",
+
+	"h254": "Además de ovejas, los objetos también pueden atravesar portales.",
+
+	"h255": "Cuanto más rápido entre algo en un portal, más rápido saldrá disparado.",
+
+	"h256": "Este botón desactiva el campo magnético.",
+
+	"h257": "Haz que una oveja mantenga pulsado este botón.",
+
+	"h258": "Mete el balón en el portal y después una oveja.",
+
+	"h259": "Envía el balón de vuelta para que la última oveja lo pueda colocar encima del botón.",
+
+	"h260": "Averigua para qué sirve este botón.",
+
+	"h261": "No te olvides de que puedes mover algunos portales.",
+
+	"h262": "Timmy puede meterse por aquí.",
+
+	"h263": "Haz que Timmy empuje este portal a través del campo magnético.",
+
+	"h264": "Salta al portal, y déjate caer en él para salir como una flecha.",
+
+	"h265": "Hazlo en el momento idóneo y alcanzarás la salida.",
+
+	"h266": "Detén el portal con el botón para ponértelo más fácil.",
+
+	"h267": "Quien vaya el último tendrá que hacerlo con gran precisión. Shaun es el más ágil de todos.",
+
+	"h268": "¡La situación está complicada! Intenta planificar la ruta.",
+
+	"h269": "¿Cómo van a llegar hasta aquí las ovejas?",
+
+	"h270": "Si pudieras meter algo en este teletransportador, podrías intercambiarlo con una oveja.",
+
+	"h271": "La caja pequeña debería caber por estos huecos.",
+
+	"h272": "Teletransporta a Shirley aquí y empuja la caja pesada.",
+
+	"h273": "Teletransporta a Timmy aquí y tira la caja por el hueco.",
+
+	"h275": "Teletransporta a Shaun aquí y salta el hueco. Lleva la caja a la plataforma del teletransportador.",
+
+	"h276": "Cuando tengas ovejas aquí, usa las cajas para intercambiarlas con otras ovejas.",
+
+	"h278": "Averigua para qué sirven todos estos botones.",
+
+	"h279": "Puedes subir las ovejas aquí mediante el portal.",
+
+	"h280": "Para mantener los botones pulsados, vas a necesitar algo más estable que las ovejas.",
+
+	"h281": "Estas cajas podrían mantener los botones pulsados.",
+
+	"h282": "Puedes mover este portal. Empújalo con alguien fuerte.",
+
+	"h283": "Aparta a Shaun y Timmy y empuja el portal hacia allí.",
+
+	"h284": "Tira las cajas al portal una a una. Hazlo en el momento justo para que caigan encima de los botones.",
+
+	"h285": "¡Qué difícil! Claro, que todo es intentarlo...",
+
+	"h286": "Sigue los cables para ver qué botones desactivan qué campos magnéticos.",
+
+	"h287": "Recuerda que las cajas pueden atravesar los campos magnéticos.",
+
+	"h288": "¿Cómo va a atravesar el campo magnético la última oveja?",
+
+	"h289": "Coloca a Timmy aquí y haz que los demás pasen.",
+
+	"h289b": "Coloca a Shaun aquí.",
+
+	"h290": "Usa a Shirley para empujar la caja y colocarla encima de este interruptor.",
+
+	"h291": "Trae a Shirley aquí y Timmy podrá subir.",
+
+	"h292": "Coloca a Shirley encima de este botón y empuja la caja hacia la izquierda con Timmy.",
+
+	"h293": "Coloca la caja encima del botón en lugar de Shaun. ¡Ya está!",
+
+	"h294": "¡La cosa se complica por momentos! El truco está en pensar antes de actuar.",
+
+	"h295": "Averigua para qué sirve este botón.",
+
+	"h296": "Apila las ovejas debajo de este portal antes de activarlo. Timmy puede saltar a él.",
+
+	"h297": "Usa a Shaun y Timmy para ayudar a Shirley a subir aquí.",
+
+	"h298": "No empujes la caja grande demasiado pronto o bloquearás a Timmy.",
+
+	"h299": "Sube a Shaun aquí con ayuda de Timmy antes de que muevas la caja grande.",
+
+	"h300": "Una vez que estén todos aquí, usa las cajas pequeñas para teletransportarte a la salida.",
+
+	"h301": "Despeja la plataforma del teletransportador para reiniciarlo para la próxima oveja.",
+
+	"h302": "¡Cuántas cajas! ¿Cómo podrías hacer uso de ellas?",
+
+	"h303": "Este portal se puede mover.",
+
+	"h304": "Quizás podrías apilar varias cajas aquí para formar una escalera.",
+
+	"h305": "Mete las cajas al portal y formarán una pila junto a la salida.",
+
+	"h306": "Timmy puede llegar a esas cajas.",
+
+	"h307": "Necesitas una pila de ovejas para que Shaun llegue aquí.",
+
+	"h308": "No te olvides de colocar a Shirley en esta esquina antes de hacer que las cajas caigan aquí.",
+
+	"h309": "¡Estás en la esclusa! Cuidado no pierdas la comida...",
+
+	"h310": "Este botón desactiva el campo magnético.",
+
+	"h311": "Este botón abre la puerta de salida.",
+
+	"h312": "Timmy puede atravesar la esclusa y llegar aquí.",
+
+	"h313": "Con el campo magnético desactivado, haz que Shaun abra la puerta de salida.",
+
+	"h314": "Shirley puede ir directamente a la salida.",
+
+	"h315": "Shaun y Timmy pueden encontrar la manera de salir de la esclusa.",
+
+	"h316": "¡En el espacio, nadie te puede oír balar!",
+
+	"h318": "Con un poco de impulso, Shaun podría llegar aquí.",
+
+	"h319": "La caja que orbita podría servirle a Shaun para apoyarse.",
+
+	"h320": "Intercambia a Shaun con otra oveja y podrá volver a atravesar los asteroides.",
+
+	"h321": "¿Has dejado a la oveja adecuada aquí para que Shaun pueda apoyarse en ella?",
+
+	"h322": "Recuerda que puedes intercambiar la caja con otra oveja.",
+
+	"h324b": "Esta es tu oportunidad de llegar a casa. ¿Podrías volver a usar el cohete accidentado?",
+
+	"h325b": "Este botón activa el cohete, pero solo una oveja muy delgada podría llegar a él.",
+
+	"h326b": "Esta roca está en el camino, pero Shirley no cabe por el túnel para apartarla.",
+
+	"h327b": "Timmy cabría por aquí.",
+
+	"h328b": "Shaun podría pasar por encima de esta roca.",
+
+	"h329b": "Haz que Shaun ayude a Shirley a sortear esta roca.",
+
+	"h320a": "Coloca a Timmy en este teletransportador.",
+
+	"h321a": "Intercambia a Timmy con Shirley para que pueda apartar la roca.",
+
+	"h322a": "Intercambia a Timmy para que vuelva al túnel y llegue al botón.",
+
+	"h323": "¿Puedes resolver este nivel sin el barco?",
+
+	"h324": "¿Y si usas a Shaun y Timmy como apoyos flotantes?",
+
+	"h325": "¡Un botón que falta y un imán! Tiene que haber otra manera de resolverlo...",
+
+	"h326": "Shaun puede salir del carro aquí.",
+
+	"h327": "Shirley puede empujar el carro mientras está dentro de él.",
+
+	"h328": "¡El puente está fuera de servicio! ¿Cómo vas a pasar?",
+
+	"h329": "La dinamita puede hacer volar a una oveja a gran velocidad.",
+
+	"h330": "Shaun y Shirley pueden mover esto fácilmente.",
+
+	"h331": "Con dos cargas de dinamita, cualquier oveja podría atravesar este hueco.",
+
+	"h332": "Necesitarás encontrar la manera de pulsar ese interruptor.",
+
+	"h333": "Quizás este balón pueda llegar al interruptor.",
+
+	"h334": "Tienes que usar la dinamita para que el balón salga disparado.",
+
+	"h335": "Amontona la dinamita para que lance el balón a toda velocidad.",
+
+	"h336": "Usa el ascensor para amontonar la dinamita.",
+
+	"h337": "Esta es una versión mucho más difícil del nivel del juego. ¿Podrás con ella?",
+
+	"h338": "El salto con Shaun tendrá que ser mucho más preciso.",
+
+	"h339": "Una oveja tendrá que saltar igualmente a por el paracaídas.",
+
+	"h340": "Si una oveja ya tiene paracaídas, puede empujar a otra.",
+
+	"h341": "¡No hay ningún botón en la grúa! Tienes que encontrar una alternativa.",
+
+	"h342": "Timmy tendrá que subirse a la barra solo.",
+
+	"h343": "Timmy no puede saltar lo suficientemente alto si la barra está horizontal.",
+
+	"h344": "Coloca a Shaun y Shirley en la barra, pero no en el medio.",
+
+	"h345": "Esta es la versión original de este puzle. La gente se solía quedar atascada debajo del péndulo, así que lo hemos rediseñado. ¿Podrás con él?",
+
+	"h346": "Haz oscilar el péndulo con alguien fuerte.",
+
+	"h347": "Si lo sincronizas bien, Timmy podrá pasar corriendo por debajo.",
+
+	"h348": "¿Podrás superar esta versión difícil del puzle de la seguridad del palacio?",
+
+	"h349": "Si te ven, tendrás que empezar desde el principio.",
+
+	"h350": "Es cuestión de pasar en el momento adecuado. ¡Corre!",
+
+	"h351": "Este nivel era demasiado sencillo como para incluirlo en el juego, pero sigue siendo divertido. ¡Disfruta!",
+
+	"h352": "Shaun puede golpear el balón y hacer que suba la cuesta.",
+
+	"h353": "Cuando el balón llegue al final de su recorrido, teletranspórtate a la salida.",
+
+	"h354": "Este nivel se creó para probar los nuevos teletransportadores. Es bastante difícil. ¿Podrás con él?",
+
+	"h355": "Solo Timmy cabe por aquí.",
+
+	"h356": "Shaun puede subir por aquí si se apoya en Shirley.",
+
+	"h357": "Recuerda que puedes intercambiar las cajas con ovejas.",
+
+	"h358": "Este nivel de bonificación era demasiado difícil para el juego principal. ¿Podrás resolverlo?",
+
+	"h359": "Recuerda que algunos portales se pueden mover.",
+
+	"h360": "Lánzate deprisa a un portal para salir como un rayo.",
+
+	"h361": "Este nivel era demasiado parecido a otros como para incluirlo en el juego. Aún así, ¿podrás resolverlo?",
+
+	"h362": "Shaun podría subir aquí con una pila de ovejas.",
+
+	"h363": "Los portales pueden teletransportarse.",
+
+	"h364": "Ese botón desactiva el campo magnético.",
+
+	"h365": "¿Quién podría entrar en ese portal?",
+
+	"h366": "Este portal se puede mover.",
+
+	"h367": "Forma una pila de ovejas y haz que Shaun o Timmy salten al portal.",
+
+	"h368": "Empuja este portal pendiente abajo.",
+
+	"h369": "Shaun y Timmy pueden acceder a este portal si se suben en Shirley.",
+
+	"h370": "Haz que Timmy mantenga pulsado este botón, y mueve a Shirley aquí.",
+
+	"h371": "Cuidado, este botón activa el campo magnético.",
+
+	"h372": "Tendrás que mantener pulsado este botón para que la puerta permanezca abierta.",
+
+	"h373": "Shirley puede mover una caja por el campo magnético. ¡Pero no te quedes mucho tiempo en él!",
+
+	"h374": "Para que las ovejas vuelvan aquí, intercámbialas con cajas.",
+
+	"h375": "Para escapar, tendrás que pulsar los cuatro botones.",
+
+	"h376": "Timmy se puede meter por aquí, pero ¿cómo volverá?",
+
+	"h377": "Hay suficientes cajas como para teletransportarte todas las veces necesarias.",
+
+	"h378": "El conducto de basura es una buena manera de deshacerte de las cajas viejas.",
+
+	"h379": "Tómate tu tiempo, ¡y salta en el momento adecuado!",
+
+	"h380": "¡No me creo que te hayas atascado! ¿Estás probando el botón de las pistas? No pasa nada.",
+
+	"h381": "Si de verdad te has atascado, prueba a traer todas las ovejas aquí.",
+
+	"hintOptions": "OPCIONES",
+
+	"hintQuitGame": "SALIR",
+
+	"hintAchievements": "LOGROS",
+
+	"hintCheats": "TRUCOS",
+
+	"MoreGames": "MÁS JUEGOS",
+
+	"Wipe": "BORRAR",
+
+	"Close": "CERRAR",
+
+	"GameTitle": "Home Sheep Home 2: A Little Epic",
+
+	"GameTagline": "A Little Epic",
+
+	"GameUnderground": "Perdidos bajo tierra",
+
+	"GameLondon": "Perdidos en Londres",
+
+	"GameSpace": "Perdidos en el espacio",
+
+	"ShowTitle": "La oveja Shaun",
+
+	"sheepShirley": "Shirley",
+
+	"sheepShaun": "Shaun",
+
+	"sheepTimmy": "Timmy",
+
+	"hintBack": "ATRÁS",
+
+	"EpisodeUnderground": "BAJO TIERRA",
+
+	"EpisodeLondon": "PERDIDOS EN LONDRES",
+
+	"EpisodeSpace": "PERDIDOS EN EL ESPACIO",
+
+	"EpisodeTraining": "ENTRENAMIENTO",
+
+	"Find12ToUnlock": "Encuentra 12 calcetines para desbloquear",
+
+	"Find24ToUnlock": "Encuentra 24 calcetines para desbloquear",
+
+	"WipeConfirm": "Se borrarán todos tus avances. ¿Estás seguro?",
+
+	"OK": "OK",
+
+	"Cancel": "CANCELAR",
+
+	"SheepKeys": "BOTONES DE SELECCIÓN DE LAS OVEJAS",
+
+	"Quality": "CALIDAD",
+
+	"Minimum": "Mínima",
+
+	"Low": "Baja",
+
+	"Medium": "Media",
+
+	"Recommended": "Normal",
+
+	"High": "Alta",
+
+	"OptPrettier": "+ BONITO",
+
+	"OptFaster": "- RÁPIDO",
+
+	"Smaller": "- PEQUEÑO",
+
+	"Bigger": "+ GRANDE",
+
+	"Graphics": "GRÁFICOS",
+
+	"ScreenSize": "TAMAÑO DE LA PANTALLA",
+
+	"Windowed": "MODO VENTANA",
+
+	"SelectionKeys": "BOTONES DE SELECCIÓN",
+
+	"UnlockDC": "¡Termina dos episodios para desbloquearlo!",
+
+	"RunsFaster": "(va más deprisa)",
+
+	"LooksNicer": "(los gráficos son mejores)",
+
+	"Items": "OBJETOS",
+
+	"TopScores": "MEJORES PUNTUACIONES",
+
+	"SubmitScore": "ENVIAR PUNTUACIÓN",
+
+	"Out": "de",
+
+	"Of": "",
+
+	"EpisodeComplete": "episodio completado",
+
+	"Continue": "CONTINUAR",
+
+	"Cheats": "trucos",
+
+	"All": "TODOS",
+
+	"CheatModeOn": "Modo Trucos activado",
+
+	"ProgressWontBeSaved": "¡No se guardarán tus avances!",
+
+	"New": "NUEVO",
+
+	"X": "x",
+
+	"Achievements": "logros",
+
+	"hintQuit": "SALIR",
+
+	"hintESC": "(ESC) ",
+
+	"hintRetry": "REINTENTAR",
+
+	"hintR": "(R)",
+
+	"hintHints": "PISTAS",
+
+	"hintH": "(P)",
+
+	"Hint": "PISTA",
+
+	"Next": "SIGUIENTE",
+
+	"NotSavedCheatOn": "No se ha guardado: modo Trucos activado.",
+
+	"NotSavedBlurb": "El modo Trucos es para divertirte. Cuando te apetezca echar una partida en serio, desactívalo y el servicio volverá a la normalidad.",
+
+	"Faster": "más deprisa",
+
+	"L61a": "Conoce a Shirley, Shaun y Timmy.",
+
+	"txtClickASheep": "Haz clic en una oveja para seleccionarla, o pulsa su número en el teclado.",
+
+	"L61b": "Lleva todas las ovejas a la salida en el extremo derecho de la pantalla.",
+
+	"L62a": "Shaun salta más alto y corre más deprisa que los demás.",
+
+	"L62b": "Apila ovejas para llegar a sitios altos.",
+
+	"L62c": "Todas las ovejas pueden saltar por encima de otras.",
+
+	"L63a": "Timmy cabe por huecos pequeños.",
+
+	"L63b": "Hay que mantener pulsados algunos botones.",
+
+	"L63c": "Shirley puede empujar objetos pesados.",
+
+	"L1a": "¿Te has atascado? Consulta las pistas aquí.",
+
+	"L1b": "Lleva todas las ovejas a la señal.",
+
+	"L3a": "Shaun y Timmy pueden nadar.",
+
+	"L3b": "Shirley se hunde, pero no se ahoga.",
+
+	"L16a": "Consigue entrar en la furgoneta.",
+
+	"txtStuck": "¿Te has atascado? Consulta las pistas aquí.",
+
+	"L17a": "Consigue entrar en el camión.",
+
+	"L30a": "Consigue llegar a casa montándote en la furgoneta.",
+
+	"L31a": "Consigue llamarle la atención al granjero interrumpiendo la señal de la tele.",
+
+	"L33a": "Los campos magnéticos solo bloquean a las ovejas.",
+
+	"L33b": "Los teletransportadores intercambian dos objetos.",
+
+	"L34a": "Reinicia un teletransportador retirándolo todo.",
+
+	"txtTouchASheep": "Toca una oveja para seleccionarla, o pulsa su icono en la parte superior de la pantalla.",
+
+	"SponsoredBy": "Patrocinado por",
+
+	"SocialJustBeat": "Acabo de superar ",
+
+	"SocialIn": "en",
+
+	"SocialInHSH2": "en Home Sheep Home 2",
+
+	"SocialCelebration1": "¡Soy increíble!",
+
+	"SocialCelebration2": "¡Estoy que me salgo!",
+
+	"SocialCelebration3": "¡Mola!",
+
+	"SocialCelebration4": "¡Genial!",
+
+	"SocialBeatDev": "Más rápido que los desarrolladores",
+
+	"AvailableInHD": "Disponible en versión HD",
+
+	"Options_Legal_Title": "INFORMACIÓN LEGAL",
+
+	"Options_EULA_Button": "Licencia de usuario",
+
+	"Options_TOS_Button": "T. de servicio",
+
+	"Options_Privacy_Button": "Privacidad y cookies",
+
+	"IAP_Button": "¿NO PUEDES ESPERAR?",
+
+	"InAppPurchase_Error_Title": "Error",
+
+	"InAppPurchase_BuyFailed": "No se ha podido completar la compra In-App.",
+
+	"InAppPurchase_CantMakePayments": "La compra In-App desactivada",
+
+	"IAP_Episodes_Title": "Desbloquear todos los episodios.",
+
+	"IAP_Episodes_Description": "Desbloquear todos los episodios. Los episodios futuros se desbloquearán cuando se publiquen.",
+
+	"CheatMode_Results_Title": "No se ha guardado: modo Trucos activado.",
+
+	"CheatMode_Results_Message": "El modo Trucos es para divertirte. Cuando te apetezca echar una partida en serio, desactívalo y el servicio volverá a la normalidad.",
+
+	"Pirates": "Pirates",
+
+	"PiratesUS": "Pirates US",
+
+	"ChooseSheep": "Choose your sheep",
+
+	"Choose": "Choose",
+
+	"PiratesEpisodeBlurb": "A present from the Pirate Captain\nfrom\nThe Pirates! In An Adventure with Scientists!",
+
+	"PiratesEpisodeBlurbUS": "A present from the Pirate Captain\nfrom\nThe Pirates! Band of Misfits!",
+
+	"HamsFound": "Hams Found",
+
+	"PiratesInCinemas": "Available on",
+
+	"PiratesInCinemasUS": "Available on",
+
+	"PiratesRelease": "DVD now!",
+
+	"PiratesReleaseUS": "DVD now!",
+
+	"Leaderboard": "Leaderboard",
+
+	"WatchTrailer": "Watch Trailer",
+
+	"Better": "better",
+
+	"Worse": "worse",
+
+	"SonyLegal": "Movie artwork © 2012 SPAI/CTMG",
+
+	"L65a": "Try not to sink\nHow long can you survive?",
+
+	"RestorePurchases": "restaurar las compras",
+
+	"IAP_Buy_Button": "COMPRAR AHORA",
+
+	"Consent_popup_title": "AVISO DE CONSENTIMIENTO",
+
+	"Consent_popup_message_1": "A partir del 15 de mayo de 2017, Home Sheep Home 2 será publicado por el desarrollador del juego, Aardman Animations Ltd, y estará sujeto a sus Términos y condiciones y a su Política de privacidad.",
+
+	"Consent_popup_message_2": "Para seguir jugando al juego con tus estadísticas y progresos actuales después del 15 de mayo de 2017, debes permitir la transferencia de tus datos asociados a este juego a Aardman Animations Ltd y aceptar los términos de Aardman Animations Ltd.",
+
+	"Consent_popup_message_3": "Si no los aceptas, podrás seguir jugando al juego hasta el 15 de mayo de 2017.  El 15 de mayo de 2017, si no has aceptado los  términos, se borrarán tus datos del juego.",
+
+	"Consent_popup_checkox_text": "Transferir mis datos asociados al juego a Aardman Animations Ltd el 15 de mayo de 2017",
+
+	"Consent_popup_accept_button": "Aceptar términos y continuar",
+
+	"Consent_popup_deny_button": "Ahora no",
+
+"Episode5":"Perdidos en la granja" ,
+"hsh1_Level01":"Sonríe de oveja a oveja",
+"hsh1_Level02":"Apiladito está más bonito",
+"hsh1_Level03":"Balanceando, que no balando",
+"hsh1_Level04":"O caja o faja",
+"hsh1_Level05":"Una ovejita se balanceaba",
+"hsh1_Level06":"La oveja que tira al monte",
+"hsh1_Level07":"Balando por la vida",
+"hsh1_Level08":"La oveja detrás de la reja",
+"hsh1_Level09":"Miééércoles",
+"hsh1_Level10":"Veee, que se acaba el tiempo",
+"hsh1_Level11":"Ir por lana y volver trasquilado",
+"hsh1_Level12":"Shaun se balancea",
+"hsh1_Level13":"Frena, que nos la balamos",
+"hsh1_Level14":"Cada oveja con su pareja",
+"hsh1_Level15":"Mal día te espera, pastor",
+"AutoSave":"Este juego se guarda automáticamente. No apagues la consola cuando veas este icono de autoguardado.",
+"StoryMode":"Historia",
+"PartyMode":"Equipo",
+"Settings":"Ajustes",
+"PairControllers":"Sincronizar los mandos",
+"WhosPlaying":"¿Quién está jugando?",
+"ChapterSelect":"Capítulos",
+"LevelSelect":"Niveles",
+"Paused":"Pausa",
+"PauseMenuResume":"Reanudar",
+"PauseMenuRestart":"Reiniciar",
+"PauseMenuSettings":"Ajustes",
+"QuitMenu":"Salir al menú",
+"ConfirmQuitTitle":"¿Seguro?",
+"ConfirmQuitBody":"Perderás todo el progreso del nivel actual.",
+"LevelEnd_Restart":"Reiniciar",
+"LevelEnd_Levels":"Niveles",
+"ControlsSettings":"Controles",
+"RumbleSettings":"Sonido",
+"ScreenShakeButton":"Sacudir pantalla",
+"SwapSheep":"Cambiar ovejas",
+"Move":"Mover",
+"Baa":"Beee",
+"Jump":"Saltar",
+"PartyMainTitle":"Granjagedón",
+"PartyMainBody":"Compite contra tus amigos en un torneo donde ninguna oveja lo pone en bandeja.",
+"PartyMatchAmount":"partidos",
+"PartyFootball":"Balón chachi",
+"PartyFootballDescription":"Marca en la meta del adversario.",
+"PartySumo":"Superoveja rival",
+"PartySumoDescription":"Haz que las otras ovejas caigan de las plataformas.",
+"PartyPirate":"Explota, explota, expló",
+"PartyPirateDescription":"Sobrevive durante el máximo tiempo posible. ¡Gana la última oveja que queda!",
+"PartySlamball":"Balonveja",
+"PartySlamballDescription":"Marca en la meta de los adversarios.",
+"PartyHurdles":"Veee a por mí",
+"PartyHurdlesDescription":"Esquiva los obstáculos. Que no te aplasten.",
+"PartyVolleyball":"Voleiveja",
+"PartyVolleyballDescription":"No dejes que el balón toque el suelo.",
+"PartyHighway":"Santimbanqui ovejuno",
+"PartyHighwayDescription":"Sobrevive durante el máximo tiempo posible. ¡Gana la última oveja que queda!",
+"PartySkipping":"Saltitos, ovejita, saltitos",
+"PartySkippingDescription":"Sobrevive durante el máximo tiempo posible. ¡Gana la última oveja que queda!",
+"PartyCrusher":"Agujero en la lana",
+"PartyCrusherDescription":"Sobrevive durante el máximo tiempo posible. ¡Gana la última oveja que queda!",
+"PartyKingOfTheHill":"Rey del heno",
+"PartyKingOfTheHillDescription":"¡Mantente arriba! ¡Gana la oveja que quede más arriba!",
+"PartyPlayerStandings":"Puestos ovejunos",
+"PartyRedWin":"¡El equipo uno ha ganado la ronda!",
+"PartyBlueWin":"¡El equipo dos ha ganado la ronda!",
+"PartyNoWin":"¡Es un empate!",
+"PartyTeam1":"Equipo uno",
+"PartyTeam2":"Equipo dos",
+"Round":"Ronda",
+"Of":"de",
+"NextGame":"El juego continúa en",
+"TipHSH1LV02":"Shirley pesa más que Shaun y Timmy, por eso causa más daño cuando choca con cosas.",
+"TipHSH1LV04":"Timmy es la oveja más pequeña y se puede colar en huecos.",
+"TipHSH1LV05":"Timmy pesa menos que el resto del rebaño.",
+"TipHSH1LV010":"No te olvides de que Shirley puede mover trampolines.",
+"TipHSH1LV011":"¿Necesitas un cable? Solo tienes que llevar a Shaun y a Shirley rápido a casa. Timmy puede subir a la rueda.",
+"TipHSH1LV014":"Solo Shirley tiene suficiente fuerza como para empujar esas cajas fuertes tan pesadas.",
+"TipHSH1LV015":"Empuja las varillas de madera fuera de los agujeros con Shaun y Timmy.",
+"hsh1_h1":"Usa los controles para mover las ovejas.",
+"hsh1_h2":"Cambia los miembros del rebaño.",
+"hsh1_h3":"Guía a todas las ovejas al letrero para completar el nivel.",
+"hsh1_h4":"Tira las pacas de heno con Shirley.",
+"hsh1_h5":"Coordina tus saltos para poder llevar el rebaño más allá del hueco.",
+"hsh1_h6":"Quizás una oveja pequeña cabría por el agujero.",
+"hsh1_h7":"Empuja la caja con Shaun o Shirley.",
+"hsh1_h8":"Pulsa el botón para abrir la puerta.",
+"hsh1_h9":"Lo suyo sería que la oveja más ligera saltase primero.",
+"hsh1_h10":"Haz que Timmy vaya más allá del hueco, luego Shaun y, por último, Shirley.",
+"hsh1_h11":"Los trampolines son divertidos, pero muy pesados.",
+"hsh1_h12":"Quizás puedas usar la caja para que la barra no se caiga.",
+"hsh1_h13":"Quizás la caja sirva para algo.",
+"hsh1_h14":"Mueve la caja a la izquierda de la barra antes de empujarla.",
+"hsh1_h15":"Luego haz que Shirley empuje la barra más allá del hueco.",
+"hsh1_h16":"Hay que mantener pulsado este botón con algo.",
+"hsh1_h17":"La caja es muy ligera, hasta Timmy puede empujarla.",
+"hsh1_h18":"No dejes que la caja toque el suelo.",
+"hsh1_h19":"Coloca a Shirley y a Shaun aquí y haz que las cajas rueden por sus lomos.",
+"hsh1_h20":"Averigua para qué sirve este botón.",
+"hsh1_h21":"Las coles son lo bastante pesadas como para mantener pulsado el botón.",
+"hsh1_h22":"Empuja el trampolín aquí y luego haz que reboten las coles para que acaben donde el botón.",
+"hsh1_h23":"¡Date prisa! Si tardas mucho se bloqueará la salida.",
+"hsh1_h24":"Este botón abre la verja.",
+"hsh1_h25":"Apila las ovejas para saltar esta pared.",
+"hsh1_h26":"¿Y si haces que alguien pase este montón de basura?",
+"hsh1_h27":"Apila las ovejas para saltar esta paca de heno.",
+"hsh1_h28":"Este hueco es del tamaño de Timmy. Tira lo que lo aguanta dentro.",
+"hsh1_h29":"Luego derriba esto con Shaun o Shirley.",
+"hsh1_h30":"Ay, si alguien pudiese darle a ese botón del puente...",
+"hsh1_h31":"¿Para qué puede servir el balancín?",
+"hsh1_h32":"¿Y si alguien se sentase al final y otro saltase en el otro lado?",
+"hsh1_h33":"Coloca a Timmy en este lado.",
+"hsh1_h34":"Haz que Shirley caiga en este lado.",
+"hsh1_h35":"Timmy debería saltar cuando Shirley toque el balancín.",
+"hsh1_h36":"Solo Timmy cabe por aquí.",
+"hsh1_h37":"Timmy y Shaun pueden saltar hasta aquí si se ayudan.",
+"hsh1_h38":"Shirley puede empujar la caja fuerte aquí.",
+"hsh1_h39":"Estas tablas no dejan pasar a Shirley. ¿Las puedes quitar?",
+"hsh1_h40":"Timmy puede meterse por aquí.",
+"hsh1_h41":"Si apilas las ovejas, Shaun puede saltar hasta aquí.",
+"hsh1_h42":"¿Qué podría llevar a las ovejas más allá de esta pared?",
+"hsh1_h43":"Usa la tabla para que el trampolín esté encima del ladrillo.",
+"hsh1_h44":"Da saltos aquí para que caiga la tabla.",
+"hsh1_h45":"Intenta que las ovejas estén aquí antes de que caiga la tabla.",
+"hsh1_h46":"Clava la tabla en la melladura y empuja el trampolín.",
+"h382":"¡Bien hecho! Está claro que ya no necesitas más ayuda." ,
+"OKGotit":"Vale",
+"BestTime":"Mejor tiempo",
+"Complete:":"Completado:",
+"RetryMessage": "¿Quieres volver a intentarlo?",
+"SFX": "Efectos de sonido",
+"Replay": "Repetir",
+"Secs": "s",
+"SecsQuicker": "s más rápido para",
+"Language": "Idioma",
+"English": "English",
+"French": "Français",
+"Italian": "Italiano",
+"Spanish": "Español",
+"Chinese": "中文",
+"German": "Deutsch",
+"Japanese": "Japonés",
+"Games": "Partidas",
+"Play": "Jugar",
+"Player": "Jugador",
+"ContinuingIn": "Continuará en...",
+"RedTeam": "Equipo rojo",
+"BlueTeam": "Equipo azul",
+"Wins": "Ha ganado",
+"WonRound": "Ha ganado la ronda",
+"MinigameQuitWarning": "Perderás todo el progreso del minijuego actual.",
+"TipLV61":"Usa la palanca izquierda para controlar las ovejas.",
+"Dash": "Correr",
+"TipDash01": "Recuerda que puedes correr en partidas en equipo.",
+"TipDash02": "Usa Correr para golpear a tus enemigos sin que se lo esperen.",
+ "CreditsAardman"    :"<color=#32887d>Code, Game & Level Design</color>\n <color=#c97104>Chris Underwood</color>\n\n <color=#32887d>Graphics, Animation & Levels</color>\n <color=#c97104>Robin Davey</color>\n <color=#c97104>Sarah 'Berny' Matthews</color>\n\n <color=#32887d>Party Game Level Design and Code</color>\n <color=#c97104>Jamie Lewis</color>\n\n <color=#32887d>Production Management</color>\n <color=#c97104>Jemma Kamara</color>\n <color=#c97104>George Rowe</color>\n <color=#c97104>Chloe Barraclough</color>\n\n <color=#32887d>Creative Direction</color>\n <color=#c97104>Dan Efergan</color>\n\n <color=#32887d>Graphic Design</color>\n <color=#c97104>Gavin Strange</color>\n <color=#c97104>Sarah 'Berny' Matthews</color>\n\n <color=#32887d>Iconography</color>\n <color=#c97104>Jenny Hughes</color>\n\n <color=#32887d>Technical Direction</color>\n <color=#c97104>Richard Davey</color>\n\n <color=#32887d>User Journey</color>\n <color=#c97104>Adam Millington</color>\n\n <color=#32887d>Sound Direction</color>\n <color=#c97104>Jake Manion</color>\n\n <color=#32887d>Sound Production</color>\n <color=#c97104>Gary McIntyre</color>\n <color=#c97104>Will Davies</color>\n\n <color=#32887d>Composer</color>\n <color=#c97104>Mark Thomas</color>\n\n <color=#32887d>Play Testing and Design Support</color>\n <color=#c97104>Alex Herron</color>\n\n<color=#32887d>User Testing & Sheepy Puns</color>\n <color=#c97104>Ellie Mann</color>\n <color=#c97104>Katie McQuin Roberts</color> \n\n <color=#32887d>Head of Interactive Production</color>\n <color=#c97104>Lorna Probert</color>\n\n",
+"CreditsShaunTheSheep"     :"<color=#32887d>Creator of Shaun The Sheep</color>\n <color=#c97104>Richard Goleszowski</color>\n\n <color=#32887d>Executive Producer</color>\n <color=#c97104>Miles Bullough</color>" ,    
+"CreditsMobilePie":"<color=#32887d>Project Lead</color>\n <color=#c97104>Richard Wilson</color>\n\n <color=#32887d>Developers</color>\n <color=#c97104>Alan Parsons</color>\n <color=#c97104>Ash Hamnett</color>\n <color=#c97104>Daniel Quarrell</color>\n<color=#c97104>Sam Endean</color>\n<color=#c97104>Tom Hannon</color>\n\n <color=#32887d>Art</color>\n <color=#c97104>Tom Parry</color>\n\n <color=#32887d>Quality Assurance Lead</color>\n <color=#c97104>Jenny Hughes</color>\n\n <color=#32887d>Quality Assurance Testers</color>\n <color=#c97104>Alex Allman</color>\n <color=#c97104>Alex Stopher</color>\n <color=#c97104>Connor Kearney</color>\n <color=#c97104>Charlie Flook</color>\n <color=#c97104>Emily Higginson</color>\n <color=#c97104>Hugo Wilson</color>\n <color=#c97104>Jacob Harris</color>\n <color=#c97104>Toby Wilson</color>\n <color=#c97104>Tom Hall</color>\n\n<color=#32887d>Thanks to</color>\n  <color=#c97104>Amy Wilson</color>\n <color=#c97104>Chris Underwood</color>\n <color=#c97104>Matt Aranha</color>\n <color=#c97104>Sarah Harvey</color>\n <color=#c97104>Sarah Wright</color>\n <color=#c97104>Tammy Hardwidge</color>" ,
+"BonusUnlocked": "Jugar al nivel de bonificación"
+
+}

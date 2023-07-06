@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: b245a176e6269c74f89568c64c77fb86
+timeCreated: 1688578935
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pirates_fuse_005
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 480
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pirates_fuse_005
+      rect:
+        serializedVersion: 2
+        x: 61.02675
+        y: 355.0268
+        width: 94.9465
+        height: 71.92554
+      alignment: 9
+      pivot: {x: 1.88499, y: -1.599248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: -35.98953}
+        - {x: -47.5, y: -24.98953}
+        - {x: -47.5, y: 27.01047}
+        - {x: -33.5, y: 36.01047}
+        - {x: 40.5, y: 36.01047}
+        - {x: 42.5, y: 34.01047}
+        - {x: 47.5, y: 9.010468}
+        - {x: 47.5, y: -23.98953}
+        - {x: 31.5, y: -32.98953}
+        - {x: 10.5, y: -35.98953}
+      physicsShape:
+      - - {x: 25.5, y: -19.98953}
+        - {x: 37.5, y: -7.989532}
+        - {x: 37.5, y: -5.989532}
+        - {x: 36.5, y: -3.989532}
+        - {x: 33.5, y: -1.989532}
+        - {x: 32.5, y: 10.01047}
+        - {x: 24.5, y: 24.01047}
+        - {x: 14.5, y: 18.01047}
+        - {x: 7.5, y: 26.01047}
+        - {x: 5.5, y: 26.01047}
+        - {x: 3.5, y: 25.01047}
+        - {x: 1.5, y: 14.01047}
+        - {x: -9.5, y: 17.01047}
+        - {x: -21.5, y: -2.989532}
+        - {x: -27.5, y: -19.98953}
+        - {x: -34.5, y: -8.989532}
+        - {x: -39.5, y: -4.989532}
+        - {x: -42.5, y: -4.989532}
+        - {x: -46.5, y: -6.989532}
+        - {x: -46.5, y: -20.98953}
+        - {x: -45.5, y: -26.98953}
+        - {x: -33.5, y: -33.98953}
+        - {x: -19.5, y: -33.98953}
+        - {x: -12.5, y: -26.98953}
+        - {x: -3.5, y: -16.98953}
+        - {x: 22.5, y: -20.98953}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0b19d73f4f441ca18b3a12d9462f61
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

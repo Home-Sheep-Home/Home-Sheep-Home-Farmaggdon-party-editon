@@ -1,0 +1,143 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4856486821057489303
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3456241369857829426
+  },
+  "m_Name": "",
+  "body": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "spriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "physicsMat": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "active": 0,
+  "tags": [
+    "levelObject",
+    "isAliens"
+  ],
+  "contactNoise": "",
+  "breakableOnShirley": 0,
+  "unstickOnSheep": 0,
+  "triggersWell": 0,
+  "onLift": 0,
+  "sheepField": 0,
+  "touchingPortal": 0,
+  "hasSpring": 0,
+  "springTouched": 0,
+  "oneWay": 0,
+  "motorSpeed": 0.0,
+  "portalCount": 0,
+  "portalling": 0,
+  "portalProof": 0,
+  "exploded": 0,
+  "inWater": 0,
+  "smokeSpawner": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "explosivePower": 0.0,
+  "buoyancy": 0.0,
+  "isMagnetic": 0,
+  "floatPoints": [],
+  "offsetAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "switchCount": -1,
+  "levelObjects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3287933415673531392
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3570047095981261469
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4253745361337083976
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -917749022300626169
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6797627350059584211
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6559043004298404933
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8411894910524004223
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4597453529733943846
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9032747525850637712
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1024279453000235989
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2630512844952235289
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1852289628174159163
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5233753514565162957
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6168786167846346107
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2870198675541762780
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6104597242820007031
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8896692246259300907
+    }
+  ],
+  "tractorBeamTransform": {
+    "m_FileID": 0,
+    "m_PathID": -8015502121712187428
+  },
+  "shipTransform": {
+    "m_FileID": 0,
+    "m_PathID": -2389384611695110944
+  },
+  "beam": {
+    "m_FileID": 0,
+    "m_PathID": -375098461278336696
+  },
+  "duration": 1.0,
+  "offset": 0.15,
+  "delay": 1.0
+}

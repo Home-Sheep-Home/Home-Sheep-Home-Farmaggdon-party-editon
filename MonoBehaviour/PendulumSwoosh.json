@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6874008330900736679
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8088015178878601075
+  },
+  "m_Name": "",
+  "pendulumBody": {
+    "m_FileID": 0,
+    "m_PathID": -8743538722784201634
+  },
+  "pendulumPoint": {
+    "m_FileID": 0,
+    "m_PathID": -4006801744213300570
+  }
+}

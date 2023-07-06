@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8667592975968454404
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5345631724287181283
+  },
+  "m_Name": "",
+  "rectTransform": {
+    "m_FileID": 0,
+    "m_PathID": 300284702624512634
+  },
+  "doesScroll": 1
+}

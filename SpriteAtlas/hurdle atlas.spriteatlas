@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &687078895
+SpriteAtlas:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: hurdle atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 3b5f22d9ec9c7cb448da121cce05b7cc, type: 3}
+    - {fileID: 21300002, guid: 3b5f22d9ec9c7cb448da121cce05b7cc, type: 3}
+    - {fileID: 21300000, guid: c1462af2cc36ab442a9e09207f2d248b, type: 3}
+    - {fileID: 21300004, guid: 3b5f22d9ec9c7cb448da121cce05b7cc, type: 3}
+    - {fileID: 21300002, guid: c1462af2cc36ab442a9e09207f2d248b, type: 3}
+    - {fileID: 21300004, guid: c1462af2cc36ab442a9e09207f2d248b, type: 3}
+    - {fileID: 21300006, guid: 3b5f22d9ec9c7cb448da121cce05b7cc, type: 3}
+    - {fileID: 21300008, guid: 3b5f22d9ec9c7cb448da121cce05b7cc, type: 3}
+    - {fileID: 21300006, guid: c1462af2cc36ab442a9e09207f2d248b, type: 3}
+    - {fileID: 21300010, guid: 3b5f22d9ec9c7cb448da121cce05b7cc, type: 3}
+    - {fileID: 21300012, guid: 3b5f22d9ec9c7cb448da121cce05b7cc, type: 3}
+    - {fileID: 21300008, guid: c1462af2cc36ab442a9e09207f2d248b, type: 3}
+    - {fileID: 21300014, guid: 3b5f22d9ec9c7cb448da121cce05b7cc, type: 3}
+    - {fileID: 21300016, guid: 3b5f22d9ec9c7cb448da121cce05b7cc, type: 3}
+    - {fileID: 21300010, guid: c1462af2cc36ab442a9e09207f2d248b, type: 3}
+    - {fileID: 21300018, guid: 3b5f22d9ec9c7cb448da121cce05b7cc, type: 3}
+    - {fileID: 21300020, guid: 3b5f22d9ec9c7cb448da121cce05b7cc, type: 3}
+    - {fileID: 21300012, guid: c1462af2cc36ab442a9e09207f2d248b, type: 3}
+    - {fileID: 21300014, guid: c1462af2cc36ab442a9e09207f2d248b, type: 3}
+    - {fileID: 21300016, guid: c1462af2cc36ab442a9e09207f2d248b, type: 3}
+    - {fileID: 21300018, guid: c1462af2cc36ab442a9e09207f2d248b, type: 3}
+    - {fileID: 21300022, guid: 3b5f22d9ec9c7cb448da121cce05b7cc, type: 3}
+    - {fileID: 21300024, guid: 3b5f22d9ec9c7cb448da121cce05b7cc, type: 3}
+    - {fileID: 21300026, guid: 3b5f22d9ec9c7cb448da121cce05b7cc, type: 3}
+    - {fileID: 21300020, guid: c1462af2cc36ab442a9e09207f2d248b, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3b5f22d9ec9c7cb448da121cce05b7cc, type: 3}
+  - {fileID: 21300002, guid: 3b5f22d9ec9c7cb448da121cce05b7cc, type: 3}
+  - {fileID: 21300000, guid: c1462af2cc36ab442a9e09207f2d248b, type: 3}
+  - {fileID: 21300004, guid: 3b5f22d9ec9c7cb448da121cce05b7cc, type: 3}
+  - {fileID: 21300002, guid: c1462af2cc36ab442a9e09207f2d248b, type: 3}
+  - {fileID: 21300004, guid: c1462af2cc36ab442a9e09207f2d248b, type: 3}
+  - {fileID: 21300006, guid: 3b5f22d9ec9c7cb448da121cce05b7cc, type: 3}
+  - {fileID: 21300008, guid: 3b5f22d9ec9c7cb448da121cce05b7cc, type: 3}
+  - {fileID: 21300006, guid: c1462af2cc36ab442a9e09207f2d248b, type: 3}
+  - {fileID: 21300010, guid: 3b5f22d9ec9c7cb448da121cce05b7cc, type: 3}
+  - {fileID: 21300012, guid: 3b5f22d9ec9c7cb448da121cce05b7cc, type: 3}
+  - {fileID: 21300008, guid: c1462af2cc36ab442a9e09207f2d248b, type: 3}
+  - {fileID: 21300014, guid: 3b5f22d9ec9c7cb448da121cce05b7cc, type: 3}
+  - {fileID: 21300016, guid: 3b5f22d9ec9c7cb448da121cce05b7cc, type: 3}
+  - {fileID: 21300010, guid: c1462af2cc36ab442a9e09207f2d248b, type: 3}
+  - {fileID: 21300018, guid: 3b5f22d9ec9c7cb448da121cce05b7cc, type: 3}
+  - {fileID: 21300020, guid: 3b5f22d9ec9c7cb448da121cce05b7cc, type: 3}
+  - {fileID: 21300012, guid: c1462af2cc36ab442a9e09207f2d248b, type: 3}
+  - {fileID: 21300014, guid: c1462af2cc36ab442a9e09207f2d248b, type: 3}
+  - {fileID: 21300016, guid: c1462af2cc36ab442a9e09207f2d248b, type: 3}
+  - {fileID: 21300018, guid: c1462af2cc36ab442a9e09207f2d248b, type: 3}
+  - {fileID: 21300022, guid: 3b5f22d9ec9c7cb448da121cce05b7cc, type: 3}
+  - {fileID: 21300024, guid: 3b5f22d9ec9c7cb448da121cce05b7cc, type: 3}
+  - {fileID: 21300026, guid: 3b5f22d9ec9c7cb448da121cce05b7cc, type: 3}
+  - {fileID: 21300020, guid: c1462af2cc36ab442a9e09207f2d248b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - hurdles_easy_06
+  - hurdles_easy_01
+  - hurdle_medium_09
+  - hurdle_medium_05
+  - hurdle_hard_02
+  - hurdles_cornfield_repeat_512
+  - hurdles_easy_04
+  - hurdle_medium_07
+  - hurdle_medium_06
+  - hurdle_hard_04
+  - hurdles_easy_07
+  - hurdle_hard_01
+  - hurdle_medium_03
+  - hurdle_medium_04
+  - hurdles_wheel
+  - hurdles_easy_08
+  - hurdle_hard_05
+  - hurdle_hard_03
+  - hurdles_easy_03
+  - hurdle_medium_08
+  - hurdles_easy_05
+  - hurdles_easy_02
+  - hurdles_eaasy_09
+  - hurdle_medium_01
+  - hurdle_medium_02
+  m_Tag: hurdle atlas
+  m_IsVariant: 0

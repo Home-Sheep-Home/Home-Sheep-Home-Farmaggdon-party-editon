@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2700884743510428009
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8034400161887592935
+  },
+  "m_Name": "",
+  "satelliteAnimator": {
+    "m_FileID": 0,
+    "m_PathID": 2687940106800450631
+  },
+  "flicker": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

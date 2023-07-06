@@ -1,0 +1,14 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8643698597724524175
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 498754957908136862
+  },
+  "m_Name": "",
+  "restitution": 1.5,
+  "friction": 0.0
+}

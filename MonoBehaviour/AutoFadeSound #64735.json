@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2512369335296583836
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 843940964747876783
+  },
+  "m_Name": "",
+  "audioString": "vanloop",
+  "listeners": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1670801768474231225
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1426369577043823637
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3450513363780883136
+    }
+  ],
+  "maxDistance": 20.0,
+  "maxVolume": 0.7,
+  "initialDelay": 0.0,
+  "persistent": 1
+}

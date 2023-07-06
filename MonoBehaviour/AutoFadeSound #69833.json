@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8495806705079719176
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 843940964747876783
+  },
+  "m_Name": "",
+  "audioString": "ticktockloop",
+  "listeners": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2777428023626000945
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1771422289103962864
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2834089224894847279
+    }
+  ],
+  "maxDistance": 5.0,
+  "maxVolume": 1.0,
+  "initialDelay": 0.0,
+  "persistent": 1
+}

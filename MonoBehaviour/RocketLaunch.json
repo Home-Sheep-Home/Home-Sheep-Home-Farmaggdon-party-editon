@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6977428216444321477
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2500930650576313152
+  },
+  "m_Name": "",
+  "flame": {
+    "m_FileID": 0,
+    "m_PathID": -4595515017344304409
+  },
+  "levelBackground": {
+    "m_FileID": 0,
+    "m_PathID": -1928513721740151289
+  },
+  "sheepManager": {
+    "m_FileID": 0,
+    "m_PathID": -1585412820829236320
+  },
+  "levelObjects": {
+    "m_FileID": 0,
+    "m_PathID": -2550460492793512568
+  },
+  "endTarget": {
+    "m_FileID": 0,
+    "m_PathID": 718590281117243106
+  }
+}

@@ -1,0 +1,840 @@
+{
+"worldboxTL":{"x":-3.622488372093023,"y":-3.978697674418604},"worldboxBR":{"x":19.372116279069765,"y":19.823232558139534},
+"items":[
+{
+"item":"skyHolder","position":{"x":0,"y":11.832558139534884}
+,"layer":"skyHolder"
+},
+{
+"item":"slHolder","position":{"x":0,"y":11.832558139534884}
+,"layer":"slHolder"
+},
+{
+"item":"bgHolder","position":{"x":0,"y":11.832558139534884}
+,"layer":"bgHolder"
+},
+{
+"item":"arrowsign_mines_gfx","position":{"x":14.202767441860464,"y":3.7938139534883715,"degrees":4.9994354248046875}
+,"layer":"bgHolder"
+,"gfxHD":"049_arrowsign_mines_gfx_00.png"
+,"regHD":{"x":66.05,"y":48.05}
+,"anchorHD":{"x":0.48566176470588235,"y":0.5195000000000001}
+,"gfxSD":"049_arrowsign_mines_gfx_00.png"
+,"regSD":{"x":45.55,"y":36.55}
+,"anchorSD":{"x":0.4897849462365591,"y":0.5126666666666667}
+},
+{
+"item":"smokeHolder","position":{"x":0,"y":11.832558139534884}
+,"layer":"smokeHolder"
+},
+{
+"item":"physicsSwitchLift","position":{"x":6.663209302325582,"y":2.9630697674418602}
+,"layer":"smokeHolder"
+,"gfxHD":"049_physicsSwitchLift_00.png"
+,"regHD":{"x":44.1,"y":37.15}
+,"anchorHD":{"x":0.5011363636363636,"y":0.5175324675324675}
+,"gfxSD":"049_physicsSwitchLift_00.png"
+,"regSD":{"x":34.5,"y":31.05}
+,"anchorSD":{"x":0.5,"y":0.5071428571428571}
+  ,"switchtarget":"lift"
+  ,"switchfunction":"reverse"
+  ,"tags":["isSwitch","hasSpring"]
+  ,"body":{"x":6.663209302325582,"y":2.9630697674418602}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0,"m_I":0,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0
+    ,"shapes":[
+    {"type":"circle","density":0,"friction":0.2,"restitution":0,"sensor":1,"r":0.24651162790697675,"position":{"x":0,"y":-0.07395348837209302}}
+]
+},
+{
+"item":"physicsSwitch_door","position":{"x":13.538418604651165,"y":6.2761860465116275}
+,"layer":"smokeHolder"
+,"gfxHD":"049_physicsSwitch_door_00.png"
+,"regHD":{"x":44.1,"y":37.35}
+,"anchorHD":{"x":0.49,"y":0.5149350649350649}
+,"gfxSD":"049_physicsSwitch_door_00.png"
+,"regSD":{"x":34.5,"y":31.15}
+,"anchorSD":{"x":0.4928571428571429,"y":0.5055555555555555}
+  ,"switchtarget":"door"
+  ,"switchfunction":"reverse"
+  ,"tags":["isSwitch"]
+  ,"body":{"x":13.538418604651165,"y":6.2761860465116275}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0,"m_I":0,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0
+    ,"shapes":[
+    {"type":"circle","density":0,"friction":0.2,"restitution":0,"sensor":1,"r":0.24651162790697675,"position":{"x":0,"y":-0.07395348837209302}}
+]
+},
+{
+"item":"dropletHolder","position":{"x":0,"y":11.832558139534884}
+,"layer":"dropletHolder"
+},
+{
+"item":"shirley","position":{"x":1.0871162790697675,"y":3.5694883720930237}
+,"layer":"dropletHolder"
+  ,"buoyancy":3
+  ,"tags":["isSheep","isShirley","conductive"]
+  ,"floatPoints":[{"x":0.0024651162790697676,"y":1.114232558139535},{"x":0.0024651162790697676,"y":0.44865116279069767},{"x":0.0024651162790697676,"y":0.44865116279069767}]
+  ,"body":{"x":1.0871162790697675,"y":3.569488372093023}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":1.5273515922120062,"m_I":0,"localCenter":{"x":-0.0024651162790697997,"y":0.6318731072044156}
+    ,"linearDamping":0.5,"angularDamping":0
+    ,"shapes":[
+    {"type":"polygon","density":1.2,"friction":0.5,"restitution":0,"sensor":0,"verticies":[{"x":0.5534186046511628,"y":0.19474418604651164},{"x":0.46837209302325583,"y":0.10969767441860466},{"x":-0.47330232558139534,"y":0.10969767441860466},{"x":-0.5583488372093023,"y":0.19474418604651164},{"x":-0.007395348837209302,"y":0.6298372093023256}]}
+,
+    {"type":"polygon","density":1.2,"friction":0,"restitution":0,"sensor":0,"verticies":[{"x":0.4967209302325581,"y":1.0550697674418603},{"x":0.6372325581395349,"y":0.9145581395348837},{"x":0.6372325581395349,"y":0.27855813953488373},{"x":0.5534186046511628,"y":0.19474418604651164},{"x":-0.007395348837209302,"y":0.6298372093023256}]}
+,
+    {"type":"polygon","density":1.2,"friction":0,"restitution":0,"sensor":0,"verticies":[{"x":-0.5583488372093023,"y":0.19474418604651164},{"x":-0.6421627906976745,"y":0.27855813953488373},{"x":-0.6421627906976745,"y":0.9145581395348837},{"x":-0.5016511627906978,"y":1.0550697674418603},{"x":-0.007395348837209302,"y":0.6298372093023256}]}
+,
+    {"type":"polygon","density":1.2,"friction":0.7,"restitution":0,"sensor":0,"verticies":[{"x":0.36853488372093024,"y":1.1832558139534883},{"x":0.4967209302325581,"y":1.0550697674418603},{"x":-0.007395348837209302,"y":0.6298372093023256},{"x":-0.5016511627906978,"y":1.0550697674418603},{"x":-0.3734651162790698,"y":1.1832558139534883}]}
+]
+},
+{
+"item":"shaun","position":{"x":2.2937906976744187,"y":3.578116279069767}
+,"layer":"dropletHolder"
+  ,"buoyancy":7
+  ,"tags":["isSheep","isShaun","conductive"]
+  ,"floatPoints":[{"x":0.0024651162790697676,"y":0.3562093023255814},{"x":0.0024651162790697676,"y":0.5780697674418604}]
+  ,"body":{"x":2.2937906976744187,"y":3.578116279069766}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0.6823302552731206,"m_I":0,"localCenter":{"x":-0.00308139534883718,"y":0.49329421682726543}
+    ,"linearDamping":0.5,"angularDamping":0
+    ,"shapes":[
+    {"type":"polygon","density":1,"friction":0.5,"restitution":0,"sensor":0,"verticies":[{"x":0.004930232558139535,"y":0.48069767441860467},{"x":0.40551162790697676,"y":0.16393023255813954},{"x":0.3512790697674419,"y":0.10969767441860466},{"x":-0.3574418604651163,"y":0.10969767441860466},{"x":-0.41167441860465115,"y":0.16393023255813954}]}
+,
+    {"type":"polygon","density":1,"friction":0,"restitution":0,"sensor":0,"verticies":[{"x":0.4585116279069768,"y":0.21693023255813956},{"x":0.40551162790697676,"y":0.16393023255813954},{"x":0.004930232558139535,"y":0.48069767441860467},{"x":0.3697674418604651,"y":0.8036279069767442},{"x":0.4585116279069768,"y":0.7148837209302326}]}
+,
+    {"type":"polygon","density":1,"friction":0,"restitution":0,"sensor":0,"verticies":[{"x":-0.4646744186046512,"y":0.7148837209302326},{"x":-0.37593023255813957,"y":0.8036279069767442},{"x":0.004930232558139535,"y":0.48069767441860467},{"x":-0.41167441860465115,"y":0.16393023255813954},{"x":-0.4646744186046512,"y":0.21693023255813956}]}
+,
+    {"type":"polygon","density":1,"friction":0.7,"restitution":0,"sensor":0,"verticies":[{"x":0.2760930232558139,"y":0.8973023255813953},{"x":0.3697674418604651,"y":0.8036279069767442},{"x":0.004930232558139535,"y":0.48069767441860467},{"x":-0.37593023255813957,"y":0.8036279069767442},{"x":-0.28225581395348837,"y":0.8973023255813953}]}
+]
+},
+{
+"item":"timmy","position":{"x":3.192325581395349,"y":3.5608604651162787}
+,"layer":"dropletHolder"
+  ,"buoyancy":2
+  ,"tags":["isSheep","isTimmy","conductive"]
+  ,"floatPoints":[{"x":0.0012325581395348838,"y":0.16269767441860464},{"x":0.0012325581395348838,"y":0.3845581395348837}]
+  ,"body":{"x":3.192325581395349,"y":3.560860465116278}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0.21689612222823149,"m_I":0,"localCenter":{"x":-0.008011627906976744,"y":0.37276516305566554}
+    ,"linearDamping":0.5,"angularDamping":0
+    ,"shapes":[
+    {"type":"polygon","density":1,"friction":0.5,"restitution":0,"sensor":0,"verticies":[{"x":0.17502325581395348,"y":0.14544186046511628},{"x":0.13927906976744187,"y":0.10969767441860466},{"x":-0.15530232558139534,"y":0.10969767441860466},{"x":-0.19104651162790698,"y":0.14544186046511628},{"x":-0.004930232558139535,"y":0.37716279069767444}]}
+,
+    {"type":"polygon","density":1,"friction":0,"restitution":0,"sensor":0,"verticies":[{"x":0.16146511627906976,"y":0.6027209302325581},{"x":0.20706976744186048,"y":0.5571162790697675},{"x":0.20706976744186048,"y":0.17748837209302326},{"x":0.17502325581395348,"y":0.14544186046511628},{"x":-0.004930232558139535,"y":0.37716279069767444}]}
+,
+    {"type":"polygon","density":1,"friction":0,"restitution":0,"sensor":0,"verticies":[{"x":-0.19104651162790698,"y":0.14544186046511628},{"x":-0.22309302325581398,"y":0.17748837209302326},{"x":-0.22309302325581398,"y":0.5571162790697675},{"x":-0.17748837209302326,"y":0.6027209302325581},{"x":-0.004930232558139535,"y":0.37716279069767444}]}
+,
+    {"type":"polygon","density":1,"friction":0.7,"restitution":0,"sensor":0,"verticies":[{"x":0.12325581395348838,"y":0.6409302325581395},{"x":0.16146511627906976,"y":0.6027209302325581},{"x":-0.004930232558139535,"y":0.37716279069767444},{"x":-0.17748837209302326,"y":0.6027209302325581},{"x":-0.13927906976744187,"y":0.6409302325581395}]}
+]
+},
+{
+"item":"instance36750","position":{"x":10.037953488372093,"y":9.848139534883721,"degrees":45}
+,"layer":"dropletHolder"
+  ,"friction":0.3
+  ,"tags":["isWall","gfx_isInvisible"]
+  ,"body":{"x":10.037953488372093,"y":9.848139534883721}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0,"m_I":0,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0
+    ,"shapes":[
+    {"type":"polygon","density":0,"friction":0.3,"restitution":0,"sensor":0,"verticies":[{"x":-0.6200781533884449,"y":-0.1413936171420785},{"x":0.14139361714207857,"y":0.6200781533884447},{"x":0.6200781533884449,"y":0.1413936171420785},{"x":-0.14139361714207857,"y":-0.6200781533884447}]}
+]
+},
+{
+"item":"instance36752","position":{"x":8.761023255813953,"y":9.48206976744186}
+,"layer":"dropletHolder"
+  ,"friction":0.3
+  ,"tags":["isWall","gfx_isInvisible"]
+  ,"body":{"x":8.761023255813953,"y":9.48206976744186}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0,"m_I":0,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0
+    ,"shapes":[
+    {"type":"polygon","density":0,"friction":0.3,"restitution":0,"sensor":0,"verticies":[{"x":-0.8745415266170058,"y":0.4848533452943314},{"x":0.8745415266170058,"y":0.4848533452943314},{"x":0.8745415266170058,"y":-0.4848533452943314},{"x":-0.8745415266170058,"y":-0.4848533452943314}]}
+]
+},
+{
+"item":"instance36754","position":{"x":14.025279069767443,"y":9.977558139534883,"degrees":-45}
+,"layer":"dropletHolder"
+  ,"friction":0.3
+  ,"tags":["isWall","gfx_isInvisible"]
+  ,"body":{"x":14.025279069767443,"y":9.977558139534883}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0,"m_I":0,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0
+    ,"shapes":[
+    {"type":"polygon","density":0,"friction":0.3,"restitution":0,"sensor":0,"verticies":[{"x":-0.011886241824127952,"y":0.9097864905069041},{"x":0.9097864905069042,"y":-0.011886241824127786},{"x":0.011886241824127952,"y":-0.9097864905069041},{"x":-0.9097864905069042,"y":0.011886241824127786}]}
+]
+},
+{
+"item":"instance36856","position":{"x":3.9084418604651168,"y":1.3558139534883722}
+,"layer":"dropletHolder"
+  ,"friction":0.3
+  ,"tags":["isWall","gfx_isInvisible"]
+  ,"body":{"x":3.9084418604651168,"y":1.3558139534883722}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0,"m_I":0,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0
+    ,"shapes":[
+    {"type":"polygon","density":0,"friction":0.3,"restitution":0,"sensor":0,"verticies":[{"x":-3.906435944313227,"y":1.3723155176916788},{"x":3.906435944313227,"y":1.3723155176916788},{"x":3.906435944313227,"y":-1.3723155176916788},{"x":-3.906435944313227,"y":-1.3723155176916788}]}
+]
+},
+{
+"item":"plungerHandle","position":{"x":4.768767441860465,"y":3.236697674418605}
+,"layer":"dropletHolder"
+,"gfxHD":"049_plungerHandle_00.png"
+,"regHD":{"x":41.6,"y":70.1}
+,"anchorHD":{"x":0.5073170731707317,"y":0.29900000000000004}
+,"gfxSD":"049_plungerHandle_00.png"
+,"regSD":{"x":33.3,"y":47.6}
+,"anchorSD":{"x":0.5045454545454545,"y":0.3653333333333333}
+  ,"tags":["isPlungerHandle","fixedRotation","nonCollidingSet"]
+  ,"body":{"x":4.768767441860465,"y":3.236697674418604}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0.46952381828015144,"m_I":0,"localCenter":{"x":-0.006162790697674415,"y":0.3469651162790697}
+    ,"linearDamping":0,"angularDamping":0
+    ,"shapes":[
+    {"type":"polygon","density":1,"friction":0.3,"restitution":0,"sensor":0,"verticies":[{"x":-0.25513953488372093,"y":0.8184186046511629},{"x":0.2428139534883721,"y":0.8184186046511629},{"x":0.2428139534883721,"y":-0.12448837209302326},{"x":-0.25513953488372093,"y":-0.12448837209302326}]}
+]
+},
+{
+"item":"plungerBase","position":{"x":4.762604651162791,"y":3.0703023255813955}
+,"layer":"dropletHolder"
+,"gfxHD":"049_plungerBase_00.png"
+,"regHD":{"x":47.25,"y":45.75}
+,"anchorHD":{"x":0.49736842105263157,"y":0.49725274725274726}
+,"gfxSD":"049_plungerBase_00.png"
+,"regSD":{"x":36.15,"y":35.35}
+,"anchorSD":{"x":0.5020833333333333,"y":0.495}
+  ,"tags":["isPlungerBase","isStatic","nonCollidingSet"]
+  ,"body":{"x":4.762604651162791,"y":3.0703023255813964}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0,"m_I":0,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0
+    ,"shapes":[
+    {"type":"polygon","density":0,"friction":0.3,"restitution":0,"sensor":0,"verticies":[{"x":0.38209302325581396,"y":0.3574418604651163},{"x":0.38209302325581396,"y":-0.3574418604651163},{"x":-0.38209302325581396,"y":-0.3574418604651163},{"x":-0.38209302325581396,"y":0.3574418604651163}]}
+]
+},
+{
+"item":"instance36763","position":{"x":7.888372093023256,"y":10.887186046511628}
+,"layer":"dropletHolder"
+  ,"friction":0.3
+  ,"tags":["isWall","gfx_isInvisible"]
+  ,"body":{"x":7.888372093023256,"y":10.887186046511628}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0,"m_I":0,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0
+    ,"shapes":[
+    {"type":"polygon","density":0,"friction":0.3,"restitution":0,"sensor":0,"verticies":[{"x":-7.888571450876635,"y":0.944185123887173},{"x":7.888571450876635,"y":0.944185123887173},{"x":7.888571450876635,"y":-0.944185123887173},{"x":-7.888571450876635,"y":-0.944185123887173}]}
+]
+},
+{
+"item":"instance36765","position":{"x":-0.35990697674418604,"y":6.791395348837209}
+,"layer":"dropletHolder"
+  ,"friction":0.3
+  ,"tags":["isWall","gfx_isInvisible"]
+  ,"body":{"x":-0.35990697674418604,"y":6.791395348837209}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0,"m_I":0,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0
+    ,"shapes":[
+    {"type":"polygon","density":0,"friction":0.3,"restitution":0,"sensor":0,"verticies":[{"x":-0.3551578965297965,"y":4.688802674759266},{"x":0.3551578965297965,"y":4.688802674759266},{"x":0.3551578965297965,"y":-4.688802674759266},{"x":-0.3551578965297965,"y":-4.688802674759266}]}
+]
+},
+{
+"item":"instance36767","position":{"x":16.131720930232557,"y":6.791395348837209}
+,"layer":"dropletHolder"
+  ,"friction":0.3
+  ,"tags":["isWall","gfx_isInvisible"]
+  ,"body":{"x":16.131720930232557,"y":6.791395348837209}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0,"m_I":0,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0
+    ,"shapes":[
+    {"type":"polygon","density":0,"friction":0.3,"restitution":0,"sensor":0,"verticies":[{"x":-0.3551578965297965,"y":4.688802674759266},{"x":0.3551578965297965,"y":4.688802674759266},{"x":0.3551578965297965,"y":-4.688802674759266},{"x":-0.3551578965297965,"y":-4.688802674759266}]}
+]
+},
+{
+"item":"instance36858","position":{"x":3.718627906976744,"y":7.013255813953489}
+,"layer":"dropletHolder"
+  ,"friction":0.3
+  ,"tags":["isWall","gfx_isInvisible"]
+  ,"body":{"x":3.718627906976744,"y":7.013255813953489}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0,"m_I":0,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0
+    ,"shapes":[
+    {"type":"polygon","density":0,"friction":0.3,"restitution":0,"sensor":0,"verticies":[{"x":-3.71099001862282,"y":0.2748505348382994},{"x":3.71099001862282,"y":0.2748505348382994},{"x":3.71099001862282,"y":-0.2748505348382994},{"x":-3.71099001862282,"y":-0.2748505348382994}]}
+]
+},
+{
+"item":"instance36860","position":{"x":10.229,"y":6.6126744186046515}
+,"layer":"dropletHolder"
+  ,"friction":0.3
+  ,"tags":["isWall","gfx_isInvisible"]
+  ,"body":{"x":10.229,"y":6.6126744186046515}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0,"m_I":0,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0
+    ,"shapes":[
+    {"type":"polygon","density":0,"friction":0.3,"restitution":0,"sensor":0,"verticies":[{"x":-0.32066522642623546,"y":0.16394362338753635},{"x":0.32066522642623546,"y":0.16394362338753635},{"x":0.32066522642623546,"y":-0.16394362338753635},{"x":-0.32066522642623546,"y":-0.16394362338753635}]}
+]
+},
+{
+"item":"instance36862","position":{"x":13.099627906976744,"y":7.153767441860465}
+,"layer":"dropletHolder"
+  ,"friction":0.3
+  ,"tags":["isWall","gfx_isInvisible"]
+  ,"body":{"x":13.099627906976744,"y":7.153767441860465}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0,"m_I":0,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0
+    ,"shapes":[
+    {"type":"polygon","density":0,"friction":0.3,"restitution":0,"sensor":0,"verticies":[{"x":-0.11113259958666424,"y":1.8872982291288154},{"x":0.11113259958666424,"y":1.8872982291288154},{"x":0.11113259958666424,"y":-1.8872982291288154},{"x":-0.11113259958666424,"y":-1.8872982291288154}]}
+]
+},
+{
+"item":"instance36864","position":{"x":9.772953488372092,"y":8.201441860465117}
+,"layer":"dropletHolder"
+  ,"friction":0.3
+  ,"tags":["isWall","gfx_isInvisible"]
+  ,"body":{"x":9.772953488372092,"y":8.201441860465117}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0,"m_I":0,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0
+    ,"shapes":[
+    {"type":"polygon","density":0,"friction":0.3,"restitution":0,"sensor":0,"verticies":[{"x":-0.1353000374727471,"y":1.754744063976199},{"x":0.1353000374727471,"y":1.754744063976199},{"x":0.1353000374727471,"y":-1.754744063976199},{"x":-0.1353000374727471,"y":-1.754744063976199}]}
+]
+},
+{
+"item":"physicsUnbouncyBall","position":{"x":10.256116279069769,"y":6.979976744186046}
+,"layer":"dropletHolder"
+,"gfxHD":"049_physicsUnbouncyBall_00.png"
+,"regHD":{"x":37.65,"y":37.65}
+,"anchorHD":{"x":0.502,"y":0.498}
+,"gfxSD":"049_physicsUnbouncyBall_00.png"
+,"regSD":{"x":31.3,"y":31.3}
+,"anchorSD":{"x":0.5048387096774194,"y":0.4951612903225806}
+  ,"tags":["isNotBouncy","isBall","isFootball","soundFootball"]
+  ,"body":{"x":10.256116279069769,"y":6.979976744186047}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0.15289766875000937,"m_I":0.0037206760530323177,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0
+    ,"shapes":[
+    {"type":"circle","density":1,"friction":0.3,"restitution":0,"sensor":0,"r":0.22061015284338664,"position":{"x":0,"y":0}}
+]
+},
+{
+"item":"instance36868","position":{"x":13.998162790697675,"y":7.994372093023256}
+,"layer":"dropletHolder"
+  ,"friction":0.3
+  ,"tags":["isWall","gfx_isInvisible"]
+  ,"body":{"x":13.998162790697675,"y":7.994372093023256}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0,"m_I":0,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0
+    ,"shapes":[
+    {"type":"polygon","density":0,"friction":0.3,"restitution":0,"sensor":0,"verticies":[{"x":-0.17297114882358286,"y":1.9886322021484375},{"x":0.17297114882358286,"y":1.9886322021484375},{"x":0.17297114882358286,"y":-1.9886322021484375},{"x":-0.17297114882358286,"y":-1.9886322021484375}]}
+]
+},
+{
+"item":"instance36870","position":{"x":2.0608372093023255,"y":3.2132790697674425}
+,"layer":"dropletHolder"
+  ,"friction":0.3
+  ,"tags":["isWall","gfx_isInvisible"]
+  ,"body":{"x":2.0608372093023255,"y":3.2132790697674416}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0,"m_I":0,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0
+    ,"shapes":[
+    {"type":"polygon","density":0,"friction":0.3,"restitution":0,"sensor":0,"verticies":[{"x":-2.0456936858421146,"y":0.48517307015352473},{"x":2.0456936858421146,"y":0.48517307015352473},{"x":2.0456936858421146,"y":-0.48517307015352473},{"x":-2.0456936858421146,"y":-0.48517307015352473}]}
+]
+},
+{
+"item":"instance36872","position":{"x":13.692488372093024,"y":5.864511627906977}
+,"layer":"dropletHolder"
+  ,"friction":0.3
+  ,"tags":["isWall","gfx_isInvisible"]
+  ,"body":{"x":13.692488372093024,"y":5.864511627906976}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0,"m_I":0,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0
+    ,"shapes":[
+    {"type":"polygon","density":0,"friction":0.3,"restitution":0,"sensor":0,"verticies":[{"x":-0.48079095884811046,"y":0.140584901321766},{"x":0.48079095884811046,"y":0.140584901321766},{"x":0.48079095884811046,"y":-0.140584901321766},{"x":-0.48079095884811046,"y":-0.140584901321766}]}
+]
+},
+{
+"item":"physicsBox_plank_welded","position":{"x":10.671488372093023,"y":3.3513255813953484,"degrees":-0.7789154052734375}
+,"spriteRotationOffset":-0.7789154052734375
+,"layer":"dropletHolder"
+,"gfxHD":"049_physicsBox_plank_welded_00.png"
+,"regHD":{"x":34.5,"y":65.05}
+,"anchorHD":{"x":0.5,"y":0.4796}
+,"gfxSD":"049_physicsBox_plank_welded_00.png"
+,"regSD":{"x":29.75,"y":45}
+,"anchorSD":{"x":0.5042372881355932,"y":0.48275862068965514}
+  ,"restitution":0.2
+  ,"tags":["isBox","welded"]
+  ,"body":{"x":10.671488372093023,"y":3.351325581395349}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0,"m_I":0,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0.5
+    ,"shapes":[
+    {"type":"polygon","density":1,"friction":0.3,"restitution":0.2,"sensor":0,"verticies":[{"x":-0.11466705192527255,"y":0.6256638424080402},{"x":0.1316339218729554,"y":0.6223152634367654},{"x":0.11466705192527255,"y":-0.6256638424080402},{"x":-0.1316339218729554,"y":-0.6223152634367654}]}
+]
+},
+{
+"item":"physicsBox_plank_welded","position":{"x":10.691209302325582,"y":4.609767441860465,"degrees":179.22108459472656}
+,"spriteRotationOffset":179.22108459472656
+,"layer":"dropletHolder"
+,"gfxHD":"049_physicsBox_plank_welded_01.png"
+,"regHD":{"x":34.5,"y":65.05}
+,"anchorHD":{"x":0.5,"y":0.4796}
+,"gfxSD":"049_physicsBox_plank_welded_01.png"
+,"regSD":{"x":29.75,"y":45}
+,"anchorSD":{"x":0.5042372881355932,"y":0.48275862068965514}
+  ,"restitution":0.2
+  ,"tags":["isBox","welded"]
+  ,"body":{"x":10.691209302325582,"y":4.609767441860465}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0,"m_I":0,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0.5
+    ,"shapes":[
+    {"type":"polygon","density":1,"friction":0.3,"restitution":0.2,"sensor":0,"verticies":[{"x":0.11466730757303742,"y":-0.6256450385231677},{"x":-0.13163366622519052,"y":-0.6222964595518928},{"x":-0.11466730757303742,"y":0.6256450385231677},{"x":0.13163366622519052,"y":0.6222964595518928}]}
+]
+},
+{
+"item":"instance36878","position":{"x":0.7161162790697675,"y":8.622976744186047}
+,"layer":"dropletHolder"
+  ,"friction":0.3
+  ,"tags":["isWall","gfx_isInvisible"]
+  ,"body":{"x":0.7161162790697675,"y":8.622976744186047}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0,"m_I":0,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0
+    ,"shapes":[
+    {"type":"polygon","density":0,"friction":0.3,"restitution":0,"sensor":0,"verticies":[{"x":-0.7021722128224928,"y":1.334550369617551},{"x":0.7021722128224928,"y":1.334550369617551},{"x":0.7021722128224928,"y":-1.334550369617551},{"x":-0.7021722128224928,"y":-1.334550369617551}]}
+]
+},
+{
+"item":"instance36880","position":{"x":12.707674418604652,"y":1.3188372093023255}
+,"layer":"dropletHolder"
+  ,"friction":0.3
+  ,"tags":["isWall","gfx_isInvisible"]
+  ,"body":{"x":12.707674418604652,"y":1.318837209302325}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0,"m_I":0,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0
+    ,"shapes":[
+    {"type":"polygon","density":0,"friction":0.3,"restitution":0,"sensor":0,"verticies":[{"x":-3.0687191985374276,"y":1.3352462413699129},{"x":3.0687191985374276,"y":1.3352462413699129},{"x":3.0687191985374276,"y":-1.3352462413699129},{"x":-3.0687191985374276,"y":-1.3352462413699129}]}
+]
+},
+{
+"item":"instance36882","position":{"x":8.74253488372093,"y":1.2337906976744188}
+,"layer":"dropletHolder"
+  ,"friction":0.3
+  ,"tags":["isWall","gfx_isInvisible"]
+  ,"body":{"x":8.74253488372093,"y":1.2337906976744186}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0,"m_I":0,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0
+    ,"shapes":[
+    {"type":"polygon","density":0,"friction":0.3,"restitution":0,"sensor":0,"verticies":[{"x":-0.9123819040697675,"y":1.2318246530932049},{"x":0.9123819040697675,"y":1.2318246530932049},{"x":0.9123819040697675,"y":-1.2318246530932049},{"x":-0.9123819040697675,"y":-1.2318246530932049}]}
+]
+},
+{
+"item":"instance36884","position":{"x":2.260511627906977,"y":7.464372093023256}
+,"layer":"dropletHolder"
+  ,"friction":0.3
+  ,"tags":["isWall","gfx_isInvisible"]
+  ,"body":{"x":2.260511627906977,"y":7.464372093023256}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0,"m_I":0,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0
+    ,"shapes":[
+    {"type":"polygon","density":0,"friction":0.3,"restitution":0,"sensor":0,"verticies":[{"x":-0.847402528274891,"y":0.17620601210483286},{"x":0.847402528274891,"y":0.17620601210483286},{"x":0.847402528274891,"y":-0.17620601210483286},{"x":-0.847402528274891,"y":-0.17620601210483286}]}
+]
+},
+{
+"item":"physicsBox_tnt","position":{"x":3.5855116279069765,"y":7.7158139534883725}
+,"layer":"dropletHolder"
+,"gfxHD":"049_physicsBox_tnt_00.png"
+,"regHD":{"x":49.55,"y":51.15}
+,"anchorHD":{"x":0.5005050505050505,"y":0.49356435643564356}
+,"gfxSD":"049_physicsBox_tnt_00.png"
+,"regSD":{"x":37.3,"y":38.1}
+,"anchorSD":{"x":0.504054054054054,"y":0.49868421052631573}
+  ,"buoyancy":4
+  ,"explosivepower":15
+  ,"tags":["isBox","soundBox"]
+  ,"floatPoints":[{"x":-1.0895813953488374,"y":-1.0119302325581394},{"x":1.0747906976744186,"y":-1.0119302325581394},{"x":-1.0895813953488374,"y":1.048906976744186},{"x":1.0747906976744186,"y":1.048906976744186}]
+  ,"body":{"x":3.5855116279069765,"y":7.7158139534883725}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0.7443688441780153,"m_I":0.09234749603048574,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0.5
+    ,"shapes":[
+    {"type":"polygon","density":1,"friction":0.3,"restitution":0,"sensor":0,"verticies":[{"x":-0.43138406443041427,"y":0.43138406443041427},{"x":0.43138406443041427,"y":0.43138406443041427},{"x":0.43138406443041427,"y":-0.43138406443041427},{"x":-0.43138406443041427,"y":-0.43138406443041427}]}
+]
+},
+{
+"item":"physicsBox_tnt","position":{"x":10.092186046511628,"y":3.1553488372093024}
+,"layer":"dropletHolder"
+,"gfxHD":"049_physicsBox_tnt_01.png"
+,"regHD":{"x":49.55,"y":51.15}
+,"anchorHD":{"x":0.5005050505050505,"y":0.49356435643564356}
+,"gfxSD":"049_physicsBox_tnt_01.png"
+,"regSD":{"x":37.3,"y":38.1}
+,"anchorSD":{"x":0.504054054054054,"y":0.49868421052631573}
+  ,"buoyancy":4
+  ,"explosivepower":15
+  ,"tags":["isBox","soundBox"]
+  ,"floatPoints":[{"x":-1.0895813953488374,"y":-1.0119302325581394},{"x":1.0747906976744186,"y":-1.0119302325581394},{"x":-1.0895813953488374,"y":1.048906976744186},{"x":1.0747906976744186,"y":1.048906976744186}]
+  ,"body":{"x":10.092186046511628,"y":3.155348837209303}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0.7443688441780153,"m_I":0.09234749603048574,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0.5
+    ,"shapes":[
+    {"type":"polygon","density":1,"friction":0.3,"restitution":0,"sensor":0,"verticies":[{"x":-0.43138406443041427,"y":0.43138406443041427},{"x":0.43138406443041427,"y":0.43138406443041427},{"x":0.43138406443041427,"y":-0.43138406443041427},{"x":-0.43138406443041427,"y":-0.43138406443041427}]}
+]
+},
+{
+"item":"physicsBox_tnt","position":{"x":7.134046511627907,"y":3.163976744186047}
+,"layer":"dropletHolder"
+,"gfxHD":"049_physicsBox_tnt_02.png"
+,"regHD":{"x":49.55,"y":51.15}
+,"anchorHD":{"x":0.5005050505050505,"y":0.49356435643564356}
+,"gfxSD":"049_physicsBox_tnt_02.png"
+,"regSD":{"x":37.3,"y":38.1}
+,"anchorSD":{"x":0.504054054054054,"y":0.49868421052631573}
+  ,"buoyancy":4
+  ,"explosivepower":15
+  ,"tags":["isBox","soundBox"]
+  ,"floatPoints":[{"x":-1.0895813953488374,"y":-1.0119302325581394},{"x":1.0747906976744186,"y":-1.0119302325581394},{"x":-1.0895813953488374,"y":1.048906976744186},{"x":1.0747906976744186,"y":1.048906976744186}]
+  ,"body":{"x":7.134046511627907,"y":3.163976744186048}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0.7443688441780153,"m_I":0.09234749603048574,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0.5
+    ,"shapes":[
+    {"type":"polygon","density":1,"friction":0.3,"restitution":0,"sensor":0,"verticies":[{"x":-0.43138406443041427,"y":0.43138406443041427},{"x":0.43138406443041427,"y":0.43138406443041427},{"x":0.43138406443041427,"y":-0.43138406443041427},{"x":-0.43138406443041427,"y":-0.43138406443041427}]}
+]
+},
+{
+"item":"physicsBox_tnt","position":{"x":5.9766744186046505,"y":7.74046511627907}
+,"layer":"dropletHolder"
+,"gfxHD":"049_physicsBox_tnt_03.png"
+,"regHD":{"x":49.55,"y":51.15}
+,"anchorHD":{"x":0.5005050505050505,"y":0.49356435643564356}
+,"gfxSD":"049_physicsBox_tnt_03.png"
+,"regSD":{"x":37.3,"y":38.1}
+,"anchorSD":{"x":0.504054054054054,"y":0.49868421052631573}
+  ,"buoyancy":4
+  ,"explosivepower":15
+  ,"tags":["isBox","soundBox"]
+  ,"floatPoints":[{"x":-1.0895813953488374,"y":-1.0119302325581394},{"x":1.0747906976744186,"y":-1.0119302325581394},{"x":-1.0895813953488374,"y":1.048906976744186},{"x":1.0747906976744186,"y":1.048906976744186}]
+  ,"body":{"x":5.9766744186046505,"y":7.740465116279069}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0.7443688441780153,"m_I":0.09234749603048574,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0.5
+    ,"shapes":[
+    {"type":"polygon","density":1,"friction":0.3,"restitution":0,"sensor":0,"verticies":[{"x":-0.43138406443041427,"y":0.43138406443041427},{"x":0.43138406443041427,"y":0.43138406443041427},{"x":0.43138406443041427,"y":-0.43138406443041427},{"x":-0.43138406443041427,"y":-0.43138406443041427}]}
+]
+},
+{
+"item":"instance36886","position":{"x":11.460325581395349,"y":7.153767441860465}
+,"layer":"dropletHolder"
+  ,"friction":0.3
+  ,"tags":["isWall","gfx_isInvisible"]
+  ,"body":{"x":11.460325581395349,"y":7.153767441860465}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0,"m_I":0,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0
+    ,"shapes":[
+    {"type":"polygon","density":0,"friction":0.3,"restitution":0,"sensor":0,"verticies":[{"x":-0.9117612616960392,"y":1.8895739178324855},{"x":0.9117612616960392,"y":1.8895739178324855},{"x":0.9117612616960392,"y":-1.8895739178324855},{"x":-0.9117612616960392,"y":-1.8895739178324855}]}
+]
+},
+{
+"item":"instance36888","position":{"x":12.680558139534883,"y":8.42946511627907}
+,"layer":"dropletHolder"
+  ,"friction":0.3
+  ,"tags":["isWall","gfx_isInvisible"]
+  ,"body":{"x":12.680558139534883,"y":8.429465116279069}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0,"m_I":0,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0
+    ,"shapes":[
+    {"type":"polygon","density":0,"friction":0.3,"restitution":0,"sensor":0,"verticies":[{"x":-0.3080078834711119,"y":0.6112198940543241},{"x":0.3080078834711119,"y":0.6112198940543241},{"x":0.3080078834711119,"y":-0.6112198940543241},{"x":-0.3080078834711119,"y":-0.6112198940543241}]}
+]
+},
+{
+"item":"door","position":{"x":12.699046511627907,"y":3.904744186046511}
+,"layer":"dropletHolder"
+,"gfxHD":"049_door_00.png"
+,"regHD":{"x":38.3,"y":94.65}
+,"anchorHD":{"x":0.5039473684210526,"y":0.4938502673796791}
+,"gfxSD":"049_door_00.png"
+,"regSD":{"x":31.7,"y":59.85}
+,"anchorSD":{"x":0.5031746031746032,"y":0.4927966101694915}
+  ,"sliderpower":600
+  ,"sliderspeed":100
+  ,"tags":["isBox","isDoor","hasSlider","fixedRotation"]
+  ,"body":{"x":12.699046511627907,"y":3.9047441860465106}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0.9279876263351812,"m_I":0,"localCenter":{"x":0,"y":0}
+    ,"linearDamping":0,"angularDamping":0.5
+    ,"shapes":[
+    {"type":"polygon","density":1,"friction":0.3,"restitution":0,"sensor":0,"verticies":[{"x":-0.18822390534156977,"y":1.2325581395348837},{"x":0.18822390534156977,"y":1.2325581395348837},{"x":0.18822390534156977,"y":-1.2325581395348837},{"x":-0.18822390534156977,"y":-1.2325581395348837}]}
+]
+},
+{
+"item":"lift","position":{"x":8.770883720930232,"y":7.977116279069768}
+,"layer":"dropletHolder"
+,"gfxHD":"049_lift_00.png"
+,"regHD":{"x":71.65,"y":646.75}
+,"anchorHD":{"x":0.3980555555555556,"y":0.1091597796143251}
+,"gfxSD":"049_lift_00.png"
+,"regSD":{"x":48.35,"y":335.85}
+,"anchorSD":{"x":0.42043478260869566,"y":0.13440721649484533}
+  ,"sliderpower":450
+  ,"sliderspeed":15
+  ,"tags":["fixedRotation","isBullet","isLift","hasSlider","noMouse"]
+  ,"body":{"x":8.770883720930232,"y":7.977116279069767}
+    ,"velocity":{"x":0,"y":0},"angularVelocity":0
+    ,"mass":0.6093509464575447,"m_I":0,"localCenter":{"x":0.000616279069767518,"y":-0.0006162790697670582}
+    ,"linearDamping":0,"angularDamping":0
+    ,"shapes":[
+    {"type":"polygon","density":1,"friction":0.3,"restitution":0,"sensor":0,"verticies":[{"x":0.8245813953488373,"y":-0.8073255813953488},{"x":0.8245813953488373,"y":-0.9922093023255814},{"x":-0.8233488372093023,"y":-0.9922093023255814},{"x":-0.8233488372093023,"y":-0.8073255813953488}]}
+,
+    {"type":"polygon","density":1,"friction":0.3,"restitution":0,"sensor":0,"verticies":[{"x":0.8245813953488373,"y":0.9909767441860466},{"x":0.8245813953488373,"y":0.806093023255814},{"x":-0.8233488372093023,"y":0.806093023255814},{"x":-0.8233488372093023,"y":0.9909767441860466}]}
+]
+},
+{
+"item":"fgHolder","position":{"x":0,"y":11.832558139534884}
+,"layer":"fgHolder"
+},
+{
+"item":"hrHolder","position":{"x":0,"y":11.832558139534884}
+,"layer":"hrHolder"
+},
+{
+"item":"plungerFuse","position":{"x":5.060883720930233,"y":3.1873953488372098}
+,"layer":"hrHolder"
+,"gfxHD":"049_plungerFuse_00.png"
+,"regHD":{"x":25.7,"y":18}
+,"anchorHD":{"x":0.07835365853658537,"y":0.8200000000000001}
+,"gfxSD":"049_plungerFuse_00.png"
+,"regSD":{"x":25.3,"y":21.5}
+,"anchorSD":{"x":0.13386243386243388,"y":0.7133333333333334}
+  ,"tags":["isFuse"]
+},
+{
+"item":"goal","position":{"x":12.939395348837209,"y":5.546511627906977}
+,"layer":"hrHolder"
+  ,"goal":{"w":2.8693953488372097,"h":3.340232558139535}
+},
+{
+"item":"hints","position":{"x":0,"y":11.832558139534884}
+,"layer":"hints"
+},
+{
+"item":"bubbleHolder","position":{"x":0,"y":11.832558139534884}
+,"layer":"bubbleHolder"
+},
+{
+"item":"particleHolder","position":{"x":0,"y":11.832558139534884}
+,"layer":"particleHolder"
+},
+{
+"item":"highlight","position":{"x":-1.0858837209302326,"y":12.297232558139536}
+,"layer":"highlight"
+},
+{
+"item":"effectsHolder","position":{"x":0,"y":11.832558139534884}
+,"layer":"effectsHolder"
+},
+"null"],
+"joints":[
+{
+"itemA":"world","itemB":"lift"
+  ,"anchor1": {"x":8.7715,"y":7.9765}
+  ,"anchor2": {"x":8.7715,"y":7.9765}
+  ,"type":"prismatic"
+  ,"axis":{"x":0,"y":1}
+  ,"motorspeed":1.5
+  ,"motorforce":45
+},
+{
+"itemA":"world","itemB":"door"
+  ,"anchor1": {"x":12.699046511627907,"y":3.9047441860465106}
+  ,"anchor2": {"x":12.699046511627907,"y":3.9047441860465106}
+  ,"type":"prismatic"
+  ,"axis":{"x":0,"y":-1}
+  ,"motorspeed":10
+  ,"motorforce":60
+},
+{
+"itemA":"plungerHandle","itemB":"world"
+  ,"anchor1": {"x":4.762604651162791,"y":3.583662790697673}
+  ,"anchor2": {"x":4.762604651162791,"y":3.583662790697673}
+  ,"type":"prismatic"
+  ,"axis":{"x":0,"y":1}
+  ,"limitLow":0,"limitHigh":-2
+  ,"motorspeed":-2
+  ,"motorforce":8
+}
+]
+,"hints":[
+[
+{
+"item":"h332","position":{"x":10.75406976744186,"y":3.7851860465116283,"degrees":7.2549591064453125}
+,"textwidth":"3.253953488372093","textheight":1.101906976744186
+,"width":"3.483209302325582","height":1.6183488372093024
+,"color":"16777215"
+,"text":"You'll need a way to\npress that switch"
+,"font":"GoodDog Plain"
+,"align":"center"
+,"leading":"2"
+,"size":"22"
+},
+{
+"item":"hintDraw9","position":{"x":9.839511627906976,"y":4.24,"degrees":5.80181884765625}
+,"scaleX":0.999658672210795,"scaleY":0.999658672210795
+,"layer":"hints"
+,"tx":"(a=0.994537353515625, b=-0.1010589599609375, c=0.1010589599609375, d=0.994537353515625, tx=399.15, ty=308)"
+,"gfxHD":"hintDraw9.png"
+,"regHD":{"x":26.2,"y":26.35}
+,"anchorHD":{"x":0.07660818713450292,"y":0.8494285714285714}
+,"gfxSD":"hintDraw9.png"
+,"regSD":{"x":25.6,"y":25.65}
+,"anchorSD":{"x":0.1306122448979592,"y":0.7709821428571428}
+},
+"null"],
+[
+{
+"item":"hintDraw9","position":{"x":7.104465116279069,"y":6.144302325581395}
+,"scaleX":1,"scaleY":1
+,"layer":"hints"
+,"tx":"(a=1, b=0, c=0, d=1, tx=288.2, ty=230.75)"
+,"gfxHD":"hintDraw9.png"
+,"regHD":{"x":26.2,"y":26.35}
+,"anchorHD":{"x":0.07660818713450292,"y":0.8494285714285714}
+,"gfxSD":"hintDraw9.png"
+,"regSD":{"x":25.6,"y":25.65}
+,"anchorSD":{"x":0.1306122448979592,"y":0.7709821428571428}
+},
+{
+"item":"h333","position":{"x":7.994372093023256,"y":5.659906976744186,"degrees":-2.905303955078125}
+,"textwidth":"3.571953488372093","textheight":1.101906976744186
+,"width":"3.7284883720930235","height":1.3866279069767442
+,"color":"16777215"
+,"text":"Maybe this ball could\nget to the switch"
+,"font":"GoodDog Plain"
+,"align":"center"
+,"leading":"2"
+,"size":"22"
+},
+"null"],
+[
+{
+"item":"hintArrow4","position":{"x":10.654232558139535,"y":4.4088604651162795,"degrees":-170.03372192382813}
+,"scaleX":0.9997052405774423,"scaleY":0.9997052405774423
+,"layer":"hints"
+,"tx":"(a=-0.984619140625, b=0.1730194091796875, c=-0.1730194091796875, d=-0.984619140625, tx=432.2, ty=301.15)"
+,"gfxHD":"hintArrow4.png"
+,"regHD":{"x":26.35,"y":26.2}
+,"anchorHD":{"x":0.3253086419753087,"y":0.8128571428571428}
+,"gfxSD":"hintArrow4.png"
+,"regSD":{"x":25.65,"y":25.6}
+,"anchorSD":{"x":0.3946153846153846,"y":0.7305263157894737}
+},
+{
+"item":"h334","position":{"x":5.116348837209303,"y":5.9963953488372095,"degrees":1.9654541015625}
+,"textwidth":"3.6865813953488376","textheight":1.101906976744186
+,"width":"3.8295581395348837","height":1.3336279069767443
+,"color":"16777215"
+,"text":"The ball will need a\nbig kick from the TNT"
+,"font":"GoodDog Plain"
+,"align":"center"
+,"leading":"2"
+,"size":"22"
+},
+"null"],
+[
+{
+"item":"hintTNT","position":{"x":9.664488372093023,"y":3.5399069767441866}
+,"scaleX":1,"scaleY":1
+,"layer":"hints"
+,"tx":"(a=1, b=0, c=0, d=1, tx=392.05, ty=336.4)"
+,"gfxHD":"hintTNT.png"
+,"regHD":{"x":26.35,"y":25.75}
+,"anchorHD":{"x":0.2558252427184466,"y":0.7372448979591837}
+,"gfxSD":"hintTNT.png"
+,"regSD":{"x":25.65,"y":25.35}
+,"anchorSD":{"x":0.33749999999999997,"y":0.6574324324324324}
+},
+{
+"item":"hintTNT","position":{"x":9.664488372093023,"y":4.452000000000001}
+,"scaleX":1,"scaleY":1
+,"layer":"hints"
+,"tx":"(a=1, b=0, c=0, d=1, tx=392.05, ty=299.4)"
+,"gfxHD":"hintTNT.png"
+,"regHD":{"x":26.35,"y":25.75}
+,"anchorHD":{"x":0.2558252427184466,"y":0.7372448979591837}
+,"gfxSD":"hintTNT.png"
+,"regSD":{"x":25.65,"y":25.35}
+,"anchorSD":{"x":0.33749999999999997,"y":0.6574324324324324}
+},
+{
+"item":"hintTNT","position":{"x":9.664488372093023,"y":5.339441860465117}
+,"scaleX":1,"scaleY":1
+,"layer":"hints"
+,"tx":"(a=1, b=0, c=0, d=1, tx=392.05, ty=263.4)"
+,"gfxHD":"hintTNT.png"
+,"regHD":{"x":26.35,"y":25.75}
+,"anchorHD":{"x":0.2558252427184466,"y":0.7372448979591837}
+,"gfxSD":"hintTNT.png"
+,"regSD":{"x":25.65,"y":25.35}
+,"anchorSD":{"x":0.33749999999999997,"y":0.6574324324324324}
+},
+{
+"item":"hintTNT","position":{"x":9.664488372093023,"y":6.251534883720931}
+,"scaleX":1,"scaleY":1
+,"layer":"hints"
+,"tx":"(a=1, b=0, c=0, d=1, tx=392.05, ty=226.4)"
+,"gfxHD":"hintTNT.png"
+,"regHD":{"x":26.35,"y":25.75}
+,"anchorHD":{"x":0.2558252427184466,"y":0.7372448979591837}
+,"gfxSD":"hintTNT.png"
+,"regSD":{"x":25.65,"y":25.35}
+,"anchorSD":{"x":0.33749999999999997,"y":0.6574324324324324}
+},
+{
+"item":"h335","position":{"x":4.5851162790697675,"y":5.630325581395349,"degrees":7.34613037109375}
+,"textwidth":"4.116744186046511","textheight":1.101906976744186
+,"width":"4.327511627906977","height":1.728046511627907
+,"color":"16777215"
+,"text":"Pile up the TNT to get it\nto push the ball hard"
+,"font":"GoodDog Plain"
+,"align":"center"
+,"leading":"2"
+,"size":"22"
+},
+"null"],
+[
+{
+"item":"h336","position":{"x":3.9713023255813953,"y":5.902720930232558,"degrees":9.648788452148438}
+,"textwidth":"3.2527209302325577","textheight":1.101906976744186
+,"width":"3.5090930232558137","height":1.7477674418604652
+,"color":"16777215"
+,"text":"Use the lift to help\nstack the TNT"
+,"font":"GoodDog Plain"
+,"align":"center"
+,"leading":"2"
+,"size":"22"
+},
+"null"],
+"null"]
+}

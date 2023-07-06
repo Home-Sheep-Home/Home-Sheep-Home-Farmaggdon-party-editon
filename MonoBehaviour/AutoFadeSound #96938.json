@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5898932478549609677
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 843940964747876783
+  },
+  "m_Name": "",
+  "audioString": "forcefieldhumloop",
+  "listeners": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6193646714961416517
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 345080608812606926
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9169410035578861608
+    }
+  ],
+  "maxDistance": 20.0,
+  "maxVolume": 0.5,
+  "initialDelay": 0.0,
+  "persistent": 1
+}
